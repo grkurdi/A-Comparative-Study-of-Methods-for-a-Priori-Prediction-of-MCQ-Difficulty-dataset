@@ -1,0 +1,1389 @@
+studentId,questionId,score,selectedAnswer
+cardio1,-1024589212,1,cardiac tamponade
+cardio1,-1074784610,1,aortic dissection
+cardio1,-1154198561,2,"[asthma, tuberculosis, bronchiectasis, bronchitis]"
+cardio1,-1178650343,1,abdominal aortic aneurysm
+cardio1,-1227921966,1,chronic pancreatitis
+cardio1,-1245415419,1,Chronic suppurative otitis media
+cardio1,-1296951291,2,"[cystic fibrosis, bronchiectasis, lung carcinoma, tuberculosis, bronchitis]"
+cardio1,-131664545,0,irritability
+cardio1,-1332818599,1,avian influenza
+cardio1,-1352072290,2,"[tuberculosis, lung carcinoma, cystic fibrosis, bronchiectasis]"
+cardio1,-1360782023,0,Cushing syndrome
+cardio1,-1386524416,1,chronic pancreatitis
+cardio1,-1398748014,1,dermatomyositis
+cardio1,-1494163958,1,Brugada syndrome
+cardio1,-1496201995,0,atrioventricular nodal re-entry tachycardia
+cardio1,-1516723926,1,stroke
+cardio1,-1520310312,1,heart failure
+cardio1,-1532351578,0,end stage renal disease
+cardio1,-1567020152,2,"[Behçet syndrome, ulcerative colitis, Crohn disease, herpes simplex infection]"
+cardio1,-157174867,1,acute coronary syndrome
+cardio1,-1577639686,1,abdominal pain
+cardio1,-1597385599,1,malignant hyperthermia
+cardio1,-1619489304,2,"[cystic fibrosis, tuberculosis, bronchiectasis]"
+cardio1,-1636317005,1,certolizumab
+cardio1,-1648484617,0,bacterial meningitis in adult
+cardio1,-1652628864,1,aortic valve stenosis
+cardio1,-1666034507,1,atrioventricular nodal re-entry tachycardia
+cardio1,-171924202,0,selegiline
+cardio1,-1724628828,1,heart failure
+cardio1,-1726577036,0,botulism
+cardio1,-1727724244,1,pulmonary hypertension
+cardio1,-1731922134,1,alteplase
+cardio1,-1741358200,2,"[neoplasm metastasis, malignant lymphoma, Crohn disease, extrapulmonary tuberculosis]"
+cardio1,-1744722716,2,"[erythema multiforme, herpes simplex infection, gonorrhea, hand foot and mouth disease]"
+cardio1,-1772718435,1,pharyngitis
+cardio1,-1785165127,1,dyspnea
+cardio1,-179437985,1,megaloblastic anemia due to folate deficiency
+cardio1,-1828307427,1,end stage renal disease
+cardio1,-1830064399,1,pulmonary hypertension
+cardio1,-1844940382,2,"[Crohn disease, ulcerative colitis, Behçet syndrome]"
+cardio1,-184723155,2,"[pulmonary embolism, acute coronary syndrome, dissecting aortic aneurysm]"
+cardio1,-1856866015,0,Cushing syndrome
+cardio1,-187305279,1,"[bronchitis, bronchiectasis, idiopathic pulmonary fibrosis]"
+cardio1,-1921063903,1,chronic pancreatitis
+cardio1,-1975663834,1,"[Takotsubo cardiomyopathy, pulmonary embolism]"
+cardio1,-200000447,1,atrial fibrillation
+cardio1,-2002273997,0,eosinophilic esophagitis
+cardio1,-2035787841,1,alpha 1-antitrypsin deficiency
+cardio1,-2036982507,1,mifepristone
+cardio1,-2095091475,0,adult acute diarrhea
+cardio1,-2115138625,1,cortisone
+cardio1,-228503150,1,altitude sickness
+cardio1,-234272527,0,abnormal urine color
+cardio1,-244092518,1,hypertension
+cardio1,-297867117,1,sildenafil
+cardio1,-306219145,2,"[pulmonary embolism, acute coronary syndrome]"
+cardio1,-406621636,1,mumps
+cardio1,-425916557,0,hoarseness
+cardio1,-429622515,0,dopamine
+cardio1,-436725357,1,tachypnea
+cardio1,-489629583,1,medulloblastoma
+cardio1,-497532123,1,Hashimoto disease
+cardio1,-515543363,1,sepsis
+cardio1,-570295292,2,"[viral meningitis, influenza, West Nile virus disease, bacterial meningitis]"
+cardio1,-576250201,1,end stage renal disease
+cardio1,-614797382,1,fluoroquinolone
+cardio1,-655529301,0,major depressive disorder
+cardio1,-664126766,1,megaloblastic anemia due to folate deficiency
+cardio1,-688062151,1,pneumococcal meningitis
+cardio1,-708064003,0,history of connective tissue disorder
+cardio1,-763460814,2,"[pulmonary embolism, acute coronary syndrome, Takotsubo cardiomyopathy, dissecting aortic aneurysm, pericarditis]"
+cardio1,-767613947,1,stroke
+cardio1,-777960901,1,abnormal cardiac conduction
+cardio1,-853603256,0,tenesmus
+cardio1,-859144982,1,tetralogy of Fallot
+cardio1,-859477240,1,Reye syndrome
+cardio1,-896594432,1,aortic dissection
+cardio1,-904922175,1,omeprazole
+cardio1,-951273271,1,heart failure
+cardio1,-962837059,1,cardiac tamponade
+cardio1,-96890651,2,"[dissecting aortic aneurysm, acute coronary syndrome, pulmonary embolism, Takotsubo cardiomyopathy]"
+cardio1,-976885592,0,visilizumab
+cardio1,1002647121,0,rectal bleeding
+cardio1,100433979,1,aortic valve stenosis
+cardio1,1004418858,1,gastroesophageal reflux disease in adults
+cardio1,1150579605,0,HIV infection
+cardio1,1225677077,1,adenosine
+cardio1,1237334192,0,hypertension
+cardio1,1254062694,0,pulmonary hypertension
+cardio1,1268595047,2,"[heart failure, adult asthma, gastroesophageal reflux disease]"
+cardio1,1269363559,0,sepsis
+cardio1,1303785478,1,ceftriaxone
+cardio1,1314806000,2,"[pulmonary embolism, pancreatitis, cholecystitis, peptic ulcer perforation, acute coronary syndrome]"
+cardio1,1327461883,2,"[pulmonary embolism, peptic ulcer perforation, pancreatitis, acute coronary syndrome]"
+cardio1,1358937044,1,cervicofacial actinomycosis
+cardio1,1361834045,1,hypertension
+cardio1,1373318532,0,adult asthma
+cardio1,1396553893,0,bacterial meningitis in adult
+cardio1,1401422468,1,diabetes mellitus
+cardio1,1444924091,1,Hashimoto disease
+cardio1,1466679831,1,norepinephrine
+cardio1,1479813209,2,"[bronchiectasis, tuberculosis, foreign body aspiration]"
+cardio1,1508327947,1,dexchlorpheniramine/dextromethorphan/PE
+cardio1,1580163002,1,abdominal aortic aneurysm
+cardio1,1586343918,1,chronic pancreatitis
+cardio1,1632388614,1,giardiasis
+cardio1,1713191791,1,Barrett esophagus
+cardio1,1718846532,0,lomefloxacin
+cardio1,1758625657,0,acute coronary syndrome
+cardio1,1836085582,1,cardiac tamponade
+cardio1,1840296380,0,decreased tendon reflex
+cardio1,1872323125,1,altitude sickness
+cardio1,1880752188,1,pulmonary hypertension
+cardio1,1886501725,1,lightheadedness
+cardio1,1923109555,2,"[pancreatitis, pulmonary embolism, acute coronary syndrome, dissecting aortic aneurysm]"
+cardio1,1929967881,1,cardiac tamponade
+cardio1,1963399416,1,moxifloxacin
+cardio1,1981845287,0,bisoprolol
+cardio1,198296330,1,West Nile virus disease
+cardio1,2028175225,2,"[Takotsubo cardiomyopathy, cholecystitis, acute coronary syndrome, pulmonary embolism]"
+cardio1,2043881490,0,Crohn disease
+cardio1,2100342478,1,atrial fibrillation
+cardio1,212304074,2,"[erythema multiforme, herpes simplex infection, malignant lymphoma, hand foot and mouth disease]"
+cardio1,239394372,1,Brugada syndrome
+cardio1,246922162,0,nosocomial pneumonia
+cardio1,256692342,1,hypertrophic cardiomyopathy
+cardio1,257472814,1,heart failure
+cardio1,268801160,0,primary pulmonary hypertension
+cardio1,277012421,1,pulmonary valve stenosis
+cardio1,285321069,1,Acute urticaria
+cardio1,30265853,1,Hashimoto disease
+cardio1,306104904,0,Wegener granulomatosis
+cardio1,314669186,1,mumps
+cardio1,343170511,1,diabetic neuropathy
+cardio1,360926891,0,carcinoid tumor
+cardio1,366614084,1,female breast cancer
+cardio1,373635213,1,meropenem
+cardio1,48693781,1,allergic rhinitis
+cardio1,491054711,1,age-related macular degeneration
+cardio1,533517250,1,bounding pulse
+cardio1,55350942,0,ejection click
+cardio1,584380,1,fetal alcohol syndrome
+cardio1,590595370,1,propranolol
+cardio1,596262383,1,West Nile virus disease
+cardio1,612910766,1,palpitations
+cardio1,638087159,2,"[bronchitis, bronchiectasis, tuberculosis]"
+cardio1,685754897,0,atorvastatin
+cardio1,716572795,1,tetralogy of Fallot
+cardio1,721983276,1,amitriptyline
+cardio1,798089099,1,megaloblastic anemia due to folate deficiency
+cardio1,836886421,1,campylobacteriosis
+cardio1,85598872,0,generalized anxiety disorder
+cardio1,859473658,0,ventricular septal defect
+cardio1,932018186,2,"[acute coronary syndrome, pulmonary embolism, Takotsubo cardiomyopathy]"
+cardio1,980128140,0,abdominal tenderness
+gastro1,-1121866138,1,Pain relief by antacid
+gastro1,-1126145180,1,cefdinir
+gastro1,-1154198561,2,"[bronchiectasis, tuberculosis]"
+gastro1,-1165521301,1,Clostridium difficile diarrhea
+gastro1,-1178650343,1,abdominal aortic aneurysm
+gastro1,-1200447708,0,Clostridium difficile diarrhea
+gastro1,-1219435342,1,appendicitis
+gastro1,-1226937926,1,"[Drug AND/OR toxin-induced diarrhea, pediatric gastroenteritis, inflammatory bowel disease]"
+gastro1,-1227921966,1,chronic pancreatitis
+gastro1,-1245415419,1,Chronic suppurative otitis media
+gastro1,-1296951291,2,"[tuberculosis, bronchitis, bronchiectasis]"
+gastro1,-131664545,0,irritability
+gastro1,-1332818599,1,avian influenza
+gastro1,-1352072290,2,"[bronchiectasis, tuberculosis, cystic fibrosis]"
+gastro1,-1360782023,1,toxic shock syndrome
+gastro1,-1386524416,1,chronic pancreatitis
+gastro1,-1398748014,1,dermatomyositis
+gastro1,-1413817732,0,hypertrophic pyloric stenosis
+gastro1,-1520310312,1,heart failure
+gastro1,-1567020152,1,[Behçet syndrome]
+gastro1,-1582475820,1,[pediatric gastroenteritis]
+gastro1,-1597385599,1,malignant hyperthermia
+gastro1,-1619489304,2,"[cystic fibrosis, tuberculosis, chronic sinusitis, bronchiectasis]"
+gastro1,-1636317005,1,certolizumab
+gastro1,-1648484617,0,bacterial meningitis in adult
+gastro1,-1686307363,1,hypotension
+gastro1,-1691481356,1,fatty liver
+gastro1,-171924202,0,entacapone
+gastro1,-1726577036,1,tuberculosis
+gastro1,-1741358200,2,"[Crohn disease, malignant lymphoma, extrapulmonary tuberculosis]"
+gastro1,-1744722716,1,"[hand foot and mouth disease, herpes simplex infection]"
+gastro1,-1772718435,1,pharyngitis
+gastro1,-179437985,0,Bartter syndrome
+gastro1,-1844940382,1,[Behçet syndrome]
+gastro1,-1849964201,1,Hirschsprung disease
+gastro1,-1856866015,1,autonomic dysreflexia
+gastro1,-187305279,2,"[bronchiectasis, tuberculosis, bronchitis]"
+gastro1,-1921063903,1,chronic pancreatitis
+gastro1,-1961448270,1,immunosuppressive agent
+gastro1,-2002273997,0,eosinophilic esophagitis
+gastro1,-2035787841,0,angioedema
+gastro1,-2036982507,1,mifepristone
+gastro1,-2095091475,1,scabies
+gastro1,-2115138625,1,cortisone
+gastro1,-2117299349,0,lactose intolerance
+gastro1,-2130593645,1,intussusception
+gastro1,-228503150,1,altitude sickness
+gastro1,-282289371,1,adalimumab
+gastro1,-297867117,1,sildenafil
+gastro1,-37309510,1,appendicitis
+gastro1,-406621636,1,mumps
+gastro1,-425916557,1,dyspnea
+gastro1,-432010160,0,peptic ulcer disease
+gastro1,-489629583,1,medulloblastoma
+gastro1,-49595919,1,Clostridium difficile infection
+gastro1,-515543363,1,sepsis
+gastro1,-570295292,2,"[influenza, viral meningitis, West Nile virus disease]"
+gastro1,-614797382,1,fluoroquinolone
+gastro1,-629580273,0,hepatitis C
+gastro1,-655529301,1,toxic shock syndrome
+gastro1,-664126766,0,pulmonary valve stenosis
+gastro1,-688062151,1,pneumococcal meningitis
+gastro1,-708064003,1,chest pain
+gastro1,-733995904,1,fever
+gastro1,-763460814,2,"[dissecting aortic aneurysm, acute coronary syndrome, pulmonary embolism, Takotsubo cardiomyopathy]"
+gastro1,-777960901,0,myocarditis
+gastro1,-831436092,1,empyema
+gastro1,-853603256,0,aversion to food or drink
+gastro1,-859477240,1,Reye syndrome
+gastro1,-904922175,1,omeprazole
+gastro1,-918074039,1,peptic ulcer disease
+gastro1,-927058287,1,dysentery
+gastro1,-951273271,1,heart failure
+gastro1,-968220541,0,dasatinib
+gastro1,-96890651,2,"[Takotsubo cardiomyopathy, acute coronary syndrome, dissecting aortic aneurysm, pulmonary embolism]"
+gastro1,-976885592,1,paclitaxel
+gastro1,1004418858,1,gastroesophageal reflux disease in adults
+gastro1,1025061290,0,traveler's diarrhea
+gastro1,106127366,0,intestinal helminthiasis
+gastro1,1150579605,0,bacterial meningitis in adult
+gastro1,1174123608,1,Hirschsprung disease
+gastro1,1268595047,2,"[heart failure, adult asthma]"
+gastro1,1269363559,1,West Nile virus disease
+gastro1,1358937044,1,cervicofacial actinomycosis
+gastro1,1373318532,1,carbon monoxide poisoning
+gastro1,1396553893,0,mumps
+gastro1,1444924091,1,Hashimoto disease
+gastro1,1466679831,1,norepinephrine
+gastro1,1479813209,2,"[tuberculosis, bronchiectasis]"
+gastro1,1496943864,0,etoposide
+gastro1,1508327947,1,dexchlorpheniramine/dextromethorphan/PE
+gastro1,1512999299,0,esomeprazole
+gastro1,1571361214,0,chronic pancreatitis
+gastro1,1586343918,1,chronic pancreatitis
+gastro1,1632388614,1,giardiasis
+gastro1,1713191791,1,Barrett esophagus
+gastro1,1718846532,0,ofloxacin
+gastro1,1776074028,1,methylprednisolone
+gastro1,1867720,1,"[pediatric gastroenteritis, organophosphate toxicity]"
+gastro1,1872323125,1,altitude sickness
+gastro1,1960397522,1,antibiotic
+gastro1,1963399416,1,moxifloxacin
+gastro1,198296330,1,West Nile virus disease
+gastro1,2028175225,2,"[pulmonary embolism, Takotsubo cardiomyopathy, acute coronary syndrome]"
+gastro1,2043881490,1,sepsis
+gastro1,2073958295,1,hypertrophic pyloric stenosis
+gastro1,2105381378,1,chronic pancreatitis
+gastro1,212304074,1,"[hand foot and mouth disease, herpes simplex infection]"
+gastro1,226178141,1,chronic pancreatitis
+gastro1,246922162,1,West Nile virus disease
+gastro1,285321069,1,Acute urticaria
+gastro1,306104904,1,diaphragmatic hernia
+gastro1,314669186,1,mumps
+gastro1,343170511,1,diabetic neuropathy
+gastro1,350141361,1,dyspnea
+gastro1,360926891,0,intussusception
+gastro1,361099648,1,choledochal cyst
+gastro1,366614084,1,female breast cancer
+gastro1,373635170,1,appendicitis
+gastro1,373635213,0,vancomycin
+gastro1,48693781,1,allergic rhinitis
+gastro1,491054711,1,age-related macular degeneration
+gastro1,533517250,1,bounding pulse
+gastro1,550734214,1,intussusception
+gastro1,55350942,0,ejection click
+gastro1,596262383,1,West Nile virus disease
+gastro1,638087159,2,"[tuberculosis, bronchitis, bronchiectasis]"
+gastro1,694128712,0,hereditary nonhemolytic jaundice
+gastro1,697513314,1,hypertrophic pyloric stenosis
+gastro1,721983276,0,glyBURIDE
+gastro1,798089099,0,pulmonary valve stenosis
+gastro1,821586675,1,intussusception
+gastro1,836886421,1,campylobacteriosis
+gastro1,85598872,0,generalized anxiety disorder
+gastro1,867755842,0,intussusception
+gastro1,889402486,1,antibiotic
+gastro1,958565519,0,giardiasis
+gastro1,977858414,1,vitamin E
+gastro1,980128140,1,fatigue
+gastro2,-1121866138,0,tarry stool
+gastro2,-1126145180,0,rimonabant
+gastro2,-1154198561,1,[tuberculosis]
+gastro2,-1165521301,1,Clostridium difficile diarrhea
+gastro2,-1178650343,0,subacute spongiform encephalopathy
+gastro2,-1200447708,0,giardiasis
+gastro2,-1219435342,1,appendicitis
+gastro2,-1226937926,1,"[Drug AND/OR toxin-induced diarrhea, pediatric gastroenteritis]"
+gastro2,-1227921966,1,chronic pancreatitis
+gastro2,-1245415419,1,Chronic suppurative otitis media
+gastro2,-1296951291,1,[tuberculosis]
+gastro2,-131664545,0,irritability
+gastro2,-1332818599,0,pharyngitis
+gastro2,-1352072290,1,[tuberculosis]
+gastro2,-1360782023,1,toxic shock syndrome
+gastro2,-1386524416,0,adult acute diarrhea
+gastro2,-1398748014,0,Wegener granulomatosis
+gastro2,-1413817732,0,adult acute diarrhea
+gastro2,-1520310312,1,heart failure
+gastro2,-1567020152,0,[herpes simplex infection]
+gastro2,-1582475820,1,"[cystic fibrosis, pediatric gastroenteritis]"
+gastro2,-1597385599,0,nosocomial pneumonia
+gastro2,-1619489304,2,"[bronchiectasis, cystic fibrosis, chronic sinusitis, tuberculosis]"
+gastro2,-1636317005,1,certolizumab
+gastro2,-1648484617,0,bacterial meningitis in adult
+gastro2,-1686307363,0,restlessness
+gastro2,-1691481356,1,fatty liver
+gastro2,-171924202,1,carbidopa
+gastro2,-1726577036,0,botulism
+gastro2,-1741358200,1,"[malignant lymphoma, extrapulmonary tuberculosis]"
+gastro2,-1744722716,1,"[hand foot and mouth disease, herpes simplex infection]"
+gastro2,-1772718435,0,mumps
+gastro2,-179437985,0,Bartter syndrome
+gastro2,-1844940382,1,[Behçet syndrome]
+gastro2,-1849964201,1,Hirschsprung disease
+gastro2,-1856866015,0,Cushing syndrome
+gastro2,-187305279,0,[bronchitis]
+gastro2,-1921063903,1,chronic pancreatitis
+gastro2,-1961448270,1,immunosuppressive agent
+gastro2,-2002273997,1,Middle East respiratory syndrome
+gastro2,-2035787841,1,alpha 1-antitrypsin deficiency
+gastro2,-2036982507,0,budesonide nasal
+gastro2,-2095091475,0,adult acute diarrhea
+gastro2,-2115138625,1,cortisone
+gastro2,-2117299349,1,cryptosporidiosis
+gastro2,-2130593645,1,intussusception
+gastro2,-228503150,1,altitude sickness
+gastro2,-282289371,1,adalimumab
+gastro2,-297867117,1,sildenafil
+gastro2,-37309510,1,appendicitis
+gastro2,-406621636,1,mumps
+gastro2,-425916557,1,dyspnea
+gastro2,-432010160,1,cryptosporidiosis
+gastro2,-489629583,1,medulloblastoma
+gastro2,-49595919,1,Clostridium difficile infection
+gastro2,-515543363,1,sepsis
+gastro2,-570295292,1,[influenza]
+gastro2,-614797382,1,fluoroquinolone
+gastro2,-629580273,0,Taenia infection
+gastro2,-655529301,1,toxic shock syndrome
+gastro2,-664126766,0,pulmonary valve stenosis
+gastro2,-688062151,1,pneumococcal meningitis
+gastro2,-708064003,1,chest pain
+gastro2,-733995904,1,fever
+gastro2,-763460814,1,"[acute coronary syndrome, Takotsubo cardiomyopathy, dissecting aortic aneurysm]"
+gastro2,-777960901,0,myocarditis
+gastro2,-831436092,1,empyema
+gastro2,-853603256,0,aversion to food or drink
+gastro2,-859477240,1,Reye syndrome
+gastro2,-904922175,1,omeprazole
+gastro2,-918074039,1,peptic ulcer disease
+gastro2,-927058287,0,adult acute diarrhea
+gastro2,-951273271,1,heart failure
+gastro2,-968220541,0,dasatinib
+gastro2,-96890651,1,"[dissecting aortic aneurysm, acute coronary syndrome, Takotsubo cardiomyopathy]"
+gastro2,-976885592,1,paclitaxel
+gastro2,1004418858,1,gastroesophageal reflux disease in adults
+gastro2,1025061290,0,traveler's diarrhea
+gastro2,106127366,0,intestinal helminthiasis
+gastro2,1150579605,0,bacterial meningitis in adult
+gastro2,1174123608,1,Hirschsprung disease
+gastro2,1268595047,2,"[adult asthma, heart failure, gastroesophageal reflux disease]"
+gastro2,1269363559,0,bacterial meningitis in adult
+gastro2,1358937044,1,cervicofacial actinomycosis
+gastro2,1373318532,0,adult asthma
+gastro2,1396553893,1,Chagas disease
+gastro2,1444924091,1,Hashimoto disease
+gastro2,1466679831,1,norepinephrine
+gastro2,1479813209,1,[tuberculosis]
+gastro2,1496943864,0,imatinib
+gastro2,1508327947,0,acetaminophen/dextromethorphan
+gastro2,1512999299,1,venlafaxine
+gastro2,1571361214,0,acute mesenteric ischemia
+gastro2,1586343918,1,chronic pancreatitis
+gastro2,1632388614,1,giardiasis
+gastro2,1713191791,1,Barrett esophagus
+gastro2,1718846532,0,lomefloxacin
+gastro2,1776074028,1,methylprednisolone
+gastro2,1867720,1,[pediatric gastroenteritis]
+gastro2,1872323125,1,altitude sickness
+gastro2,1960397522,0,sodium tetradecyl sulfate
+gastro2,1963399416,1,moxifloxacin
+gastro2,198296330,1,West Nile virus disease
+gastro2,2028175225,1,"[Takotsubo cardiomyopathy, acute coronary syndrome]"
+gastro2,2043881490,1,sepsis
+gastro2,2073958295,1,hypertrophic pyloric stenosis
+gastro2,2105381378,1,chronic pancreatitis
+gastro2,212304074,1,"[hand foot and mouth disease, herpes simplex infection]"
+gastro2,226178141,1,chronic pancreatitis
+gastro2,246922162,1,West Nile virus disease
+gastro2,285321069,1,Acute urticaria
+gastro2,306104904,0,Wegener granulomatosis
+gastro2,314669186,1,mumps
+gastro2,343170511,1,diabetic neuropathy
+gastro2,350141361,1,dyspnea
+gastro2,360926891,0,intussusception
+gastro2,361099648,0,biliary atresia
+gastro2,366614084,1,female breast cancer
+gastro2,373635170,1,appendicitis
+gastro2,373635213,0,vancomycin
+gastro2,48693781,1,allergic rhinitis
+gastro2,491054711,0,ischemic stroke
+gastro2,533517250,0,syncope
+gastro2,550734214,0,Clostridium difficile diarrhea
+gastro2,55350942,0,ejection click
+gastro2,596262383,0,hyperthyroidism
+gastro2,638087159,1,[tuberculosis]
+gastro2,694128712,1,biliary atresia
+gastro2,697513314,1,hypertrophic pyloric stenosis
+gastro2,721983276,0,glyBURIDE
+gastro2,798089099,1,megaloblastic anemia due to folate deficiency
+gastro2,821586675,1,intussusception
+gastro2,836886421,1,campylobacteriosis
+gastro2,85598872,1,toxic shock syndrome
+gastro2,867755842,0,intussusception
+gastro2,889402486,1,antibiotic
+gastro2,958565519,1,acute mesenteric ischemia
+gastro2,977858414,1,vitamin E
+gastro2,980128140,0,abdominal tenderness
+internal1,-1154198561,2,"[tuberculosis, bronchiectasis, bronchitis]"
+internal1,-1178650343,0,subacute spongiform encephalopathy
+internal1,-1227921966,1,chronic pancreatitis
+internal1,-1245415419,1,Chronic suppurative otitis media
+internal1,-1296951291,2,"[cystic fibrosis, bronchitis, lung carcinoma, bronchiectasis, tuberculosis]"
+internal1,-131664545,0,irritability
+internal1,-1332818599,1,avian influenza
+internal1,-1352072290,2,"[lung carcinoma, bronchiectasis, tuberculosis]"
+internal1,-1360782023,0,glaucoma
+internal1,-1386524416,0,adult acute diarrhea
+internal1,-1398748014,1,dermatomyositis
+internal1,-1520310312,1,heart failure
+internal1,-1567020152,2,"[Crohn disease, Behçet syndrome, herpes simplex infection, ulcerative colitis, acne vulgaris]"
+internal1,-1597385599,1,malignant hyperthermia
+internal1,-1619489304,2,"[tuberculosis, chronic sinusitis, bronchiectasis]"
+internal1,-1636317005,1,certolizumab
+internal1,-1648484617,0,pediatric meningitis
+internal1,-171924202,0,selegiline
+internal1,-1726577036,0,botulism
+internal1,-1741358200,2,"[extrapulmonary tuberculosis, neoplasm metastasis, Crohn disease, malignant lymphoma]"
+internal1,-1744722716,1,"[herpes simplex infection, hand foot and mouth disease]"
+internal1,-1772718435,0,mumps
+internal1,-179437985,0,Bartter syndrome
+internal1,-1844940382,2,"[Crohn disease, Behçet syndrome, ulcerative colitis, acne vulgaris]"
+internal1,-1856866015,1,autonomic dysreflexia
+internal1,-187305279,2,"[bronchitis, bronchiectasis, tuberculosis]"
+internal1,-1921063903,1,chronic pancreatitis
+internal1,-2002273997,0,eosinophilic esophagitis
+internal1,-2035787841,1,alpha 1-antitrypsin deficiency
+internal1,-2036982507,0,budesonide nasal
+internal1,-2095091475,0,adult acute diarrhea
+internal1,-2115138625,1,cortisone
+internal1,-228503150,0,extrapulmonary tuberculosis
+internal1,-297867117,1,sildenafil
+internal1,-406621636,1,mumps
+internal1,-425916557,0,bone tenderness
+internal1,-489629583,0,extrapulmonary tuberculosis
+internal1,-515543363,1,sepsis
+internal1,-570295292,1,[influenza]
+internal1,-614797382,1,fluoroquinolone
+internal1,-655529301,0,Middle East respiratory syndrome
+internal1,-664126766,0,Bartter syndrome
+internal1,-688062151,0,sepsis
+internal1,-708064003,1,chest pain
+internal1,-763460814,0,"[pericarditis, Takotsubo cardiomyopathy, dissecting aortic aneurysm]"
+internal1,-777960901,0,myocarditis
+internal1,-853603256,1,fatigue
+internal1,-859477240,1,Reye syndrome
+internal1,-904922175,0,dapsone
+internal1,-951273271,1,heart failure
+internal1,-96890651,2,"[dissecting aortic aneurysm, Takotsubo cardiomyopathy, acute coronary syndrome, pulmonary embolism]"
+internal1,-976885592,0,visilizumab
+internal1,1004418858,1,gastroesophageal reflux disease in adults
+internal1,1150579605,1,Wegener granulomatosis
+internal1,1268595047,2,"[adult asthma, gastroesophageal reflux disease, heart failure, ACE inhibitor adverse reaction]"
+internal1,1269363559,1,West Nile virus disease
+internal1,1358937044,1,cervicofacial actinomycosis
+internal1,1373318532,1,carbon monoxide poisoning
+internal1,1396553893,0,mumps
+internal1,1444924091,1,Hashimoto disease
+internal1,1466679831,1,norepinephrine
+internal1,1479813209,2,"[tuberculosis, bronchiectasis]"
+internal1,1508327947,0,acetaminophen/dextromethorphan
+internal1,1586343918,0,eosinophilic esophagitis
+internal1,1632388614,1,giardiasis
+internal1,1713191791,1,Barrett esophagus
+internal1,1718846532,0,lomefloxacin
+internal1,1872323125,1,altitude sickness
+internal1,1963399416,1,moxifloxacin
+internal1,198296330,1,West Nile virus disease
+internal1,2028175225,2,"[pulmonary embolism, cholecystitis, acute coronary syndrome]"
+internal1,2043881490,1,sepsis
+internal1,212304074,1,"[malignant lymphoma, hand foot and mouth disease, herpes simplex infection]"
+internal1,246922162,0,thiamine deficiency
+internal1,285321069,1,Acute urticaria
+internal1,306104904,1,diaphragmatic hernia
+internal1,314669186,1,mumps
+internal1,343170511,1,diabetic neuropathy
+internal1,360926891,1,diverticulosis
+internal1,366614084,1,female breast cancer
+internal1,373635213,0,amoxicillin
+internal1,48693781,1,allergic rhinitis
+internal1,491054711,1,age-related macular degeneration
+internal1,533517250,0,pulsus paradoxus
+internal1,55350942,1,syncope
+internal1,596262383,1,West Nile virus disease
+internal1,638087159,2,"[bronchitis, tuberculosis, bronchiectasis]"
+internal1,721983276,1,amitriptyline
+internal1,798089099,0,croup
+internal1,836886421,1,campylobacteriosis
+internal1,85598872,0,generalized anxiety disorder
+internal1,980128140,0,arthralgia
+internal2,-1154198561,2,"[tuberculosis, bronchiectasis]"
+internal2,-1178650343,0,subacute spongiform encephalopathy
+internal2,-1227921966,0,Henoch-Schonlein purpura
+internal2,-1245415419,1,Chronic suppurative otitis media
+internal2,-1296951291,2,"[tuberculosis, bronchitis, bronchiectasis]"
+internal2,-131664545,1,fever
+internal2,-1332818599,1,avian influenza
+internal2,-1352072290,2,"[bronchiectasis, tuberculosis]"
+internal2,-1360782023,0,generalized anxiety disorder
+internal2,-1386524416,0,sepsis
+internal2,-1398748014,1,dermatomyositis
+internal2,-1520310312,1,heart failure
+internal2,-1567020152,1,[Behçet syndrome]
+internal2,-1597385599,1,malignant hyperthermia
+internal2,-1619489304,2,"[tuberculosis, bronchiectasis]"
+internal2,-1636317005,1,certolizumab
+internal2,-1648484617,0,bacterial meningitis in adult
+internal2,-171924202,1,carbidopa
+internal2,-1726577036,0,botulism
+internal2,-1741358200,2,"[Crohn disease, extrapulmonary tuberculosis, malignant lymphoma, neoplasm metastasis]"
+internal2,-1744722716,1,"[herpes simplex infection, erythema multiforme]"
+internal2,-1772718435,1,pharyngitis
+internal2,-179437985,0,Bartter syndrome
+internal2,-1844940382,1,[Behçet syndrome]
+internal2,-1856866015,1,autonomic dysreflexia
+internal2,-187305279,1,"[bronchitis, bronchiectasis]"
+internal2,-1921063903,1,chronic pancreatitis
+internal2,-2002273997,0,hyperthyroidism
+internal2,-2035787841,1,alpha 1-antitrypsin deficiency
+internal2,-2036982507,1,mifepristone
+internal2,-2095091475,0,adult acute diarrhea
+internal2,-2115138625,1,cortisone
+internal2,-228503150,1,altitude sickness
+internal2,-297867117,1,sildenafil
+internal2,-406621636,1,mumps
+internal2,-425916557,1,dyspnea
+internal2,-489629583,1,medulloblastoma
+internal2,-515543363,1,sepsis
+internal2,-570295292,1,[influenza]
+internal2,-614797382,1,fluoroquinolone
+internal2,-655529301,1,toxic shock syndrome
+internal2,-664126766,0,pulmonary valve stenosis
+internal2,-688062151,0,bacterial meningitis in adult
+internal2,-708064003,1,chest pain
+internal2,-763460814,1,[pulmonary embolism]
+internal2,-777960901,1,abnormal cardiac conduction
+internal2,-853603256,0,tenesmus
+internal2,-859477240,0,bacterial meningitis in adult
+internal2,-904922175,1,omeprazole
+internal2,-951273271,1,heart failure
+internal2,-96890651,1,[pulmonary embolism]
+internal2,-976885592,1,paclitaxel
+internal2,1004418858,1,gastroesophageal reflux disease in adults
+internal2,1150579605,0,bacterial meningitis in adult
+internal2,1268595047,1,[heart failure]
+internal2,1269363559,0,bacterial meningitis in adult
+internal2,1358937044,1,cervicofacial actinomycosis
+internal2,1373318532,1,carbon monoxide poisoning
+internal2,1396553893,1,Chagas disease
+internal2,1444924091,1,Hashimoto disease
+internal2,1466679831,1,norepinephrine
+internal2,1479813209,2,"[bronchiectasis, tuberculosis]"
+internal2,1508327947,0,acetaminophen/dextromethorphan
+internal2,1586343918,0,sepsis
+internal2,1632388614,0,sepsis
+internal2,1713191791,1,Barrett esophagus
+internal2,1718846532,0,ofloxacin
+internal2,1872323125,1,altitude sickness
+internal2,1963399416,0,tegaserod
+internal2,198296330,0,Middle East respiratory syndrome
+internal2,2028175225,1,[pulmonary embolism]
+internal2,2043881490,1,sepsis
+internal2,212304074,1,"[erythema multiforme, herpes simplex infection]"
+internal2,246922162,0,thiamine deficiency
+internal2,285321069,1,Acute urticaria
+internal2,306104904,0,Wegener granulomatosis
+internal2,314669186,0,staphylococcal infection
+internal2,343170511,1,diabetic neuropathy
+internal2,360926891,1,diverticulosis
+internal2,366614084,0,adult acute diarrhea
+internal2,373635213,1,meropenem
+internal2,48693781,1,allergic rhinitis
+internal2,491054711,1,age-related macular degeneration
+internal2,533517250,1,bounding pulse
+internal2,55350942,1,syncope
+internal2,596262383,0,hypokalemia
+internal2,638087159,2,"[tuberculosis, bronchiectasis]"
+internal2,721983276,1,amitriptyline
+internal2,798089099,0,pulmonary valve stenosis
+internal2,836886421,0,shigellosis
+internal2,85598872,0,generalized anxiety disorder
+internal2,980128140,1,fatigue
+internal3,-1154198561,2,"[bronchiectasis, tuberculosis]"
+internal3,-1178650343,1,abdominal aortic aneurysm
+internal3,-1227921966,1,chronic pancreatitis
+internal3,-1245415419,1,Chronic suppurative otitis media
+internal3,-1296951291,2,"[bronchiectasis, tuberculosis]"
+internal3,-131664545,1,fever
+internal3,-1332818599,0,pharyngitis
+internal3,-1352072290,2,"[bronchiectasis, tuberculosis]"
+internal3,-1360782023,1,toxic shock syndrome
+internal3,-1386524416,0,adult acute diarrhea
+internal3,-1398748014,1,dermatomyositis
+internal3,-1520310312,1,heart failure
+internal3,-1567020152,0,[herpes simplex infection]
+internal3,-1597385599,1,malignant hyperthermia
+internal3,-1619489304,2,"[tuberculosis, bronchiectasis]"
+internal3,-1636317005,1,certolizumab
+internal3,-1648484617,0,bacterial meningitis in adult
+internal3,-171924202,1,carbidopa
+internal3,-1726577036,0,botulism
+internal3,-1741358200,2,"[extrapulmonary tuberculosis, malignant lymphoma, Crohn disease, neoplasm metastasis]"
+internal3,-1744722716,2,"[erythema multiforme, hand foot and mouth disease, herpes simplex infection]"
+internal3,-1772718435,0,mumps
+internal3,-179437985,1,megaloblastic anemia due to folate deficiency
+internal3,-1844940382,2,"[ulcerative colitis, Crohn disease, Behçet syndrome]"
+internal3,-1856866015,1,autonomic dysreflexia
+internal3,-187305279,1,[tuberculosis]
+internal3,-1921063903,1,chronic pancreatitis
+internal3,-2002273997,0,eosinophilic esophagitis
+internal3,-2035787841,1,alpha 1-antitrypsin deficiency
+internal3,-2036982507,0,acetaminophen/chlorpheniramine/dextromethorphan/pseudoephedrine
+internal3,-2095091475,1,scabies
+internal3,-2115138625,1,cortisone
+internal3,-228503150,1,altitude sickness
+internal3,-297867117,1,sildenafil
+internal3,-406621636,1,mumps
+internal3,-425916557,1,dyspnea
+internal3,-489629583,1,medulloblastoma
+internal3,-515543363,1,sepsis
+internal3,-570295292,1,[influenza]
+internal3,-614797382,1,fluoroquinolone
+internal3,-655529301,0,generalized anxiety disorder
+internal3,-664126766,0,pulmonary valve stenosis
+internal3,-688062151,1,pneumococcal meningitis
+internal3,-708064003,0,history of connective tissue disorder
+internal3,-763460814,2,"[dissecting aortic aneurysm, pulmonary embolism, acute coronary syndrome]"
+internal3,-777960901,1,abnormal cardiac conduction
+internal3,-853603256,1,fatigue
+internal3,-859477240,0,schistosomiasis
+internal3,-904922175,1,omeprazole
+internal3,-951273271,1,heart failure
+internal3,-96890651,2,"[dissecting aortic aneurysm, acute coronary syndrome, Takotsubo cardiomyopathy, diffuse esophageal spasm, pulmonary embolism]"
+internal3,-976885592,1,paclitaxel
+internal3,1004418858,1,gastroesophageal reflux disease in adults
+internal3,1150579605,0,bacterial meningitis in adult
+internal3,1268595047,2,"[adult asthma, heart failure, gastroesophageal reflux disease]"
+internal3,1269363559,0,sepsis
+internal3,1358937044,1,cervicofacial actinomycosis
+internal3,1373318532,0,adult asthma
+internal3,1396553893,1,Chagas disease
+internal3,1444924091,1,Hashimoto disease
+internal3,1466679831,0,fludrocortisone
+internal3,1479813209,2,"[tuberculosis, bronchiectasis]"
+internal3,1508327947,0,acetaminophen/dextromethorphan
+internal3,1586343918,0,sepsis
+internal3,1632388614,1,giardiasis
+internal3,1713191791,1,Barrett esophagus
+internal3,1718846532,0,ofloxacin
+internal3,1872323125,1,altitude sickness
+internal3,1963399416,1,moxifloxacin
+internal3,198296330,1,West Nile virus disease
+internal3,2028175225,2,"[pulmonary embolism, acute coronary syndrome]"
+internal3,2043881490,1,sepsis
+internal3,212304074,1,"[herpes simplex infection, hand foot and mouth disease]"
+internal3,246922162,0,nosocomial pneumonia
+internal3,285321069,1,Acute urticaria
+internal3,306104904,1,diaphragmatic hernia
+internal3,314669186,0,staphylococcal infection
+internal3,343170511,1,diabetic neuropathy
+internal3,360926891,0,intussusception
+internal3,366614084,0,acute myeloid leukemia
+internal3,373635213,0,vancomycin
+internal3,48693781,1,allergic rhinitis
+internal3,491054711,0,ischemic stroke
+internal3,533517250,1,bounding pulse
+internal3,55350942,1,syncope
+internal3,596262383,0,hypokalemia
+internal3,638087159,2,"[bronchiectasis, tuberculosis]"
+internal3,721983276,1,amitriptyline
+internal3,798089099,0,pulmonary valve stenosis
+internal3,836886421,1,campylobacteriosis
+internal3,85598872,0,generalized anxiety disorder
+internal3,980128140,0,abdominal tenderness
+internal4,-1154198561,2,"[bronchitis, bronchiectasis, chronic sinusitis, tuberculosis, asthma]"
+internal4,-1178650343,1,abdominal aortic aneurysm
+internal4,-1227921966,1,chronic pancreatitis
+internal4,-1245415419,1,Chronic suppurative otitis media
+internal4,-1296951291,2,"[lung carcinoma, bronchiectasis, bronchitis, cystic fibrosis, tuberculosis]"
+internal4,-131664545,0,irritability
+internal4,-1332818599,1,avian influenza
+internal4,-1352072290,2,"[tuberculosis, lung carcinoma, cystic fibrosis, bronchiectasis]"
+internal4,-1360782023,1,toxic shock syndrome
+internal4,-1386524416,0,gastric cancer
+internal4,-1398748014,1,dermatomyositis
+internal4,-1520310312,1,heart failure
+internal4,-1567020152,2,"[ulcerative colitis, Crohn disease, Behçet syndrome]"
+internal4,-1597385599,1,malignant hyperthermia
+internal4,-1619489304,2,"[chronic sinusitis, bronchiectasis, cystic fibrosis, tuberculosis]"
+internal4,-1636317005,1,certolizumab
+internal4,-1648484617,0,bacterial meningitis in adult
+internal4,-171924202,1,carbidopa
+internal4,-1726577036,1,tuberculosis
+internal4,-1741358200,2,"[extrapulmonary tuberculosis, Crohn disease, malignant lymphoma, neoplasm metastasis]"
+internal4,-1744722716,2,"[allergic contact dermatitis, erythema multiforme, gonorrhea, herpes simplex infection, hand foot and mouth disease]"
+internal4,-1772718435,0,mumps
+internal4,-179437985,1,megaloblastic anemia due to folate deficiency
+internal4,-1844940382,2,"[Behçet syndrome, ulcerative colitis, Crohn disease]"
+internal4,-1856866015,1,autonomic dysreflexia
+internal4,-187305279,2,"[bronchitis, idiopathic pulmonary fibrosis, tuberculosis, bronchiectasis]"
+internal4,-1921063903,1,chronic pancreatitis
+internal4,-2002273997,0,eosinophilic esophagitis
+internal4,-2035787841,1,alpha 1-antitrypsin deficiency
+internal4,-2036982507,1,mifepristone
+internal4,-2095091475,1,scabies
+internal4,-2115138625,1,cortisone
+internal4,-228503150,1,altitude sickness
+internal4,-297867117,1,sildenafil
+internal4,-406621636,1,mumps
+internal4,-425916557,1,dyspnea
+internal4,-489629583,1,medulloblastoma
+internal4,-515543363,1,sepsis
+internal4,-570295292,1,[influenza]
+internal4,-614797382,1,fluoroquinolone
+internal4,-655529301,1,toxic shock syndrome
+internal4,-664126766,0,pulmonary valve stenosis
+internal4,-688062151,1,pneumococcal meningitis
+internal4,-708064003,0,history of connective tissue disorder
+internal4,-763460814,2,"[dissecting aortic aneurysm, Takotsubo cardiomyopathy, pericarditis, acute coronary syndrome, pulmonary embolism]"
+internal4,-777960901,1,abnormal cardiac conduction
+internal4,-853603256,0,tenesmus
+internal4,-859477240,0,bacterial meningitis in adult
+internal4,-904922175,0,dapsone
+internal4,-951273271,1,heart failure
+internal4,-96890651,0,"[dissecting aortic aneurysm, Takotsubo cardiomyopathy]"
+internal4,-976885592,1,paclitaxel
+internal4,1004418858,1,gastroesophageal reflux disease in adults
+internal4,1150579605,0,bacterial meningitis in adult
+internal4,1268595047,2,"[adult asthma, heart failure]"
+internal4,1269363559,0,sepsis
+internal4,1358937044,1,cervicofacial actinomycosis
+internal4,1373318532,1,carbon monoxide poisoning
+internal4,1396553893,0,sepsis
+internal4,1444924091,1,Hashimoto disease
+internal4,1466679831,0,fludrocortisone
+internal4,1479813209,2,"[bronchiectasis, foreign body aspiration, tuberculosis, idiopathic pulmonary fibrosis]"
+internal4,1508327947,0,acetaminophen/dextromethorphan
+internal4,1586343918,0,sepsis
+internal4,1632388614,1,giardiasis
+internal4,1713191791,1,Barrett esophagus
+internal4,1718846532,0,ofloxacin
+internal4,1872323125,1,altitude sickness
+internal4,1963399416,1,moxifloxacin
+internal4,198296330,0,Chagas disease
+internal4,2028175225,2,"[Takotsubo cardiomyopathy, acute coronary syndrome, pulmonary embolism]"
+internal4,2043881490,0,Crohn disease
+internal4,212304074,1,"[herpes simplex infection, hand foot and mouth disease, allergic contact dermatitis]"
+internal4,246922162,0,nosocomial pneumonia
+internal4,285321069,1,Acute urticaria
+internal4,306104904,1,diaphragmatic hernia
+internal4,314669186,1,mumps
+internal4,343170511,1,diabetic neuropathy
+internal4,360926891,1,diverticulosis
+internal4,366614084,1,female breast cancer
+internal4,373635213,0,amoxicillin
+internal4,48693781,1,allergic rhinitis
+internal4,491054711,1,age-related macular degeneration
+internal4,533517250,0,pulsus paradoxus
+internal4,55350942,0,ejection click
+internal4,596262383,0,hypokalemia
+internal4,638087159,2,"[tuberculosis, bronchiectasis, bronchitis, idiopathic pulmonary fibrosis]"
+internal4,721983276,1,amitriptyline
+internal4,798089099,0,pulmonary valve stenosis
+internal4,836886421,1,campylobacteriosis
+internal4,85598872,1,toxic shock syndrome
+internal4,980128140,1,fatigue
+ortho1,-1154198561,2,"[tuberculosis, bronchiectasis, bronchitis]"
+ortho1,-1178650343,1,abdominal aortic aneurysm
+ortho1,-1195576538,0,acute low back pain
+ortho1,-1227921966,1,chronic pancreatitis
+ortho1,-1245415419,1,Chronic suppurative otitis media
+ortho1,-1296951291,1,"[bronchitis, bronchiectasis]"
+ortho1,-131664545,1,fever
+ortho1,-1332818599,0,pharyngitis
+ortho1,-1352072290,1,[tuberculosis]
+ortho1,-1360782023,1,toxic shock syndrome
+ortho1,-1373701793,1,lidocaine topical
+ortho1,-1386524416,1,chronic pancreatitis
+ortho1,-1398748014,1,dermatomyositis
+ortho1,-1421669299,1,autonomic dysreflexia
+ortho1,-1442160837,1,etidronate
+ortho1,-1520310312,0,empyema
+ortho1,-1536794602,0,inflamed joint
+ortho1,-1541983061,1,peroneal muscular atrophy
+ortho1,-1567020152,1,[Crohn disease]
+ortho1,-1597385599,0,nosocomial pneumonia
+ortho1,-1619489304,1,[tuberculosis]
+ortho1,-1636317005,1,certolizumab
+ortho1,-1648484617,1,pneumococcal meningitis
+ortho1,-171924202,1,carbidopa
+ortho1,-1726577036,0,botulism
+ortho1,-1741358200,1,"[extrapulmonary tuberculosis, malignant lymphoma]"
+ortho1,-1744722716,1,"[hand foot and mouth disease, herpes simplex infection]"
+ortho1,-1772718435,0,mumps
+ortho1,-179437985,0,Bartter syndrome
+ortho1,-1795992718,1,alteration in consciousness
+ortho1,-1820252012,1,topiramate
+ortho1,-182696637,1,Legg-Calvé-Perthes disease
+ortho1,-1844940382,2,"[Behçet syndrome, Crohn disease]"
+ortho1,-1856866015,1,autonomic dysreflexia
+ortho1,-187305279,0,[bronchitis]
+ortho1,-1878599236,0,acute low back pain
+ortho1,-188669522,1,shoulder dislocation
+ortho1,-1921063903,1,chronic pancreatitis
+ortho1,-1923632496,1,decompression sickness
+ortho1,-2002273997,1,Middle East respiratory syndrome
+ortho1,-2035787841,1,alpha 1-antitrypsin deficiency
+ortho1,-2036982507,0,acetaminophen/chlorpheniramine/dextromethorphan/pseudoephedrine
+ortho1,-2041124775,1,radial head subluxation
+ortho1,-2095091475,0,hepatitis C
+ortho1,-2115138625,1,cortisone
+ortho1,-228503150,1,altitude sickness
+ortho1,-245780405,1,chest pain
+ortho1,-297867117,1,sildenafil
+ortho1,-406621636,0,dysphagia
+ortho1,-425916557,1,dyspnea
+ortho1,-485266509,1,clonidine
+ortho1,-489629583,1,medulloblastoma
+ortho1,-515543363,1,sepsis
+ortho1,-570295292,2,"[viral meningitis, influenza, bacterial meningitis, West Nile virus disease]"
+ortho1,-614797382,1,fluoroquinolone
+ortho1,-639113721,1,spondylolisthesis
+ortho1,-655529301,1,toxic shock syndrome
+ortho1,-664126766,0,pulmonary valve stenosis
+ortho1,-688062151,0,bacterial meningitis in adult
+ortho1,-708064003,0,history of connective tissue disorder
+ortho1,-763460814,2,"[pulmonary embolism, dissecting aortic aneurysm, acute coronary syndrome]"
+ortho1,-777960901,0,myocarditis
+ortho1,-853603256,1,fatigue
+ortho1,-859477240,0,bacterial meningitis in adult
+ortho1,-904922175,1,omeprazole
+ortho1,-951273271,1,heart failure
+ortho1,-96890651,1,"[Takotsubo cardiomyopathy, acute coronary syndrome]"
+ortho1,-976885592,1,paclitaxel
+ortho1,1004418858,1,gastroesophageal reflux disease in adults
+ortho1,1063986049,1,poliomyelitis
+ortho1,113842132,1,achondroplasia
+ortho1,1150579605,0,bacterial meningitis in adult
+ortho1,1268595047,1,"[gastroesophageal reflux disease, heart failure]"
+ortho1,1269363559,0,bacterial meningitis in adult
+ortho1,1296500468,1,slipped upper femoral epiphysis
+ortho1,1313229501,0,ceftazidime
+ortho1,1358937044,1,cervicofacial actinomycosis
+ortho1,1373318532,1,carbon monoxide poisoning
+ortho1,1396553893,1,Chagas disease
+ortho1,1444924091,1,Hashimoto disease
+ortho1,1458408602,1,doxycycline
+ortho1,1466679831,0,short-acting anticholinergics
+ortho1,1479252266,1,ankylosing spondylitis
+ortho1,1479813209,1,[tuberculosis]
+ortho1,1508327947,1,dexchlorpheniramine/dextromethorphan/PE
+ortho1,1530377818,1,poliomyelitis
+ortho1,1586343918,1,chronic pancreatitis
+ortho1,1632388614,1,giardiasis
+ortho1,1713191791,0,fatty liver
+ortho1,1718846532,0,lomefloxacin
+ortho1,1872323125,1,altitude sickness
+ortho1,1963399416,1,moxifloxacin
+ortho1,198296330,1,West Nile virus disease
+ortho1,2028175225,1,[acute coronary syndrome]
+ortho1,2043881490,0,Crohn disease
+ortho1,212304074,1,[hand foot and mouth disease]
+ortho1,246922162,1,West Nile virus disease
+ortho1,285321069,1,Acute urticaria
+ortho1,294667532,1,gout
+ortho1,306104904,0,hyperthyroidism
+ortho1,314669186,0,staphylococcal infection
+ortho1,343170511,1,diabetic neuropathy
+ortho1,360926891,0,intussusception
+ortho1,366614084,1,female breast cancer
+ortho1,373635213,0,vancomycin
+ortho1,48693781,1,allergic rhinitis
+ortho1,491054711,0,ischemic stroke
+ortho1,504466766,0,codeine
+ortho1,533517250,1,bounding pulse
+ortho1,55350942,1,syncope
+ortho1,596262383,0,hypokalemia
+ortho1,638087159,2,"[bronchitis, tuberculosis, bronchiectasis]"
+ortho1,652675894,1,cortisone
+ortho1,721983276,0,glyBURIDE
+ortho1,754442938,1,Legg-Calvé-Perthes disease
+ortho1,798089099,0,croup
+ortho1,836886421,1,campylobacteriosis
+ortho1,85598872,0,streptococcal infection
+ortho1,856687648,1,penicillin
+ortho1,913417450,1,radial head subluxation
+ortho1,980128140,1,fatigue
+ortho2,-1154198561,1,"[chronic sinusitis, tuberculosis, bronchitis]"
+ortho2,-1178650343,1,abdominal aortic aneurysm
+ortho2,-1195576538,1,spondylolisthesis
+ortho2,-1227921966,1,chronic pancreatitis
+ortho2,-1245415419,1,Chronic suppurative otitis media
+ortho2,-1296951291,2,"[tuberculosis, bronchiectasis, bronchitis]"
+ortho2,-131664545,0,irritability
+ortho2,-1332818599,1,avian influenza
+ortho2,-1352072290,2,"[tuberculosis, bronchiectasis]"
+ortho2,-1360782023,1,toxic shock syndrome
+ortho2,-1373701793,0,morphine
+ortho2,-1386524416,0,adult acute diarrhea
+ortho2,-1398748014,0,diabetes mellitus type 1 in adults
+ortho2,-1421669299,1,autonomic dysreflexia
+ortho2,-1442160837,1,etidronate
+ortho2,-1520310312,1,heart failure
+ortho2,-1536794602,0,inflamed joint
+ortho2,-1541983061,1,peroneal muscular atrophy
+ortho2,-1567020152,1,"[herpes simplex infection, Behçet syndrome]"
+ortho2,-1597385599,1,malignant hyperthermia
+ortho2,-1619489304,2,"[bronchiectasis, chronic sinusitis, tuberculosis]"
+ortho2,-1636317005,1,certolizumab
+ortho2,-1648484617,0,pediatric meningitis
+ortho2,-171924202,1,carbidopa
+ortho2,-1726577036,0,botulism
+ortho2,-1741358200,2,"[malignant lymphoma, Crohn disease, extrapulmonary tuberculosis, neoplasm metastasis]"
+ortho2,-1744722716,1,"[herpes simplex infection, allergic contact dermatitis, hand foot and mouth disease]"
+ortho2,-1772718435,1,pharyngitis
+ortho2,-179437985,1,megaloblastic anemia due to folate deficiency
+ortho2,-1795992718,1,alteration in consciousness
+ortho2,-1820252012,1,topiramate
+ortho2,-182696637,1,Legg-Calvé-Perthes disease
+ortho2,-1844940382,0,[ulcerative colitis]
+ortho2,-1856866015,1,autonomic dysreflexia
+ortho2,-187305279,2,"[tuberculosis, bronchitis, bronchiectasis]"
+ortho2,-1878599236,1,spondylolisthesis
+ortho2,-188669522,1,shoulder dislocation
+ortho2,-1921063903,1,chronic pancreatitis
+ortho2,-1923632496,1,decompression sickness
+ortho2,-2002273997,0,eosinophilic esophagitis
+ortho2,-2035787841,1,alpha 1-antitrypsin deficiency
+ortho2,-2036982507,0,budesonide nasal
+ortho2,-2041124775,1,radial head subluxation
+ortho2,-2095091475,1,scabies
+ortho2,-2115138625,0,cyclosporine
+ortho2,-228503150,1,altitude sickness
+ortho2,-245780405,1,chest pain
+ortho2,-297867117,0,enalapril
+ortho2,-406621636,1,mumps
+ortho2,-425916557,1,dyspnea
+ortho2,-485266509,1,clonidine
+ortho2,-489629583,1,medulloblastoma
+ortho2,-515543363,1,sepsis
+ortho2,-570295292,1,"[influenza, viral meningitis, bacterial meningitis]"
+ortho2,-614797382,1,fluoroquinolone
+ortho2,-639113721,1,spondylolisthesis
+ortho2,-655529301,0,sepsis
+ortho2,-664126766,0,pulmonary valve stenosis
+ortho2,-688062151,1,pneumococcal meningitis
+ortho2,-708064003,0,history of connective tissue disorder
+ortho2,-763460814,2,"[dissecting aortic aneurysm, pulmonary embolism, acute coronary syndrome, pericarditis]"
+ortho2,-777960901,0,myocarditis
+ortho2,-853603256,0,tenesmus
+ortho2,-859477240,1,Reye syndrome
+ortho2,-904922175,1,omeprazole
+ortho2,-951273271,1,heart failure
+ortho2,-96890651,2,"[Takotsubo cardiomyopathy, pulmonary embolism, dissecting aortic aneurysm, acute coronary syndrome, diffuse esophageal spasm]"
+ortho2,-976885592,1,paclitaxel
+ortho2,1004418858,1,gastroesophageal reflux disease in adults
+ortho2,1063986049,0,autonomic dysreflexia
+ortho2,113842132,1,achondroplasia
+ortho2,1150579605,0,bacterial meningitis in adult
+ortho2,1268595047,2,"[adult asthma, heart failure]"
+ortho2,1269363559,0,bacterial meningitis in adult
+ortho2,1296500468,1,slipped upper femoral epiphysis
+ortho2,1313229501,0,ceftazidime
+ortho2,1358937044,1,cervicofacial actinomycosis
+ortho2,1373318532,1,carbon monoxide poisoning
+ortho2,1396553893,1,Chagas disease
+ortho2,1444924091,1,Hashimoto disease
+ortho2,1458408602,0,ceftaroline
+ortho2,1466679831,0,short-acting anticholinergics
+ortho2,1479252266,1,ankylosing spondylitis
+ortho2,1479813209,2,"[bronchiectasis, tuberculosis]"
+ortho2,1508327947,0,acetaminophen/dextromethorphan
+ortho2,1530377818,1,poliomyelitis
+ortho2,1586343918,1,chronic pancreatitis
+ortho2,1632388614,1,giardiasis
+ortho2,1713191791,1,Barrett esophagus
+ortho2,1718846532,0,lomefloxacin
+ortho2,1872323125,1,altitude sickness
+ortho2,1963399416,1,moxifloxacin
+ortho2,198296330,0,Chagas disease
+ortho2,2028175225,2,"[Takotsubo cardiomyopathy, pulmonary embolism, acute coronary syndrome]"
+ortho2,2043881490,1,sepsis
+ortho2,212304074,1,"[allergic contact dermatitis, hand foot and mouth disease]"
+ortho2,246922162,0,thiamine deficiency
+ortho2,285321069,1,Acute urticaria
+ortho2,294667532,1,gout
+ortho2,306104904,0,hyperthyroidism
+ortho2,314669186,1,mumps
+ortho2,343170511,1,diabetic neuropathy
+ortho2,360926891,1,diverticulosis
+ortho2,366614084,1,female breast cancer
+ortho2,373635213,1,meropenem
+ortho2,48693781,1,allergic rhinitis
+ortho2,491054711,1,age-related macular degeneration
+ortho2,504466766,0,codeine
+ortho2,533517250,0,syncope
+ortho2,55350942,1,syncope
+ortho2,596262383,0,hypokalemia
+ortho2,638087159,2,"[idiopathic pulmonary fibrosis, bronchiectasis, bronchitis, tuberculosis]"
+ortho2,652675894,1,cortisone
+ortho2,721983276,1,amitriptyline
+ortho2,754442938,1,Legg-Calvé-Perthes disease
+ortho2,798089099,0,pulmonary valve stenosis
+ortho2,836886421,0,shigellosis
+ortho2,85598872,1,toxic shock syndrome
+ortho2,856687648,1,penicillin
+ortho2,913417450,1,radial head subluxation
+ortho2,980128140,0,abdominal tenderness
+ortho3,-1154198561,1,"[tuberculosis, chronic sinusitis]"
+ortho3,-1178650343,1,abdominal aortic aneurysm
+ortho3,-1195576538,1,spondylolisthesis
+ortho3,-1227921966,1,chronic pancreatitis
+ortho3,-1245415419,1,Chronic suppurative otitis media
+ortho3,-1296951291,1,"[cystic fibrosis, tuberculosis, bronchitis]"
+ortho3,-131664545,0,irritability
+ortho3,-1332818599,0,pharyngitis
+ortho3,-1352072290,1,"[tuberculosis, cystic fibrosis]"
+ortho3,-1360782023,1,toxic shock syndrome
+ortho3,-1373701793,0,corticotropin
+ortho3,-1386524416,1,chronic pancreatitis
+ortho3,-1398748014,0,Wegener granulomatosis
+ortho3,-1421669299,1,autonomic dysreflexia
+ortho3,-1442160837,1,etidronate
+ortho3,-1520310312,1,heart failure
+ortho3,-1536794602,0,inflamed joint
+ortho3,-1541983061,1,peroneal muscular atrophy
+ortho3,-1567020152,2,"[Crohn disease, herpes simplex infection, Behçet syndrome]"
+ortho3,-1597385599,1,malignant hyperthermia
+ortho3,-1619489304,2,"[bronchiectasis, cystic fibrosis, asthma, chronic sinusitis, tuberculosis]"
+ortho3,-1636317005,1,certolizumab
+ortho3,-1648484617,1,pneumococcal meningitis
+ortho3,-171924202,1,carbidopa
+ortho3,-1726577036,0,botulism
+ortho3,-1741358200,1,"[neoplasm metastasis, Crohn disease, malignant lymphoma]"
+ortho3,-1744722716,2,"[herpes simplex infection, erythema multiforme, hand foot and mouth disease]"
+ortho3,-1772718435,1,pharyngitis
+ortho3,-179437985,0,Bartter syndrome
+ortho3,-1795992718,1,alteration in consciousness
+ortho3,-1820252012,1,topiramate
+ortho3,-182696637,1,Legg-Calvé-Perthes disease
+ortho3,-1844940382,1,[Behçet syndrome]
+ortho3,-1856866015,0,Cushing syndrome
+ortho3,-187305279,2,"[tuberculosis, bronchiectasis]"
+ortho3,-1878599236,0,acute low back pain
+ortho3,-188669522,1,shoulder dislocation
+ortho3,-1921063903,1,chronic pancreatitis
+ortho3,-1923632496,1,decompression sickness
+ortho3,-2002273997,1,Middle East respiratory syndrome
+ortho3,-2035787841,0,dermatomyositis
+ortho3,-2036982507,1,mifepristone
+ortho3,-2041124775,1,radial head subluxation
+ortho3,-2095091475,0,amebiasis
+ortho3,-2115138625,0,azathioprine
+ortho3,-228503150,0,Kawasaki disease
+ortho3,-245780405,1,chest pain
+ortho3,-297867117,1,sildenafil
+ortho3,-406621636,1,mumps
+ortho3,-425916557,1,dyspnea
+ortho3,-485266509,1,clonidine
+ortho3,-489629583,1,medulloblastoma
+ortho3,-515543363,1,sepsis
+ortho3,-570295292,1,"[influenza, bacterial meningitis]"
+ortho3,-614797382,1,fluoroquinolone
+ortho3,-639113721,1,spondylolisthesis
+ortho3,-655529301,1,toxic shock syndrome
+ortho3,-664126766,0,pulmonary valve stenosis
+ortho3,-688062151,0,bacterial meningitis in adult
+ortho3,-708064003,1,chest pain
+ortho3,-763460814,2,"[dissecting aortic aneurysm, acute coronary syndrome, pericarditis, pulmonary embolism]"
+ortho3,-777960901,0,myocarditis
+ortho3,-853603256,0,tenesmus
+ortho3,-859477240,1,Reye syndrome
+ortho3,-904922175,0,elvitegravir
+ortho3,-951273271,1,heart failure
+ortho3,-96890651,2,"[diffuse esophageal spasm, pulmonary embolism, acute coronary syndrome, dissecting aortic aneurysm]"
+ortho3,-976885592,0,meperidine
+ortho3,1004418858,1,gastroesophageal reflux disease in adults
+ortho3,1063986049,1,poliomyelitis
+ortho3,113842132,1,achondroplasia
+ortho3,1150579605,0,bacterial meningitis in adult
+ortho3,1268595047,2,"[heart failure, adult asthma]"
+ortho3,1269363559,0,psittacosis
+ortho3,1296500468,1,slipped upper femoral epiphysis
+ortho3,1313229501,0,ceftazidime
+ortho3,1358937044,1,cervicofacial actinomycosis
+ortho3,1373318532,0,adult asthma
+ortho3,1396553893,0,sepsis
+ortho3,1444924091,0,dysphagia
+ortho3,1458408602,0,rifampin
+ortho3,1466679831,0,short-acting anticholinergics
+ortho3,1479252266,1,ankylosing spondylitis
+ortho3,1479813209,2,"[tuberculosis, bronchiectasis]"
+ortho3,1508327947,1,dexchlorpheniramine/dextromethorphan/PE
+ortho3,1530377818,0,spondylolisthesis
+ortho3,1586343918,1,chronic pancreatitis
+ortho3,1632388614,0,intussusception
+ortho3,1713191791,1,Barrett esophagus
+ortho3,1718846532,0,lomefloxacin
+ortho3,1872323125,1,altitude sickness
+ortho3,1963399416,1,moxifloxacin
+ortho3,198296330,0,Middle East respiratory syndrome
+ortho3,2028175225,2,"[Takotsubo cardiomyopathy, acute coronary syndrome, pulmonary embolism]"
+ortho3,2043881490,1,sepsis
+ortho3,212304074,2,"[herpes simplex infection, erythema multiforme, hand foot and mouth disease]"
+ortho3,246922162,0,poliomyelitis
+ortho3,285321069,0,erythema multiforme
+ortho3,294667532,1,gout
+ortho3,306104904,1,diaphragmatic hernia
+ortho3,314669186,0,staphylococcal infection
+ortho3,343170511,0,adult acute diarrhea
+ortho3,360926891,0,carcinoid tumor
+ortho3,366614084,1,female breast cancer
+ortho3,373635213,1,meropenem
+ortho3,48693781,1,allergic rhinitis
+ortho3,491054711,0,ischemic stroke
+ortho3,504466766,1,sulindac
+ortho3,533517250,1,bounding pulse
+ortho3,55350942,0,Pulsus alternans
+ortho3,596262383,0,hypokalemia
+ortho3,638087159,2,"[tuberculosis, bronchiectasis, bronchitis]"
+ortho3,652675894,1,cortisone
+ortho3,721983276,1,amitriptyline
+ortho3,754442938,0,acute low back pain
+ortho3,798089099,0,pulmonary valve stenosis
+ortho3,836886421,1,campylobacteriosis
+ortho3,85598872,0,Behçet syndrome
+ortho3,856687648,1,penicillin
+ortho3,913417450,1,radial head subluxation
+ortho3,980128140,1,fatigue
+ortho4,-1154198561,2,"[bronchiectasis, bronchitis, tuberculosis]"
+ortho4,-1178650343,0,subacute spongiform encephalopathy
+ortho4,-1195576538,1,spondylolisthesis
+ortho4,-1227921966,1,chronic pancreatitis
+ortho4,-1245415419,1,Chronic suppurative otitis media
+ortho4,-1296951291,1,"[tuberculosis, bronchitis]"
+ortho4,-131664545,0,irritability
+ortho4,-1332818599,0,atrial fibrillation
+ortho4,-1352072290,1,"[lung carcinoma, bronchiectasis]"
+ortho4,-1360782023,0,generalized anxiety disorder
+ortho4,-1373701793,1,lidocaine topical
+ortho4,-1386524416,1,chronic pancreatitis
+ortho4,-1398748014,0,Wegener granulomatosis
+ortho4,-1421669299,1,autonomic dysreflexia
+ortho4,-1442160837,1,etidronate
+ortho4,-1520310312,1,heart failure
+ortho4,-1536794602,0,inflamed joint
+ortho4,-1541983061,1,peroneal muscular atrophy
+ortho4,-1567020152,2,"[Crohn disease, Behçet syndrome]"
+ortho4,-1597385599,0,nosocomial pneumonia
+ortho4,-1619489304,1,"[bronchiectasis, chronic sinusitis]"
+ortho4,-1636317005,1,certolizumab
+ortho4,-1648484617,0,pediatric meningitis
+ortho4,-171924202,1,carbidopa
+ortho4,-1726577036,0,febrile convulsions
+ortho4,-1741358200,2,"[malignant lymphoma, Crohn disease, extrapulmonary tuberculosis, neoplasm metastasis]"
+ortho4,-1744722716,1,"[herpes simplex infection, erythema multiforme]"
+ortho4,-1772718435,0,mumps
+ortho4,-179437985,1,megaloblastic anemia due to folate deficiency
+ortho4,-1795992718,1,alteration in consciousness
+ortho4,-1820252012,1,topiramate
+ortho4,-182696637,1,Legg-Calvé-Perthes disease
+ortho4,-1844940382,2,"[ulcerative colitis, Crohn disease, Behçet syndrome]"
+ortho4,-1856866015,1,autonomic dysreflexia
+ortho4,-187305279,1,"[bronchiectasis, bronchitis]"
+ortho4,-1878599236,1,spondylolisthesis
+ortho4,-188669522,1,shoulder dislocation
+ortho4,-1921063903,1,chronic pancreatitis
+ortho4,-1923632496,1,decompression sickness
+ortho4,-2002273997,0,eosinophilic esophagitis
+ortho4,-2035787841,1,alpha 1-antitrypsin deficiency
+ortho4,-2036982507,1,mifepristone
+ortho4,-2041124775,1,radial head subluxation
+ortho4,-2095091475,1,scabies
+ortho4,-2115138625,0,belimumab
+ortho4,-228503150,1,altitude sickness
+ortho4,-245780405,1,chest pain
+ortho4,-297867117,1,sildenafil
+ortho4,-406621636,0,erythema nodosum
+ortho4,-425916557,1,dyspnea
+ortho4,-485266509,1,clonidine
+ortho4,-489629583,1,medulloblastoma
+ortho4,-515543363,1,sepsis
+ortho4,-570295292,1,"[influenza, bacterial meningitis]"
+ortho4,-614797382,1,fluoroquinolone
+ortho4,-639113721,1,spondylolisthesis
+ortho4,-655529301,0,generalized anxiety disorder
+ortho4,-664126766,1,megaloblastic anemia due to folate deficiency
+ortho4,-688062151,0,bacterial meningitis in adult
+ortho4,-708064003,1,chest pain
+ortho4,-763460814,2,"[acute coronary syndrome, dissecting aortic aneurysm, pulmonary embolism, pericarditis]"
+ortho4,-777960901,0,dizziness
+ortho4,-853603256,0,tenesmus
+ortho4,-859477240,0,bacterial meningitis in adult
+ortho4,-904922175,0,eltrombopag
+ortho4,-951273271,1,heart failure
+ortho4,-96890651,2,"[dissecting aortic aneurysm, acute coronary syndrome, pulmonary embolism]"
+ortho4,-976885592,0,meperidine
+ortho4,1004418858,1,gastroesophageal reflux disease in adults
+ortho4,1063986049,1,poliomyelitis
+ortho4,113842132,1,achondroplasia
+ortho4,1150579605,0,bacterial meningitis in adult
+ortho4,1268595047,1,"[heart failure, gastroesophageal reflux disease]"
+ortho4,1269363559,0,bacterial meningitis in adult
+ortho4,1296500468,1,slipped upper femoral epiphysis
+ortho4,1313229501,0,ceftazidime
+ortho4,1358937044,1,cervicofacial actinomycosis
+ortho4,1373318532,1,carbon monoxide poisoning
+ortho4,1396553893,0,sepsis
+ortho4,1444924091,0,epistaxis
+ortho4,1458408602,1,doxycycline
+ortho4,1466679831,0,fludrocortisone
+ortho4,1479252266,0,MRSA infection
+ortho4,1479813209,2,"[tuberculosis, bronchiectasis]"
+ortho4,1508327947,1,dexchlorpheniramine/dextromethorphan/PE
+ortho4,1530377818,1,poliomyelitis
+ortho4,1586343918,1,chronic pancreatitis
+ortho4,1632388614,1,giardiasis
+ortho4,1713191791,1,Barrett esophagus
+ortho4,1718846532,0,ofloxacin
+ortho4,1872323125,1,altitude sickness
+ortho4,1963399416,1,moxifloxacin
+ortho4,198296330,0,Middle East respiratory syndrome
+ortho4,2028175225,1,[acute coronary syndrome]
+ortho4,2043881490,0,angioedema
+ortho4,212304074,0,[herpes simplex infection]
+ortho4,246922162,0,nosocomial pneumonia
+ortho4,285321069,1,Acute urticaria
+ortho4,294667532,1,gout
+ortho4,306104904,0,hypertension
+ortho4,314669186,0,staphylococcal infection
+ortho4,343170511,1,diabetic neuropathy
+ortho4,360926891,1,diverticulosis
+ortho4,366614084,1,female breast cancer
+ortho4,373635213,1,meropenem
+ortho4,48693781,1,allergic rhinitis
+ortho4,491054711,0,ischemic stroke
+ortho4,504466766,0,codeine
+ortho4,533517250,0,pulsus paradoxus
+ortho4,55350942,1,syncope
+ortho4,596262383,0,hypokalemia
+ortho4,638087159,1,[tuberculosis]
+ortho4,652675894,1,cortisone
+ortho4,721983276,1,amitriptyline
+ortho4,754442938,1,Legg-Calvé-Perthes disease
+ortho4,798089099,0,pulmonary valve stenosis
+ortho4,836886421,0,shigellosis
+ortho4,85598872,0,generalized anxiety disorder
+ortho4,856687648,1,penicillin
+ortho4,913417450,1,radial head subluxation
+ortho4,980128140,0,abdominal tenderness
+ortho5,-1154198561,2,"[bronchiectasis, chronic sinusitis, tuberculosis]"
+ortho5,-1178650343,0,subacute spongiform encephalopathy
+ortho5,-1195576538,1,spondylolisthesis
+ortho5,-1227921966,1,chronic pancreatitis
+ortho5,-1296951291,2,"[tuberculosis, bronchiectasis, bronchitis, cystic fibrosis]"
+ortho5,-131664545,0,irritability
+ortho5,-1332818599,0,pharyngitis
+ortho5,-1360782023,0,Cushing syndrome
+ortho5,-1373701793,0,corticotropin
+ortho5,-1386524416,1,chronic pancreatitis
+ortho5,-1398748014,1,dermatomyositis
+ortho5,-1421669299,1,autonomic dysreflexia
+ortho5,-1442160837,1,etidronate
+ortho5,-1520310312,1,heart failure
+ortho5,-1536794602,0,inflamed joint
+ortho5,-1541983061,1,peroneal muscular atrophy
+ortho5,-1567020152,1,"[herpes simplex infection, Behçet syndrome]"
+ortho5,-1597385599,1,malignant hyperthermia
+ortho5,-1619489304,1,"[bronchiectasis, chronic sinusitis, cystic fibrosis]"
+ortho5,-1648484617,0,toxic shock syndrome
+ortho5,-171924202,1,carbidopa
+ortho5,-1726577036,0,botulism
+ortho5,-1741358200,1,"[Crohn disease, malignant lymphoma]"
+ortho5,-1772718435,0,mumps
+ortho5,-179437985,0,Bartter syndrome
+ortho5,-1795992718,1,alteration in consciousness
+ortho5,-1820252012,1,topiramate
+ortho5,-1844940382,1,"[ulcerative colitis, Crohn disease]"
+ortho5,-1856866015,1,autonomic dysreflexia
+ortho5,-187305279,1,[bronchiectasis]
+ortho5,-1878599236,1,spondylolisthesis
+ortho5,-188669522,1,shoulder dislocation
+ortho5,-1921063903,1,chronic pancreatitis
+ortho5,-1923632496,1,decompression sickness
+ortho5,-2002273997,0,hyperthyroidism
+ortho5,-2035787841,1,alpha 1-antitrypsin deficiency
+ortho5,-2036982507,0,budesonide nasal
+ortho5,-2095091475,1,scabies
+ortho5,-2115138625,1,cortisone
+ortho5,-228503150,1,altitude sickness
+ortho5,-245780405,1,chest pain
+ortho5,-297867117,0,norethindrone
+ortho5,-406621636,1,mumps
+ortho5,-485266509,0,desipramine
+ortho5,-515543363,1,sepsis
+ortho5,-570295292,1,[influenza]
+ortho5,-614797382,1,fluoroquinolone
+ortho5,-639113721,1,spondylolisthesis
+ortho5,-655529301,0,generalized anxiety disorder
+ortho5,-664126766,0,pulmonary valve stenosis
+ortho5,-688062151,1,pneumococcal meningitis
+ortho5,-708064003,0,history of connective tissue disorder
+ortho5,-763460814,2,"[pulmonary embolism, acute coronary syndrome, dissecting aortic aneurysm]"
+ortho5,-777960901,0,myocarditis
+ortho5,-853603256,0,tenesmus
+ortho5,-904922175,1,omeprazole
+ortho5,-951273271,1,heart failure
+ortho5,-96890651,1,"[acute coronary syndrome, Takotsubo cardiomyopathy, dissecting aortic aneurysm]"
+ortho5,1004418858,1,gastroesophageal reflux disease in adults
+ortho5,1063986049,1,poliomyelitis
+ortho5,113842132,1,achondroplasia
+ortho5,1150579605,0,HIV infection
+ortho5,1268595047,1,[heart failure]
+ortho5,1269363559,0,bacterial meningitis in adult
+ortho5,1296500468,1,slipped upper femoral epiphysis
+ortho5,1358937044,1,cervicofacial actinomycosis
+ortho5,1373318532,1,carbon monoxide poisoning
+ortho5,1396553893,0,mumps
+ortho5,1444924091,1,Hashimoto disease
+ortho5,1458408602,0,ceftaroline
+ortho5,1466679831,1,norepinephrine
+ortho5,1479252266,0,MRSA infection
+ortho5,1479813209,1,[bronchiectasis]
+ortho5,1508327947,0,acetaminophen/dextromethorphan
+ortho5,1586343918,1,chronic pancreatitis
+ortho5,1632388614,0,intussusception
+ortho5,1713191791,1,Barrett esophagus
+ortho5,1872323125,1,altitude sickness
+ortho5,198296330,1,West Nile virus disease
+ortho5,2028175225,2,"[Takotsubo cardiomyopathy, pulmonary embolism, acute coronary syndrome]"
+ortho5,212304074,1,"[hand foot and mouth disease, herpes simplex infection]"
+ortho5,246922162,0,chikungunya fever
+ortho5,285321069,1,Acute urticaria
+ortho5,294667532,0,MRSA infection
+ortho5,306104904,0,hyperthyroidism
+ortho5,343170511,1,diabetic neuropathy
+ortho5,360926891,0,carcinoid tumor
+ortho5,366614084,1,female breast cancer
+ortho5,491054711,1,age-related macular degeneration
+ortho5,504466766,1,sulindac
+ortho5,533517250,0,pulsus paradoxus
+ortho5,55350942,1,syncope
+ortho5,596262383,0,hypokalemia
+ortho5,638087159,2,"[bronchitis, bronchiectasis, tuberculosis]"
+ortho5,652675894,0,desipramine
+ortho5,721983276,1,amitriptyline
+ortho5,754442938,1,Legg-Calvé-Perthes disease
+ortho5,798089099,1,megaloblastic anemia due to folate deficiency
+ortho5,836886421,1,campylobacteriosis
+ortho5,85598872,0,streptococcal infection
+ortho5,856687648,1,penicillin
+ortho5,913417450,1,radial head subluxation
+ortho5,980128140,0,abdominal tenderness

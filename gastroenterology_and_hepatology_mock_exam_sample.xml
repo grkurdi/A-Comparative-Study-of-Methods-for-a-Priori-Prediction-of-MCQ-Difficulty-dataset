@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionset>
+  <question author="Manchester Automated" distractor_difficulty="0.02" question_difficulty="0.01" question_id="-1121866138" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with peptic ulcer disease. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-9099497" element_label="Pain relief by antacid" primary="true">
+        <explanation>Pain relief by antacid is a most common clinical finding for peptic ulcer disease in  a patient</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-9727126" element_label="tarry stool">
+        <explanation>Pain relief by antacid is a most common clinical finding for peptic ulcer disease in  a patient whilst tarry stool is sometimes a clincial finding for peptic ulcer disease in  a patient</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8115021" element_label="night pain">
+        <explanation>Pain relief by antacid is a most common clinical finding for peptic ulcer disease in  a patient whilst night pain is a rare clinical finding for peptic ulcer disease in  a patient</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-8896523" element_label="liver palpable">
+        <explanation>Pain relief by antacid is a most common clinical finding for peptic ulcer disease in  a patient whilst liver palpable is not a clinical finding for peptic ulcer disease</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2792222" element_label="weight loss">
+        <explanation>Pain relief by antacid is a most common clinical finding for peptic ulcer disease in  a patient whilst weight loss is a common clinical finding for peptic ulcer disease in  a patient</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.016" question_difficulty="0.342" question_id="-1126145180" source="MCQGController Test" stem_difficulty="0.667" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with bronchitis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792309" element_label="cefdinir" primary="true">
+        <explanation>Cefdinir is a 3rd line medication for bronchitis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-9076969" element_label="rimonabant">
+        <explanation>Cefdinir is a 3rd line medication for bronchitis whilst rimonabant is not a medication for bronchitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-9192380" element_label="silymarin">
+        <explanation>Cefdinir is a 3rd line medication for bronchitis whilst silymarin is not a medication for bronchitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2790848" element_label="mitomycin">
+        <explanation>Cefdinir is a 3rd line medication for bronchitis whilst mitomycin is not a medication for bronchitis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.017" question_difficulty="0.175" question_id="-1165521301" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A 65+ year old female with a proton pump inhibitor presents with fever, decreased skin turgor and dry mucous membrane. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9762547" element_label="dry mucous membrane" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047360" element_label="fever" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8123368" element_label="decreased skin turgor" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-7996622" element_label="proton pump inhibitor" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8234917" element_label="Clostridium difficile diarrhea" primary="true">
+        <explanation>Fever is a common clinical finding  for Clostridium difficile diarrhea, decreased skin turgor is a common clinical finding  for Clostridium difficile diarrhea and dry mucous membrane is a common clinical finding  for Clostridium difficile diarrhea.
+Proton pump inhibitor is a commonly associated risk factor for Clostridium difficile diarrhea and female is a commonly associated risk factor for Clostridium difficile diarrhea.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-3815349" element_label="hepatitis C">
+        <explanation>Fever is sometimes a clincial finding for hepatitis C whilst it is a common clinical finding for Clostridium difficile diarrhea, decreased skin turgor is not a clinical finding for hepatitis C whilst it is a common clinical finding for Clostridium difficile diarrhea and dry mucous membrane is not a clinical finding for hepatitis C whilst it is a common clinical finding for Clostridium difficile diarrhea.
+Proton pump inhibitor is not a risk factor for hepatitis C whilst it is a commonly associated risk factor for Clostridium difficile diarrhea and female is a rarely associated risk factor for hepatitis C whilst it is a commonly associated risk factor for Clostridium difficile diarrhea.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.08" element_id="http://emmet.elsevier.com#Concept-8242781" element_label="acute mesenteric ischemia">
+        <explanation>Fever is sometimes a clincial finding for acute mesenteric ischemia whilst it is a common clinical finding for Clostridium difficile diarrhea, decreased skin turgor is not a clinical finding for acute mesenteric ischemia whilst it is a common clinical finding for Clostridium difficile diarrhea and dry mucous membrane is not a clinical finding for acute mesenteric ischemia whilst it is a common clinical finding for Clostridium difficile diarrhea.
+Proton pump inhibitor is not a risk factor for acute mesenteric ischemia whilst it is a commonly associated risk factor for Clostridium difficile diarrhea.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.08" element_id="http://emmet.elsevier.com#Concept-3815039" element_label="choledochal cyst">
+        <explanation>Fever is sometimes a clincial finding for choledochal cyst whilst it is a common clinical finding for Clostridium difficile diarrhea, decreased skin turgor is not a clinical finding for choledochal cyst whilst it is a common clinical finding for Clostridium difficile diarrhea and dry mucous membrane is not a clinical finding for choledochal cyst whilst it is a common clinical finding for Clostridium difficile diarrhea.
+Proton pump inhibitor is not a risk factor for choledochal cyst whilst it is a commonly associated risk factor for Clostridium difficile diarrhea.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.018" question_difficulty="0.079" question_id="-1219435342" source="MCQGController Test" stem_difficulty="0.139" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A male child presents with nausea, fever and Rovsing sign. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-4993818" element_label="nausea" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047360" element_label="fever" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8947458" element_label="Rovsing's sign" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8112460" element_label="child" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790900" element_label="appendicitis" primary="true">
+        <explanation>Nausea is a most common clinical finding  for appendicitis, fever is a most common clinical finding  for appendicitis and Rovsing's sign is a common clinical finding  for appendicitis.
+Male is a commonly associated risk factor for appendicitis and child is a strongly associated risk factor for appendicitis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.078" element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception">
+        <explanation>Nausea is sometimes a clincial finding for intussusception whilst it is a most common clinical finding for appendicitis, fever is sometimes a clincial finding for intussusception whilst it is a most common clinical finding for appendicitis and Rovsing's sign is not a clinical finding for intussusception whilst it is a common clinical finding for appendicitis.
+Male is a sometimes associated risk factor for intussusception whilst it is a commonly associated risk factor for appendicitis and child is a commonly associated risk factor for intussusception whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.068" element_id="http://emmet.elsevier.com#Concept-9778463" element_label="pediatric gastroenteritis">
+        <explanation>Nausea is not a clinical finding for pediatric gastroenteritis whilst it is a most common clinical finding for appendicitis, fever is sometimes a clincial finding for pediatric gastroenteritis whilst it is a most common clinical finding for appendicitis and Rovsing's sign is not a clinical finding for pediatric gastroenteritis whilst it is a common clinical finding for appendicitis.
+Male is not a risk factor for pediatric gastroenteritis whilst it is a commonly associated risk factor for appendicitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.083" element_id="http://emmet.elsevier.com#Concept-3815641" element_label="Henoch-Schonlein purpura">
+        <explanation>Nausea is sometimes a clincial finding for Henoch-Schonlein purpura whilst it is a most common clinical finding for appendicitis, fever is not a clinical finding for Henoch-Schonlein purpura whilst it is a most common clinical finding for appendicitis and Rovsing's sign is not a clinical finding for Henoch-Schonlein purpura whilst it is a common clinical finding for appendicitis.
+Male is a sometimes associated risk factor for Henoch-Schonlein purpura whilst it is a commonly associated risk factor for appendicitis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.006" question_difficulty="0.128" question_id="-1226937926" source="MCQGController Test" stem_difficulty="0.25" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>An infant presents with diarrhea and lethargy. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5345514" element_label="lethargy" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2800232" element_label="diarrhea" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8111397" element_label="infant" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-9778463" element_label="pediatric gastroenteritis" primary="true">
+        <explanation>Diarrhea is a common clinical finding  for pediatric gastroenteritis and lethargy is sometimes a clincial finding  for pediatric gastroenteritis.
+Infant is a strongly associated risk factor for pediatric gastroenteritis.</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception" primary="true">
+        <explanation>Intussusception is a likely occurring differential diagnosis to pediatric gastroenteritis. Lethargy is a common clinical finding for intussusception whilst it is sometimes a clincial finding for pediatric gastroenteritis. .</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-7996732" element_label="inflammatory bowel disease">
+        <explanation>Inflammatory bowel disease is a likely occurring differential diagnosis to pediatric gastroenteritis. Lethargy is not a clinical finding for inflammatory bowel disease whilst it is sometimes a clincial finding for pediatric gastroenteritis. Infant is not a risk factor for inflammatory bowel disease whilst it is a strongly associated risk factor for pediatric gastroenteritis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8433208" element_label="Drug AND/OR toxin-induced diarrhea">
+        <explanation>Drug AND/OR toxin-induced diarrhea is a likely occurring differential diagnosis to pediatric gastroenteritis. Diarrhea is not a clinical finding for Drug AND/OR toxin-induced diarrhea whilst it is a common clinical finding for pediatric gastroenteritis and lethargy is not a clinical finding for Drug AND/OR toxin-induced diarrhea whilst it is sometimes a clincial finding for pediatric gastroenteritis. Infant is not a risk factor for Drug AND/OR toxin-induced diarrhea whilst it is a strongly associated risk factor for pediatric gastroenteritis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.01" question_difficulty="0.005" question_id="-1413817732" source="MCQGController Test" stem_difficulty="0.0" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>An African American child presents with generalized colicky abdominal pain. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9062284" element_label="generalized colicky abdominal pain" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8108510" element_label="African American" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791537" element_label="lactose intolerance" primary="true">
+        <explanation>Generalized colicky abdominal pain is a most common clinical finding  for lactose intolerance.
+African American is a strongly associated risk factor for lactose intolerance.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-9779764" element_label="adult acute diarrhea">
+        <explanation>Generalized colicky abdominal pain is not a clinical finding for adult acute diarrhea whilst it is a most common clinical finding for lactose intolerance.
+African American is not a risk factor for adult acute diarrhea whilst it is a strongly associated risk factor for lactose intolerance.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.049" element_id="http://emmet.elsevier.com#Concept-3815641" element_label="Henoch-Schonlein purpura">
+        <explanation>Generalized colicky abdominal pain is not a clinical finding for Henoch-Schonlein purpura whilst it is a most common clinical finding for lactose intolerance.
+African American is a sometimes associated risk factor for Henoch-Schonlein purpura whilst it is a strongly associated risk factor for lactose intolerance.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.059" element_id="http://emmet.elsevier.com#Concept-3815540" element_label="periorificial lentiginosis syndrome">
+        <explanation>Generalized colicky abdominal pain is a common clinical finding for periorificial lentiginosis syndrome whilst it is a most common clinical finding for lactose intolerance.
+African American is not a risk factor for periorificial lentiginosis syndrome whilst it is a strongly associated risk factor for lactose intolerance.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.049" element_id="http://emmet.elsevier.com#Concept-8244489" element_label="hypertrophic pyloric stenosis">
+        <explanation>Generalized colicky abdominal pain is not a clinical finding for hypertrophic pyloric stenosis whilst it is a most common clinical finding for lactose intolerance.
+African American is a sometimes associated risk factor for hypertrophic pyloric stenosis whilst it is a strongly associated risk factor for lactose intolerance.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.018" question_difficulty="0.009" question_id="-1686307363" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A 6 day old patient presents with toxic shock syndrome. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791475" element_label="hypotension" primary="true">
+        <explanation>Hypotension is a most common clinical finding for toxic shock syndrome</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-3815960" element_label="restlessness">
+        <explanation>Hypotension is a most common clinical finding for toxic shock syndrome whilst restlessness is a common clinical finding for toxic shock syndrome</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-4993818" element_label="nausea">
+        <explanation>Hypotension is a most common clinical finding for toxic shock syndrome whilst nausea is sometimes a clincial finding for toxic shock syndrome</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-8896523" element_label="liver palpable">
+        <explanation>Hypotension is a most common clinical finding for toxic shock syndrome whilst liver palpable is not a clinical finding for toxic shock syndrome</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.028" question_difficulty="0.237" question_id="-1849964201" source="MCQGController Test" stem_difficulty="0.445" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A male patient with a history of congenital anomaly of the kidney and congenital deafness presents with constipation and on examination - pulse rate tachycardia. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2791117" element_label="constipation" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8985469" element_label="on examination - pulse rate tachycardia" rank="8.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9718164" element_label="congenital anomaly of the kidney" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8241734" element_label="congenital deafness" rank="8.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3815373" element_label="Hirschsprung disease" primary="true">
+        <explanation>Constipation is a most common clinical finding  for Hirschsprung disease and on examination - pulse rate tachycardia is sometimes a clincial finding  for Hirschsprung disease.
+Male is a commonly associated risk factor for Hirschsprung disease, congenital anomaly of the kidney is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.075" element_id="http://emmet.elsevier.com#Concept-2791367" element_label="giardiasis">
+        <explanation>Constipation is sometimes a clincial finding for giardiasis whilst it is a most common clinical finding for Hirschsprung disease and on examination - pulse rate tachycardia is not a clinical finding for giardiasis whilst it is sometimes a clincial finding for Hirschsprung disease.
+Male is a sometimes associated risk factor for giardiasis whilst it is a commonly associated risk factor for Hirschsprung disease, congenital anomaly of the kidney is not a risk factor for giardiasis whilst it is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is not a risk factor for giardiasis whilst it is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.075" element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception">
+        <explanation>Constipation is sometimes a clincial finding for intussusception whilst it is a most common clinical finding for Hirschsprung disease and on examination - pulse rate tachycardia is not a clinical finding for intussusception whilst it is sometimes a clincial finding for Hirschsprung disease.
+Male is a sometimes associated risk factor for intussusception whilst it is a commonly associated risk factor for Hirschsprung disease, congenital anomaly of the kidney is not a risk factor for intussusception whilst it is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is not a risk factor for intussusception whilst it is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.083" element_id="http://emmet.elsevier.com#Concept-2791013" element_label="carcinoid tumor">
+        <explanation>Constipation is sometimes a clincial finding for carcinoid tumor whilst it is a most common clinical finding for Hirschsprung disease and on examination - pulse rate tachycardia is not a clinical finding for carcinoid tumor whilst it is sometimes a clincial finding for Hirschsprung disease.
+Congenital anomaly of the kidney is not a risk factor for carcinoid tumor whilst it is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is not a risk factor for carcinoid tumor whilst it is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.097" element_id="http://emmet.elsevier.com#Concept-8248496" element_label="actinomycosis">
+        <explanation>Constipation is a common clinical finding for actinomycosis whilst it is a most common clinical finding for Hirschsprung disease and on examination - pulse rate tachycardia is not a clinical finding for actinomycosis whilst it is sometimes a clincial finding for Hirschsprung disease.
+Congenital anomaly of the kidney is not a risk factor for actinomycosis whilst it is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is not a risk factor for actinomycosis whilst it is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.011" question_difficulty="0.172" question_id="-1961448270" source="MCQGController Test" stem_difficulty="0.333" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with allergic conjunctivitis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5351582" element_label="immunosuppressive agent" primary="true">
+        <explanation>Immunosuppressive agent is a 2nd line medication for allergic conjunctivitis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2790889" element_label="antibiotic">
+        <explanation>Immunosuppressive agent is a 2nd line medication for allergic conjunctivitis whilst antibiotic is not a medication for allergic conjunctivitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-9762949" element_label="fluoroquinolone">
+        <explanation>Immunosuppressive agent is a 2nd line medication for allergic conjunctivitis whilst fluoroquinolone is not a medication for allergic conjunctivitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-8316121" element_label="bacitracin injection">
+        <explanation>Immunosuppressive agent is a 2nd line medication for allergic conjunctivitis whilst bacitracin injection is not a medication for allergic conjunctivitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2791081" element_label="ciprofloxacin">
+        <explanation>Immunosuppressive agent is a 2nd line medication for allergic conjunctivitis whilst ciprofloxacin is not a medication for allergic conjunctivitis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.04" question_difficulty="0.284" question_id="-2130593645" source="MCQGController Test" stem_difficulty="0.528" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A 1 year old male with a history of rotavirus vaccine presents with constipation, rectal prolapse and abdominal pain. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2791117" element_label="constipation" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3814762" element_label="abdominal pain" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5350670" element_label="rectal prolapse" rank="7.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8128414" element_label="rotavirus vaccine" rank="7.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception" primary="true">
+        <explanation>Constipation is sometimes a clincial finding  for intussusception, rectal prolapse is a rare clinical finding  for intussusception and abdominal pain is a most common clinical finding  for intussusception.
+Rotavirus vaccine is a rarely associated risk factor for intussusception and male is a strongly associated risk factor for intussusception in 0-4 year old child patients.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.12" element_id="http://emmet.elsevier.com#Concept-2791013" element_label="carcinoid tumor">
+        <explanation>Rectal prolapse is not a clinical finding for carcinoid tumor whilst it is a rare clinical finding for intussusception and abdominal pain is sometimes a clincial finding for carcinoid tumor whilst it is a most common clinical finding for intussusception.
+Rotavirus vaccine is not a risk factor for carcinoid tumor whilst it is a rarely associated risk factor for intussusception and male is a commonly associated risk factor for carcinoid tumor whilst it is a strongly associated risk factor for intussusception in 0-4 year old child patients.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.132" element_id="http://emmet.elsevier.com#Concept-8113085" element_label="diverticulosis">
+        <explanation>Rectal prolapse is not a clinical finding for diverticulosis whilst it is a rare clinical finding for intussusception and abdominal pain is not a clinical finding for diverticulosis whilst it is a most common clinical finding for intussusception.
+Rotavirus vaccine is not a risk factor for diverticulosis whilst it is a rarely associated risk factor for intussusception.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.089" element_id="http://emmet.elsevier.com#Concept-8234917" element_label="Clostridium difficile diarrhea">
+        <explanation>Constipation is not a clinical finding for Clostridium difficile diarrhea whilst it is sometimes a clincial finding for intussusception, rectal prolapse is not a clinical finding for Clostridium difficile diarrhea whilst it is a rare clinical finding for intussusception and abdominal pain is a common clinical finding for Clostridium difficile diarrhea whilst it is a most common clinical finding for intussusception.
+Rotavirus vaccine is not a risk factor for Clostridium difficile diarrhea whilst it is a rarely associated risk factor for intussusception and male is a sometimes associated risk factor for Clostridium difficile diarrhea whilst it is a strongly associated risk factor for intussusception in 0-4 year old child patients.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.059" question_difficulty="0.529" question_id="-282289371" source="MCQGController Test" stem_difficulty="1.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A female patient presents with ankylosing spondylitis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2794055" element_label="adalimumab" primary="true">
+        <explanation>Adalimumab is a rarely given medication for ankylosing spondylitis in  a patient</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2790862" element_label="ampicillin">
+        <explanation>Adalimumab is a rarely given medication for ankylosing spondylitis in  a patient whilst ampicillin is not a medication for ankylosing spondylitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791594" element_label="marijuana">
+        <explanation>Adalimumab is a rarely given medication for ankylosing spondylitis in  a patient whilst marijuana is not a medication for ankylosing spondylitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-8121559" element_label="interferon alfa-n3">
+        <explanation>Adalimumab is a rarely given medication for ankylosing spondylitis in  a patient whilst interferon alfa-n3 is not a medication for ankylosing spondylitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-8183332" element_label="ampicillin/sulbactam">
+        <explanation>Adalimumab is a rarely given medication for ankylosing spondylitis in  a patient whilst ampicillin/sulbactam is not a medication for ankylosing spondylitis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.019" question_difficulty="0.037" question_id="-37309510" source="MCQGController Test" stem_difficulty="0.056" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A child presents with nausea, fever and Rovsing sign. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-4993818" element_label="nausea" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047360" element_label="fever" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8947458" element_label="Rovsing's sign" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114768" element_label="young adult" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8112460" element_label="child" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790900" element_label="appendicitis" primary="true">
+        <explanation>Nausea is a most common clinical finding  for appendicitis, fever is a most common clinical finding  for appendicitis and Rovsing's sign is a common clinical finding  for appendicitis.
+Young adult is a strongly associated risk factor for appendicitis and child is a strongly associated risk factor for appendicitis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-3815641" element_label="Henoch-Schonlein purpura">
+        <explanation>Nausea is sometimes a clincial finding for Henoch-Schonlein purpura whilst it is a most common clinical finding for appendicitis, fever is not a clinical finding for Henoch-Schonlein purpura whilst it is a most common clinical finding for appendicitis and Rovsing's sign is not a clinical finding for Henoch-Schonlein purpura whilst it is a common clinical finding for appendicitis.
+Young adult is not a risk factor for Henoch-Schonlein purpura whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.092" element_id="http://emmet.elsevier.com#Concept-2792416" element_label="Clostridium difficile infection">
+        <explanation>Nausea is a common clinical finding for Clostridium difficile infection whilst it is a most common clinical finding for appendicitis and Rovsing's sign is not a clinical finding for Clostridium difficile infection whilst it is a common clinical finding for appendicitis.
+Young adult is not a risk factor for Clostridium difficile infection whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.058" element_id="http://emmet.elsevier.com#Concept-8316325" element_label="intestinal helminthiasis">
+        <explanation>Nausea is a common clinical finding for intestinal helminthiasis whilst it is a most common clinical finding for appendicitis, fever is not a clinical finding for intestinal helminthiasis whilst it is a most common clinical finding for appendicitis and Rovsing's sign is not a clinical finding for intestinal helminthiasis whilst it is a common clinical finding for appendicitis.
+Young adult is not a risk factor for intestinal helminthiasis whilst it is a strongly associated risk factor for appendicitis and child is a commonly associated risk factor for intestinal helminthiasis whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.054" element_id="http://emmet.elsevier.com#Concept-2791537" element_label="lactose intolerance">
+        <explanation>Nausea is sometimes a clincial finding for lactose intolerance whilst it is a most common clinical finding for appendicitis, fever is not a clinical finding for lactose intolerance whilst it is a most common clinical finding for appendicitis and Rovsing's sign is not a clinical finding for lactose intolerance whilst it is a common clinical finding for appendicitis.
+Young adult is not a risk factor for lactose intolerance whilst it is a strongly associated risk factor for appendicitis and child is a commonly associated risk factor for lactose intolerance whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.02" question_difficulty="0.01" question_id="-733995904" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A 7 month old patient presents with cytomegalovirus infection. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5047360" element_label="fever" primary="true">
+        <explanation>Fever is a most common clinical finding for cytomegalovirus infection</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-8958445" element_label="Flame-shaped hemorrhages">
+        <explanation>Fever is a most common clinical finding for cytomegalovirus infection whilst Flame-shaped hemorrhages is sometimes a clincial finding for cytomegalovirus infection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-4806298" element_label="jaundice">
+        <explanation>Fever is a most common clinical finding for cytomegalovirus infection whilst jaundice is a common clinical finding for cytomegalovirus infection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-8896523" element_label="liver palpable">
+        <explanation>Fever is a most common clinical finding for cytomegalovirus infection whilst liver palpable is not a clinical finding for cytomegalovirus infection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-2791810" element_label="pancreatitis">
+        <explanation>Fever is a most common clinical finding for cytomegalovirus infection whilst pancreatitis is a rare clinical finding for cytomegalovirus infection</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.103" question_difficulty="0.26" question_id="-918074039" source="MCQGController Test" stem_difficulty="0.416" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient with a history of alcohol consumption presents with tarry stool and anorexia. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9727126" element_label="tarry stool" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2790885" element_label="anorexia" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8107337" element_label="alcohol consumption" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2805599" element_label="peptic ulcer disease" primary="true">
+        <explanation>Tarry stool is sometimes a clincial finding  for peptic ulcer disease and anorexia is a common clinical finding  for peptic ulcer disease.
+Alcohol consumption is a commonly associated risk factor for peptic ulcer disease.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.291" element_id="http://emmet.elsevier.com#Concept-4806298" element_label="jaundice">
+        <explanation>Tarry stool is not a clinical finding for jaundice whilst it is sometimes a clincial finding for peptic ulcer disease.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.08" element_id="http://emmet.elsevier.com#Concept-3816094" element_label="bile duct cancer">
+        <explanation>Tarry stool is not a clinical finding for bile duct cancer whilst it is sometimes a clincial finding for peptic ulcer disease and anorexia is sometimes a clincial finding for bile duct cancer whilst it is a common clinical finding for peptic ulcer disease.
+Alcohol consumption is a rarely associated risk factor for bile duct cancer whilst it is a commonly associated risk factor for peptic ulcer disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.077" element_id="http://emmet.elsevier.com#Concept-8234917" element_label="Clostridium difficile diarrhea">
+        <explanation>Tarry stool is not a clinical finding for Clostridium difficile diarrhea whilst it is sometimes a clincial finding for peptic ulcer disease.
+Alcohol consumption is not a risk factor for Clostridium difficile diarrhea whilst it is a commonly associated risk factor for peptic ulcer disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.077" element_id="http://emmet.elsevier.com#Concept-8116473" element_label="thiamine deficiency">
+        <explanation>Tarry stool is not a clinical finding for thiamine deficiency whilst it is sometimes a clincial finding for peptic ulcer disease.
+Alcohol consumption is not a risk factor for thiamine deficiency whilst it is a commonly associated risk factor for peptic ulcer disease.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.21" question_difficulty="0.23" question_id="-927058287" source="MCQGController Test" stem_difficulty="0.25" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient with a history of acquired immunodeficiency syndrome presents with abdominal pain and blood in stool. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114665" element_label="blood in stool" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3814762" element_label="abdominal pain" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2790804" element_label="acquired immunodeficiency syndrome" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8116502" element_label="dysentery" primary="true">
+        <explanation>Abdominal pain is a common clinical finding  for dysentery and blood in stool is a most common clinical finding  for dysentery.
+Acquired immunodeficiency syndrome is a commonly associated risk factor for dysentery.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.444" element_id="http://emmet.elsevier.com#Concept-9779764" element_label="adult acute diarrhea">
+        <explanation>Blood in stool is a common clinical finding for adult acute diarrhea whilst it is a most common clinical finding for dysentery.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-4806298" element_label="jaundice">
+        <explanation>Blood in stool is not a clinical finding for jaundice whilst it is a most common clinical finding for dysentery.
+Acquired immunodeficiency syndrome is not a risk factor for jaundice whilst it is a commonly associated risk factor for dysentery.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-8234917" element_label="Clostridium difficile diarrhea">
+        <explanation>Blood in stool is sometimes a clincial finding for Clostridium difficile diarrhea whilst it is a most common clinical finding for dysentery.
+Acquired immunodeficiency syndrome is not a risk factor for Clostridium difficile diarrhea whilst it is a commonly associated risk factor for dysentery.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-2792416" element_label="Clostridium difficile infection">
+        <explanation>Blood in stool is not a clinical finding for Clostridium difficile infection whilst it is a most common clinical finding for dysentery.
+Acquired immunodeficiency syndrome is not a risk factor for Clostridium difficile infection whilst it is a commonly associated risk factor for dysentery.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.031" question_difficulty="0.349" question_id="-968220541" source="MCQGController Test" stem_difficulty="0.667" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with acute lymphocytic leukemia. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790793" element_label="mercaptopurine" primary="true">
+        <explanation>Mercaptopurine is a 3rd line medication for acute lymphocytic leukemia</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-9204855" element_label="aflibercept">
+        <explanation>Mercaptopurine is a 3rd line medication for acute lymphocytic leukemia whilst aflibercept is not a medication for acute lymphocytic leukemia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-9763924" element_label="sofosbuvir">
+        <explanation>Mercaptopurine is a 3rd line medication for acute lymphocytic leukemia whilst sofosbuvir is not a medication for acute lymphocytic leukemia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.143" element_id="http://emmet.elsevier.com#Concept-8128230" element_label="dasatinib">
+        <explanation>Mercaptopurine is a 3rd line medication for acute lymphocytic leukemia whilst dasatinib is a rarely given medication for acute lymphocytic leukemia</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.011" question_difficulty="0.048" question_id="1025061290" source="MCQGController Test" stem_difficulty="0.084" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A 65+ year old patient who has recently been hospitalized presents with tachycardia and history of recent travel. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8106518" element_label="tachycardia" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8429061" element_label="history of recent travel" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9780925" element_label="recent hospitalization" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-9779764" element_label="adult acute diarrhea" primary="true">
+        <explanation>Tachycardia is a common clinical finding  for adult acute diarrhea and history of recent travel is a most common clinical finding  for adult acute diarrhea.
+Recent hospitalization is a strongly associated risk factor for adult acute diarrhea.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.049" element_id="http://emmet.elsevier.com#Concept-2791013" element_label="carcinoid tumor">
+        <explanation>Tachycardia is sometimes a clincial finding for carcinoid tumor whilst it is a common clinical finding for adult acute diarrhea and history of recent travel is not a clinical finding for carcinoid tumor whilst it is a most common clinical finding for adult acute diarrhea.
+Recent hospitalization is not a risk factor for carcinoid tumor whilst it is a strongly associated risk factor for adult acute diarrhea.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.06" element_id="http://emmet.elsevier.com#Concept-2805681" element_label="traveler's diarrhea">
+        <explanation>Tachycardia is sometimes a clincial finding for traveler's diarrhea whilst it is a common clinical finding for adult acute diarrhea and history of recent travel is a common clinical finding for traveler's diarrhea whilst it is a most common clinical finding for adult acute diarrhea.
+Recent hospitalization is not a risk factor for traveler's diarrhea whilst it is a strongly associated risk factor for adult acute diarrhea.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.049" element_id="http://emmet.elsevier.com#Concept-9778463" element_label="pediatric gastroenteritis">
+        <explanation>Tachycardia is sometimes a clincial finding for pediatric gastroenteritis whilst it is a common clinical finding for adult acute diarrhea and history of recent travel is not a clinical finding for pediatric gastroenteritis whilst it is a most common clinical finding for adult acute diarrhea.
+Recent hospitalization is not a risk factor for pediatric gastroenteritis whilst it is a strongly associated risk factor for adult acute diarrhea.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.049" element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception">
+        <explanation>Tachycardia is sometimes a clincial finding for intussusception whilst it is a common clinical finding for adult acute diarrhea and history of recent travel is not a clinical finding for intussusception whilst it is a most common clinical finding for adult acute diarrhea.
+Recent hospitalization is not a risk factor for intussusception whilst it is a strongly associated risk factor for adult acute diarrhea.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.015" question_difficulty="0.091" question_id="106127366" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A 65+ year old patient who has recently been hospitalized has had contact with an infected animal. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8133920" element_label="contact with infected animal" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9780925" element_label="recent hospitalization" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-9779764" element_label="adult acute diarrhea" primary="true">
+        <explanation>Contact with infected animal is a common clinical finding  for adult acute diarrhea.
+Recent hospitalization is a strongly associated risk factor for adult acute diarrhea.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-2805599" element_label="peptic ulcer disease">
+        <explanation>Contact with infected animal is not a clinical finding for peptic ulcer disease whilst it is a common clinical finding for adult acute diarrhea.
+Recent hospitalization is not a risk factor for peptic ulcer disease whilst it is a strongly associated risk factor for adult acute diarrhea.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-2792416" element_label="Clostridium difficile infection">
+        <explanation>Contact with infected animal is not a clinical finding for Clostridium difficile infection whilst it is a common clinical finding for adult acute diarrhea.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-8316325" element_label="intestinal helminthiasis">
+        <explanation>Contact with infected animal is not a clinical finding for intestinal helminthiasis whilst it is a common clinical finding for adult acute diarrhea.
+Recent hospitalization is not a risk factor for intestinal helminthiasis whilst it is a strongly associated risk factor for adult acute diarrhea.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.023" question_difficulty="0.276" question_id="1174123608" source="MCQGController Test" stem_difficulty="0.528" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A male patient with a history of congenital anomaly of the kidney and congenital deafness presents with chronic constipation and fever. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047360" element_label="fever" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5357298" element_label="chronic constipation" rank="8.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9718164" element_label="congenital anomaly of the kidney" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8241734" element_label="congenital deafness" rank="8.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3815373" element_label="Hirschsprung disease" primary="true">
+        <explanation>Chronic constipation is sometimes a clincial finding  for Hirschsprung disease and fever is a common clinical finding  for Hirschsprung disease.
+Male is a commonly associated risk factor for Hirschsprung disease, congenital anomaly of the kidney is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.088" element_id="http://emmet.elsevier.com#Concept-3815349" element_label="hepatitis C">
+        <explanation>Chronic constipation is not a clinical finding for hepatitis C whilst it is sometimes a clincial finding for Hirschsprung disease and fever is sometimes a clincial finding for hepatitis C whilst it is a common clinical finding for Hirschsprung disease.
+Male is a sometimes associated risk factor for hepatitis C whilst it is a commonly associated risk factor for Hirschsprung disease, congenital anomaly of the kidney is not a risk factor for hepatitis C whilst it is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is not a risk factor for hepatitis C whilst it is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.088" element_id="http://emmet.elsevier.com#Concept-8234917" element_label="Clostridium difficile diarrhea">
+        <explanation>Chronic constipation is not a clinical finding for Clostridium difficile diarrhea whilst it is sometimes a clincial finding for Hirschsprung disease and fever is sometimes a clincial finding for Clostridium difficile diarrhea whilst it is a common clinical finding for Hirschsprung disease.
+Male is a sometimes associated risk factor for Clostridium difficile diarrhea whilst it is a commonly associated risk factor for Hirschsprung disease, congenital anomaly of the kidney is not a risk factor for Clostridium difficile diarrhea whilst it is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is not a risk factor for Clostridium difficile diarrhea whilst it is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.088" element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception">
+        <explanation>Chronic constipation is not a clinical finding for intussusception whilst it is sometimes a clincial finding for Hirschsprung disease and fever is sometimes a clincial finding for intussusception whilst it is a common clinical finding for Hirschsprung disease.
+Male is a sometimes associated risk factor for intussusception whilst it is a commonly associated risk factor for Hirschsprung disease, congenital anomaly of the kidney is not a risk factor for intussusception whilst it is a sometimes associated risk factor for Hirschsprung disease and congenital deafness is not a risk factor for intussusception whilst it is a sometimes associated risk factor for Hirschsprung disease.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.041" question_difficulty="0.187" question_id="1496943864" source="MCQGController Test" stem_difficulty="0.333" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with acute lymphocytic leukemia. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791654" element_label="methylprednisolone" primary="true">
+        <explanation>Methylprednisolone is a 2nd line medication for acute lymphocytic leukemia</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.071" element_id="http://emmet.elsevier.com#Concept-8128230" element_label="dasatinib">
+        <explanation>Methylprednisolone is a 2nd line medication for acute lymphocytic leukemia whilst dasatinib is a rarely given medication for acute lymphocytic leukemia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.125" element_id="http://emmet.elsevier.com#Concept-2791677" element_label="mitoxantrone">
+        <explanation>Methylprednisolone is a 2nd line medication for acute lymphocytic leukemia whilst mitoxantrone is a 3rd line medication for acute lymphocytic leukemia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.071" element_id="http://emmet.elsevier.com#Concept-2793970" element_label="imatinib">
+        <explanation>Methylprednisolone is a 2nd line medication for acute lymphocytic leukemia whilst imatinib is a rarely given medication for acute lymphocytic leukemia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.125" element_id="http://emmet.elsevier.com#Concept-2791305" element_label="etoposide">
+        <explanation>Methylprednisolone is a 2nd line medication for acute lymphocytic leukemia whilst etoposide is a 3rd line medication for acute lymphocytic leukemia</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.021" question_difficulty="0.344" question_id="1512999299" source="MCQGController Test" stem_difficulty="0.667" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with chronic pancreatitis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792411" element_label="venlafaxine" primary="true">
+        <explanation>Venlafaxine is a 3rd line medication for chronic pancreatitis in  a patient</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2810787" element_label="hepatitis A vaccine">
+        <explanation>Venlafaxine is a 3rd line medication for chronic pancreatitis in  a patient whilst hepatitis A vaccine is not a medication for chronic pancreatitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2792309" element_label="cefdinir">
+        <explanation>Venlafaxine is a 3rd line medication for chronic pancreatitis in  a patient whilst cefdinir is not a medication for chronic pancreatitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2794071" element_label="atazanavir">
+        <explanation>Venlafaxine is a 3rd line medication for chronic pancreatitis in  a patient whilst atazanavir is not a medication for chronic pancreatitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2793973" element_label="esomeprazole">
+        <explanation>Venlafaxine is a 3rd line medication for chronic pancreatitis in  a patient whilst esomeprazole is not a medication for chronic pancreatitis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.049" question_difficulty="0.025" question_id="1776074028" source="MCQGController Test" stem_difficulty="0.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with Henoch-Schonlein purpura. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791654" element_label="methylprednisolone" primary="true">
+        <explanation>Methylprednisolone is a best choice medication for Henoch-Schonlein purpura</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-8134130" element_label="angiotensin II inhibitor">
+        <explanation>Methylprednisolone is a best choice medication for Henoch-Schonlein purpura whilst angiotensin II inhibitor is a 2nd line medication for Henoch-Schonlein purpura</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2792333" element_label="lisinopril">
+        <explanation>Methylprednisolone is a best choice medication for Henoch-Schonlein purpura whilst lisinopril is a 2nd line medication for Henoch-Schonlein purpura</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2791258" element_label="enalapril">
+        <explanation>Methylprednisolone is a best choice medication for Henoch-Schonlein purpura whilst enalapril is a 2nd line medication for Henoch-Schonlein purpura</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2791711" element_label="naproxen">
+        <explanation>Methylprednisolone is a best choice medication for Henoch-Schonlein purpura whilst naproxen is a 2nd line medication for Henoch-Schonlein purpura</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.012" question_difficulty="0.131" question_id="1867720" source="MCQGController Test" stem_difficulty="0.25" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>An infant presents with diarrhea and lethargy. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5345514" element_label="lethargy" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2800232" element_label="diarrhea" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8111397" element_label="infant" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-9778463" element_label="pediatric gastroenteritis" primary="true">
+        <explanation>Diarrhea is a common clinical finding  for pediatric gastroenteritis and lethargy is sometimes a clincial finding  for pediatric gastroenteritis.
+Infant is a strongly associated risk factor for pediatric gastroenteritis.</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception" primary="true">
+        <explanation>Intussusception is a likely occurring differential diagnosis to pediatric gastroenteritis. Lethargy is a common clinical finding for intussusception whilst it is sometimes a clincial finding for pediatric gastroenteritis. .</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-2804175" element_label="cystic fibrosis">
+        <explanation>Cystic fibrosis is a sometimes occurring differential diagnosis to pediatric gastroenteritis. Lethargy is not a clinical finding for cystic fibrosis whilst it is sometimes a clincial finding for pediatric gastroenteritis. Infant is not a risk factor for cystic fibrosis whilst it is a strongly associated risk factor for pediatric gastroenteritis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8109418" element_label="intestinal volvulus">
+        <explanation>Intestinal volvulus is a sometimes occurring differential diagnosis to pediatric gastroenteritis. Diarrhea is not a clinical finding for intestinal volvulus whilst it is a common clinical finding for pediatric gastroenteritis and lethargy is not a clinical finding for intestinal volvulus whilst it is sometimes a clincial finding for pediatric gastroenteritis. Infant is not a risk factor for intestinal volvulus whilst it is a strongly associated risk factor for pediatric gastroenteritis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.075" element_id="http://emmet.elsevier.com#Concept-8119781" element_label="organophosphate toxicity">
+        <explanation>Organophosphate toxicity is a sometimes occurring differential diagnosis to pediatric gastroenteritis. Diarrhea is a most common clinical finding for organophosphate toxicity whilst it is a common clinical finding for pediatric gastroenteritis and lethargy is not a clinical finding for organophosphate toxicity whilst it is sometimes a clincial finding for pediatric gastroenteritis. Infant is not a risk factor for organophosphate toxicity whilst it is a strongly associated risk factor for pediatric gastroenteritis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.007" question_difficulty="0.004" question_id="1960397522" source="MCQGController Test" stem_difficulty="0.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with chronic granulomatous disease. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790889" element_label="antibiotic" primary="true">
+        <explanation>Antibiotic is a best choice medication for chronic granulomatous disease</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-2794071" element_label="atazanavir">
+        <explanation>Antibiotic is a best choice medication for chronic granulomatous disease whilst atazanavir is not a medication for chronic granulomatous disease</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-8183416" element_label="sodium tetradecyl sulfate">
+        <explanation>Antibiotic is a best choice medication for chronic granulomatous disease whilst sodium tetradecyl sulfate is not a medication for chronic granulomatous disease</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2792521" element_label="mesalamine">
+        <explanation>Antibiotic is a best choice medication for chronic granulomatous disease whilst mesalamine is a 3rd line medication for chronic granulomatous disease</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.207" question_difficulty="0.311" question_id="2105381378" source="MCQGController Test" stem_difficulty="0.416" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A male patient presents with vomiting and nutritional deficiency disorder. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792581" element_label="nutritional deficiency disorder" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5345219" element_label="vomiting" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3815973" element_label="chronic pancreatitis" primary="true">
+        <explanation>Vomiting is a common clinical finding  for chronic pancreatitis and nutritional deficiency disorder is sometimes a clincial finding  for chronic pancreatitis.
+Male is a commonly associated risk factor for chronic pancreatitis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.06" element_id="http://emmet.elsevier.com#Concept-2791537" element_label="lactose intolerance">
+        <explanation>Vomiting is a rare clinical finding for lactose intolerance whilst it is a common clinical finding for chronic pancreatitis and nutritional deficiency disorder is not a clinical finding for lactose intolerance whilst it is sometimes a clincial finding for chronic pancreatitis.
+Male is not a risk factor for lactose intolerance whilst it is a commonly associated risk factor for chronic pancreatitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.291" element_id="http://emmet.elsevier.com#Concept-3816094" element_label="bile duct cancer">
+        <explanation>Nutritional deficiency disorder is not a clinical finding for bile duct cancer whilst it is sometimes a clincial finding for chronic pancreatitis.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.291" element_id="http://emmet.elsevier.com#Concept-8248496" element_label="actinomycosis">
+        <explanation>Nutritional deficiency disorder is not a clinical finding for actinomycosis whilst it is sometimes a clincial finding for chronic pancreatitis.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.184" element_id="http://emmet.elsevier.com#Concept-2791013" element_label="carcinoid tumor">
+        <explanation>Vomiting is sometimes a clincial finding for carcinoid tumor whilst it is a common clinical finding for chronic pancreatitis and nutritional deficiency disorder is not a clinical finding for carcinoid tumor whilst it is sometimes a clincial finding for chronic pancreatitis.
+.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.073" question_difficulty="0.244" question_id="226178141" source="MCQGController Test" stem_difficulty="0.416" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>An adult male patient presents with abdominal guarding and vomiting. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5345219" element_label="vomiting" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8855842" element_label="abdominal guarding" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114760" element_label="adult" rank="8.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3815973" element_label="chronic pancreatitis" primary="true">
+        <explanation>Abdominal guarding is a common clinical finding  for chronic pancreatitis and vomiting is a common clinical finding  for chronic pancreatitis.
+Adult is a sometimes associated risk factor for chronic pancreatitis and male is a commonly associated risk factor for chronic pancreatitis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.082" element_id="http://emmet.elsevier.com#Concept-3815349" element_label="hepatitis C">
+        <explanation>Abdominal guarding is not a clinical finding for hepatitis C whilst it is a common clinical finding for chronic pancreatitis and vomiting is sometimes a clincial finding for hepatitis C whilst it is a common clinical finding for chronic pancreatitis.
+Adult is not a risk factor for hepatitis C whilst it is a sometimes associated risk factor for chronic pancreatitis and male is a sometimes associated risk factor for hepatitis C whilst it is a commonly associated risk factor for chronic pancreatitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.208" element_id="http://emmet.elsevier.com#Concept-8239458" element_label="eosinophilic esophagitis">
+        <explanation>Abdominal guarding is not a clinical finding for eosinophilic esophagitis whilst it is a common clinical finding for chronic pancreatitis.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.117" element_id="http://emmet.elsevier.com#Concept-9779764" element_label="adult acute diarrhea">
+        <explanation>Abdominal guarding is sometimes a clincial finding for adult acute diarrhea whilst it is a common clinical finding for chronic pancreatitis.
+Adult is a rarely associated risk factor for adult acute diarrhea whilst it is a sometimes associated risk factor for chronic pancreatitis and male is not a risk factor for adult acute diarrhea whilst it is a commonly associated risk factor for chronic pancreatitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.098" element_id="http://emmet.elsevier.com#Concept-2791013" element_label="carcinoid tumor">
+        <explanation>Abdominal guarding is not a clinical finding for carcinoid tumor whilst it is a common clinical finding for chronic pancreatitis and vomiting is sometimes a clincial finding for carcinoid tumor whilst it is a common clinical finding for chronic pancreatitis.
+Adult is not a risk factor for carcinoid tumor whilst it is a sometimes associated risk factor for chronic pancreatitis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.018" question_difficulty="0.009" question_id="350141361" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with myocardial infarction. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5344093" element_label="dyspnea" primary="true">
+        <explanation>Dyspnea is a most common clinical finding for myocardial infarction</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-8107347" element_label="asthenia">
+        <explanation>Dyspnea is a most common clinical finding for myocardial infarction whilst asthenia is sometimes a clincial finding for myocardial infarction</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-4993818" element_label="nausea">
+        <explanation>Dyspnea is a most common clinical finding for myocardial infarction whilst nausea is a common clinical finding for myocardial infarction</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-8896523" element_label="liver palpable">
+        <explanation>Dyspnea is a most common clinical finding for myocardial infarction whilst liver palpable is not a clinical finding for myocardial infarction</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.009" question_difficulty="0.088" question_id="361099648" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient with a history of pancreaticobiliary maljunction presents with palpable right upper quadrant abdominal mass and jaundice. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9782007" element_label="palpable right upper quadrant abdominal mass" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-4806298" element_label="jaundice" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9782016" element_label="pancreaticobiliary maljunction" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3815039" element_label="choledochal cyst" primary="true">
+        <explanation>Palpable right upper quadrant abdominal mass is a most common clinical finding  for choledochal cyst and jaundice is a most common clinical finding  for choledochal cyst.
+Pancreaticobiliary maljunction is a commonly associated risk factor for choledochal cyst.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-3815263" element_label="hereditary nonhemolytic jaundice">
+        <explanation>Palpable right upper quadrant abdominal mass is not a clinical finding for hereditary nonhemolytic jaundice whilst it is a most common clinical finding for choledochal cyst and jaundice is sometimes a clincial finding for hereditary nonhemolytic jaundice whilst it is a most common clinical finding for choledochal cyst.
+Pancreaticobiliary maljunction is not a risk factor for hereditary nonhemolytic jaundice whilst it is a commonly associated risk factor for choledochal cyst.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-2796612" element_label="biliary atresia">
+        <explanation>Palpable right upper quadrant abdominal mass is not a clinical finding for biliary atresia whilst it is a most common clinical finding for choledochal cyst.
+Pancreaticobiliary maljunction is not a risk factor for biliary atresia whilst it is a commonly associated risk factor for choledochal cyst.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.055" element_id="http://emmet.elsevier.com#Concept-8117047" element_label="galactosemia">
+        <explanation>Palpable right upper quadrant abdominal mass is not a clinical finding for galactosemia whilst it is a most common clinical finding for choledochal cyst and jaundice is a common clinical finding for galactosemia whilst it is a most common clinical finding for choledochal cyst.
+Pancreaticobiliary maljunction is not a risk factor for galactosemia whilst it is a commonly associated risk factor for choledochal cyst.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.01" question_difficulty="0.005" question_id="694128712" source="MCQGController Test" stem_difficulty="0.0" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A female infant presents with progressive jaundice and jaundice. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9781848" element_label="progressive jaundice" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-4806298" element_label="jaundice" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8111397" element_label="infant" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2796612" element_label="biliary atresia" primary="true">
+        <explanation>Progressive jaundice is a most common clinical finding  for biliary atresia and jaundice is a most common clinical finding  for biliary atresia.
+Infant is a strongly associated risk factor for biliary atresia and female is a strongly associated risk factor for biliary atresia.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-3815349" element_label="hepatitis C">
+        <explanation>Progressive jaundice is not a clinical finding for hepatitis C whilst it is a most common clinical finding for biliary atresia and jaundice is a common clinical finding for hepatitis C whilst it is a most common clinical finding for biliary atresia.
+Infant is not a risk factor for hepatitis C whilst it is a strongly associated risk factor for biliary atresia and female is a rarely associated risk factor for hepatitis C whilst it is a strongly associated risk factor for biliary atresia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.044" element_id="http://emmet.elsevier.com#Concept-8244489" element_label="hypertrophic pyloric stenosis">
+        <explanation>Progressive jaundice is not a clinical finding for hypertrophic pyloric stenosis whilst it is a most common clinical finding for biliary atresia and jaundice is a rare clinical finding for hypertrophic pyloric stenosis whilst it is a most common clinical finding for biliary atresia.
+Infant is a rarely associated risk factor for hypertrophic pyloric stenosis whilst it is a strongly associated risk factor for biliary atresia and female is not a risk factor for hypertrophic pyloric stenosis whilst it is a strongly associated risk factor for biliary atresia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.054" element_id="http://emmet.elsevier.com#Concept-2791589" element_label="gastric cancer">
+        <explanation>Progressive jaundice is not a clinical finding for gastric cancer whilst it is a most common clinical finding for biliary atresia and jaundice is a common clinical finding for gastric cancer whilst it is a most common clinical finding for biliary atresia.
+Infant is not a risk factor for gastric cancer whilst it is a strongly associated risk factor for biliary atresia and female is a sometimes associated risk factor for gastric cancer whilst it is a strongly associated risk factor for biliary atresia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.049" element_id="http://emmet.elsevier.com#Concept-3815263" element_label="hereditary nonhemolytic jaundice">
+        <explanation>Progressive jaundice is not a clinical finding for hereditary nonhemolytic jaundice whilst it is a most common clinical finding for biliary atresia and jaundice is sometimes a clincial finding for hereditary nonhemolytic jaundice whilst it is a most common clinical finding for biliary atresia.
+Infant is not a risk factor for hereditary nonhemolytic jaundice whilst it is a strongly associated risk factor for biliary atresia and female is a sometimes associated risk factor for hereditary nonhemolytic jaundice whilst it is a strongly associated risk factor for biliary atresia.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.034" question_difficulty="0.198" question_id="821586675" source="MCQGController Test" stem_difficulty="0.362" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A 4 year old male with a history of infection by human herpesvirus 6 presents with constipation, rectal prolapse and abdominal pain. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2791117" element_label="constipation" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3814762" element_label="abdominal pain" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5350670" element_label="rectal prolapse" rank="7.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9100530" element_label="infection by human herpesvirus 6" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception" primary="true">
+        <explanation>Constipation is sometimes a clincial finding  for intussusception, rectal prolapse is a rare clinical finding  for intussusception and abdominal pain is a most common clinical finding  for intussusception.
+Infection by human herpesvirus 6 is a commonly associated risk factor for intussusception and male is a strongly associated risk factor for intussusception in 0-4 year old child patients.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.093" element_id="http://emmet.elsevier.com#Concept-2791589" element_label="gastric cancer">
+        <explanation>Constipation is not a clinical finding for gastric cancer whilst it is sometimes a clincial finding for intussusception and rectal prolapse is not a clinical finding for gastric cancer whilst it is a rare clinical finding for intussusception.
+Infection by human herpesvirus 6 is not a risk factor for gastric cancer whilst it is a commonly associated risk factor for intussusception and male is a commonly associated risk factor for gastric cancer whilst it is a strongly associated risk factor for intussusception in 0-4 year old child patients.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.093" element_id="http://emmet.elsevier.com#Concept-3815973" element_label="chronic pancreatitis">
+        <explanation>Constipation is not a clinical finding for chronic pancreatitis whilst it is sometimes a clincial finding for intussusception and rectal prolapse is not a clinical finding for chronic pancreatitis whilst it is a rare clinical finding for intussusception.
+Infection by human herpesvirus 6 is not a risk factor for chronic pancreatitis whilst it is a commonly associated risk factor for intussusception and male is a commonly associated risk factor for chronic pancreatitis whilst it is a strongly associated risk factor for intussusception in 0-4 year old child patients.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.09" element_id="http://emmet.elsevier.com#Concept-2791013" element_label="carcinoid tumor">
+        <explanation>Rectal prolapse is not a clinical finding for carcinoid tumor whilst it is a rare clinical finding for intussusception and abdominal pain is sometimes a clincial finding for carcinoid tumor whilst it is a most common clinical finding for intussusception.
+Infection by human herpesvirus 6 is not a risk factor for carcinoid tumor whilst it is a commonly associated risk factor for intussusception and male is a commonly associated risk factor for carcinoid tumor whilst it is a strongly associated risk factor for intussusception in 0-4 year old child patients.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.093" element_id="http://emmet.elsevier.com#Concept-2790900" element_label="appendicitis">
+        <explanation>Constipation is not a clinical finding for appendicitis whilst it is sometimes a clincial finding for intussusception and rectal prolapse is not a clinical finding for appendicitis whilst it is a rare clinical finding for intussusception.
+Infection by human herpesvirus 6 is not a risk factor for appendicitis whilst it is a commonly associated risk factor for intussusception and male is a commonly associated risk factor for appendicitis whilst it is a strongly associated risk factor for intussusception in 0-4 year old child patients.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.02" question_difficulty="0.08" question_id="867755842" source="MCQGController Test" stem_difficulty="0.139" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A male child presents with vomiting and lying in right recumbent lateral position. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5345219" element_label="vomiting" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9780019" element_label="lying in right recumbent lateral position" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114768" element_label="young adult" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8112460" element_label="child" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790900" element_label="appendicitis" primary="true">
+        <explanation>Vomiting is a most common clinical finding  for appendicitis and lying in right recumbent lateral position is a common clinical finding  for appendicitis.
+Male is a commonly associated risk factor for appendicitis, young adult is a strongly associated risk factor for appendicitis and child is a strongly associated risk factor for appendicitis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.059" element_id="http://emmet.elsevier.com#Concept-2791013" element_label="carcinoid tumor">
+        <explanation>Vomiting is sometimes a clincial finding for carcinoid tumor whilst it is a most common clinical finding for appendicitis and lying in right recumbent lateral position is not a clinical finding for carcinoid tumor whilst it is a common clinical finding for appendicitis.
+Young adult is not a risk factor for carcinoid tumor whilst it is a strongly associated risk factor for appendicitis and child is not a risk factor for carcinoid tumor whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.085" element_id="http://emmet.elsevier.com#Concept-3814947" element_label="intussusception">
+        <explanation>Lying in right recumbent lateral position is not a clinical finding for intussusception whilst it is a common clinical finding for appendicitis.
+Male is a sometimes associated risk factor for intussusception whilst it is a commonly associated risk factor for appendicitis, young adult is not a risk factor for intussusception whilst it is a strongly associated risk factor for appendicitis and child is a commonly associated risk factor for intussusception whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-8107484" element_label="Taenia infection">
+        <explanation>Vomiting is a common clinical finding for Taenia infection whilst it is a most common clinical finding for appendicitis and lying in right recumbent lateral position is not a clinical finding for Taenia infection whilst it is a common clinical finding for appendicitis.
+Male is not a risk factor for Taenia infection whilst it is a commonly associated risk factor for appendicitis, young adult is not a risk factor for Taenia infection whilst it is a strongly associated risk factor for appendicitis and child is a commonly associated risk factor for Taenia infection whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.07" element_id="http://emmet.elsevier.com#Concept-3815641" element_label="Henoch-Schonlein purpura">
+        <explanation>Vomiting is sometimes a clincial finding for Henoch-Schonlein purpura whilst it is a most common clinical finding for appendicitis and lying in right recumbent lateral position is not a clinical finding for Henoch-Schonlein purpura whilst it is a common clinical finding for appendicitis.
+Male is a sometimes associated risk factor for Henoch-Schonlein purpura whilst it is a commonly associated risk factor for appendicitis and young adult is not a risk factor for Henoch-Schonlein purpura whilst it is a strongly associated risk factor for appendicitis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.007" question_difficulty="0.004" question_id="889402486" source="MCQGController Test" stem_difficulty="0.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with ruptured appendicitis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790889" element_label="antibiotic" primary="true">
+        <explanation>Antibiotic is a best choice medication for ruptured appendicitis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-5348600" element_label="vasodilator">
+        <explanation>Antibiotic is a best choice medication for ruptured appendicitis whilst vasodilator is not a medication for ruptured appendicitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-9745818" element_label="tobramycin">
+        <explanation>Antibiotic is a best choice medication for ruptured appendicitis whilst tobramycin is a 3rd line medication for ruptured appendicitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-2791882" element_label="alteplase">
+        <explanation>Antibiotic is a best choice medication for ruptured appendicitis whilst alteplase is not a medication for ruptured appendicitis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.016" question_difficulty="0.008" question_id="958565519" source="MCQGController Test" stem_difficulty="0.0" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>An adult patient presents with abdominal bloating and abdominal pain. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114531" element_label="abdominal bloating" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3814762" element_label="abdominal pain" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114760" element_label="adult" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8242781" element_label="acute mesenteric ischemia" primary="true">
+        <explanation>Abdominal bloating is a most common clinical finding  for acute mesenteric ischemia and abdominal pain is a most common clinical finding  for acute mesenteric ischemia.
+Adult is a strongly associated risk factor for acute mesenteric ischemia.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.054" element_id="http://emmet.elsevier.com#Concept-2791367" element_label="giardiasis">
+        <explanation>Abdominal pain is not a clinical finding for giardiasis whilst it is a most common clinical finding for acute mesenteric ischemia.
+Adult is not a risk factor for giardiasis whilst it is a strongly associated risk factor for acute mesenteric ischemia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.061" element_id="http://emmet.elsevier.com#Concept-2790900" element_label="appendicitis">
+        <explanation>Abdominal bloating is sometimes a clincial finding for appendicitis whilst it is a most common clinical finding for acute mesenteric ischemia.
+Adult is not a risk factor for appendicitis whilst it is a strongly associated risk factor for acute mesenteric ischemia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.098" element_id="http://emmet.elsevier.com#Concept-2791589" element_label="gastric cancer">
+        <explanation>Abdominal bloating is a common clinical finding for gastric cancer whilst it is a most common clinical finding for acute mesenteric ischemia.
+Adult is a sometimes associated risk factor for gastric cancer whilst it is a strongly associated risk factor for acute mesenteric ischemia.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.044" question_difficulty="0.522" question_id="977858414" source="MCQGController Test" stem_difficulty="1.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-9762274" element_label="gastroenterology and hepatology"/>
+    <stem>
+      <questiontext>A patient presents with fatty liver. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792215" element_label="vitamin E" primary="true">
+        <explanation>Vitamin E is a rarely given medication for fatty liver</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-9724981" element_label="narcotic">
+        <explanation>Vitamin E is a rarely given medication for fatty liver whilst narcotic is not a medication for fatty liver</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-8429296" element_label="aluminum hydroxide/magnesium carbonate">
+        <explanation>Vitamin E is a rarely given medication for fatty liver whilst aluminum hydroxide/magnesium carbonate is not a medication for fatty liver</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-9780686" element_label="bismuth subsalicylate/metronidazole/TCN/lansoprazole">
+        <explanation>Vitamin E is a rarely given medication for fatty liver whilst bismuth subsalicylate/metronidazole/TCN/lansoprazole is not a medication for fatty liver</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+</questionset>

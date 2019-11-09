@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionset>
+  <question author="Manchester Automated" distractor_difficulty="0.03" question_difficulty="0.223" question_id="-1074784610" source="MCQGController Test" stem_difficulty="0.416" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A female patient presents with early decrescendo diastolic murmur and syncope. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9786769" element_label="early decrescendo diastolic murmur" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="8.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8109629" element_label="aortic dissection" primary="true">
+        <explanation>Early decrescendo diastolic murmur is a common clinical finding  for aortic dissection and syncope is sometimes a clincial finding  for aortic dissection.
+Female is a commonly associated risk factor for aortic dissection.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.113" element_id="http://emmet.elsevier.com#Concept-8107902" element_label="heart failure">
+        <explanation>Early decrescendo diastolic murmur is not a clinical finding for heart failure whilst it is a common clinical finding for aortic dissection.
+Female is a sometimes associated risk factor for heart failure whilst it is a commonly associated risk factor for aortic dissection.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.113" element_id="http://emmet.elsevier.com#Concept-8900499" element_label="Brugada syndrome">
+        <explanation>Early decrescendo diastolic murmur is not a clinical finding for Brugada syndrome whilst it is a common clinical finding for aortic dissection.
+Female is a sometimes associated risk factor for Brugada syndrome whilst it is a commonly associated risk factor for aortic dissection.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-3814926" element_label="hypokalemia">
+        <explanation>Early decrescendo diastolic murmur is not a clinical finding for hypokalemia whilst it is a common clinical finding for aortic dissection.
+Female is not a risk factor for hypokalemia whilst it is a commonly associated risk factor for aortic dissection.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.013" question_difficulty="0.173" question_id="-1494163958" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A Japanese patient presents with palpitations and cardiac arrhythmia. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3815455" element_label="palpitations" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2790902" element_label="cardiac arrhythmia" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047439" element_label="Japan" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8900499" element_label="Brugada syndrome" primary="true">
+        <explanation>Palpitations is a common clinical finding  for Brugada syndrome and cardiac arrhythmia is a common clinical finding  for Brugada syndrome.
+Japan is a commonly associated risk factor for Brugada syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-2792070" element_label="stroke">
+        <explanation>Palpitations is not a clinical finding for stroke whilst it is a common clinical finding for Brugada syndrome.
+Japan is not a risk factor for stroke whilst it is a commonly associated risk factor for Brugada syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension">
+        <explanation>Cardiac arrhythmia is not a clinical finding for pulmonary hypertension whilst it is a common clinical finding for Brugada syndrome.
+Japan is not a risk factor for pulmonary hypertension whilst it is a commonly associated risk factor for Brugada syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.061" element_id="http://emmet.elsevier.com#Concept-3814892" element_label="cardiac tamponade">
+        <explanation>Palpitations is sometimes a clincial finding for cardiac tamponade whilst it is a common clinical finding for Brugada syndrome and cardiac arrhythmia is not a clinical finding for cardiac tamponade whilst it is a common clinical finding for Brugada syndrome.
+Japan is not a risk factor for cardiac tamponade whilst it is a commonly associated risk factor for Brugada syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.024" question_difficulty="0.179" question_id="-1496201995" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 45 year old female presents with a history of drug use. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8121891" element_label="history of drug use" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8109629" element_label="aortic dissection" primary="true">
+        <explanation>History of drug use is a common clinical finding  for aortic dissection.
+Female is a commonly associated risk factor for aortic dissection.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia">
+        <explanation>History of drug use is not a clinical finding for atrioventricular nodal re-entry tachycardia whilst it is a common clinical finding for aortic dissection.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-3816028" element_label="abdominal aortic aneurysm">
+        <explanation>History of drug use is not a clinical finding for abdominal aortic aneurysm whilst it is a common clinical finding for aortic dissection.
+Female is not a risk factor for abdominal aortic aneurysm whilst it is a commonly associated risk factor for aortic dissection.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>History of drug use is not a clinical finding for hypertension whilst it is a common clinical finding for aortic dissection.
+.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.021" question_difficulty="0.218" question_id="-1516723926" source="MCQGController Test" stem_difficulty="0.416" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An immobile patient presents with loss of consciousness and vomiting. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5344307" element_label="loss of consciousness" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5345219" element_label="vomiting" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114947" element_label="immobile" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792070" element_label="stroke" primary="true">
+        <explanation>Loss of consciousness is sometimes a clincial finding  for stroke and vomiting is a common clinical finding  for stroke.
+Immobile is a commonly associated risk factor for stroke.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.077" element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease">
+        <explanation>Loss of consciousness is not a clinical finding for end stage renal disease whilst it is sometimes a clincial finding for stroke.
+Immobile is not a risk factor for end stage renal disease whilst it is a commonly associated risk factor for stroke.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.066" element_id="http://emmet.elsevier.com#Concept-5348177" element_label="diabetes mellitus">
+        <explanation>Loss of consciousness is not a clinical finding for diabetes mellitus whilst it is sometimes a clincial finding for stroke and vomiting is sometimes a clincial finding for diabetes mellitus whilst it is a common clinical finding for stroke.
+Immobile is not a risk factor for diabetes mellitus whilst it is a commonly associated risk factor for stroke.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.077" element_id="http://emmet.elsevier.com#Concept-3814782" element_label="adenoviral infection">
+        <explanation>Loss of consciousness is not a clinical finding for adenoviral infection whilst it is sometimes a clincial finding for stroke.
+Immobile is not a risk factor for adenoviral infection whilst it is a commonly associated risk factor for stroke.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.066" element_id="http://emmet.elsevier.com#Concept-3814926" element_label="hypokalemia">
+        <explanation>Loss of consciousness is not a clinical finding for hypokalemia whilst it is sometimes a clincial finding for stroke and vomiting is sometimes a clincial finding for hypokalemia whilst it is a common clinical finding for stroke.
+Immobile is not a risk factor for hypokalemia whilst it is a commonly associated risk factor for stroke.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.064" question_difficulty="0.24" question_id="-1532351578" source="MCQGController Test" stem_difficulty="0.416" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A female patient presents with inspiratory crackles and dyspnea. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8967428" element_label="inspiratory crackles" rank="7.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5344093" element_label="dyspnea" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension" primary="true">
+        <explanation>Inspiratory crackles is a rare clinical finding  for pulmonary hypertension and dyspnea is a most common clinical finding  for pulmonary hypertension.
+Female is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.072" element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease">
+        <explanation>Inspiratory crackles is not a clinical finding for end stage renal disease whilst it is a rare clinical finding for pulmonary hypertension and dyspnea is a common clinical finding for end stage renal disease whilst it is a most common clinical finding for pulmonary hypertension.
+Female is not a risk factor for end stage renal disease whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.072" element_id="http://emmet.elsevier.com#Concept-3815322" element_label="ventricular septal defect">
+        <explanation>Inspiratory crackles is not a clinical finding for ventricular septal defect whilst it is a rare clinical finding for pulmonary hypertension and dyspnea is a common clinical finding for ventricular septal defect whilst it is a most common clinical finding for pulmonary hypertension.
+Female is not a risk factor for ventricular septal defect whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.232" element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia">
+        <explanation>Inspiratory crackles is not a clinical finding for atrioventricular nodal re-entry tachycardia whilst it is a rare clinical finding for pulmonary hypertension and dyspnea is a common clinical finding for atrioventricular nodal re-entry tachycardia whilst it is a most common clinical finding for pulmonary hypertension.
+.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.032" question_difficulty="0.1" question_id="-157174867" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly patient presents with syncope. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome" primary="true">
+        <explanation>Syncope is a common clinical finding  for acute coronary syndrome.
+Elderly is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-2791185" element_label="diabetic neuropathy">
+        <explanation>Syncope is not a clinical finding for diabetic neuropathy whilst it is a common clinical finding for acute coronary syndrome.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-2790921" element_label="atrial fibrillation">
+        <explanation>Syncope is not a clinical finding for atrial fibrillation whilst it is a common clinical finding for acute coronary syndrome.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-8132204" element_label="ventricular bigeminy">
+        <explanation>Syncope is not a clinical finding for ventricular bigeminy whilst it is a common clinical finding for acute coronary syndrome.
+.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.02" question_difficulty="0.01" question_id="-1577639686" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 42 year old patient presents with Henoch-Schönlein purpura. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3814762" element_label="abdominal pain" primary="true">
+        <explanation>Abdominal pain is a most common clinical finding for Henoch-Schonlein purpura</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-3815337" element_label="hemoptysis">
+        <explanation>Abdominal pain is a most common clinical finding for Henoch-Schonlein purpura whilst hemoptysis is a rare clinical finding for Henoch-Schonlein purpura</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2791373" element_label="glomerulonephritis">
+        <explanation>Abdominal pain is a most common clinical finding for Henoch-Schonlein purpura whilst glomerulonephritis is a common clinical finding for Henoch-Schonlein purpura</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-3815176" element_label="epistaxis">
+        <explanation>Abdominal pain is a most common clinical finding for Henoch-Schonlein purpura whilst epistaxis is not a clinical finding for Henoch-Schonlein purpura</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-4993818" element_label="nausea">
+        <explanation>Abdominal pain is a most common clinical finding for Henoch-Schonlein purpura whilst nausea is sometimes a clincial finding for Henoch-Schonlein purpura</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.014" question_difficulty="0.091" question_id="-1666034507" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 16 year old female patient presents with prominent carotid pulse and palpitations. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9785921" element_label="prominent carotid pulse" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3815455" element_label="palpitations" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia" primary="true">
+        <explanation>Prominent carotid pulse is a most common clinical finding  for atrioventricular nodal re-entry tachycardia and palpitations is a most common clinical finding  for atrioventricular nodal re-entry tachycardia.
+Female is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-2790921" element_label="atrial fibrillation">
+        <explanation>Prominent carotid pulse is not a clinical finding for atrial fibrillation whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia.
+Female is not a risk factor for atrial fibrillation whilst it is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-8132204" element_label="ventricular bigeminy">
+        <explanation>Prominent carotid pulse is not a clinical finding for ventricular bigeminy whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia.
+Female is not a risk factor for ventricular bigeminy whilst it is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.08" element_id="http://emmet.elsevier.com#Concept-8900499" element_label="Brugada syndrome">
+        <explanation>Prominent carotid pulse is not a clinical finding for Brugada syndrome whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia and palpitations is a common clinical finding for Brugada syndrome whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia.
+Female is a sometimes associated risk factor for Brugada syndrome whilst it is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.009" question_difficulty="0.088" question_id="-1724628828" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 79 year old patient with a history of cocaine use presents with fourth sound gallop. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8946479" element_label="fourth sound gallop" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9761638" element_label="cocaine" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8107902" element_label="heart failure" primary="true">
+        <explanation>Fourth sound gallop is a most common clinical finding  for heart failure.
+Cocaine is a commonly associated risk factor for heart failure.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-8107551" element_label="primary pulmonary hypertension">
+        <explanation>Fourth sound gallop is not a clinical finding for primary pulmonary hypertension whilst it is a most common clinical finding for heart failure.
+Cocaine is not a risk factor for primary pulmonary hypertension whilst it is a commonly associated risk factor for heart failure.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome">
+        <explanation>Fourth sound gallop is not a clinical finding for acute coronary syndrome whilst it is a most common clinical finding for heart failure.
+Cocaine is not a risk factor for acute coronary syndrome whilst it is a commonly associated risk factor for heart failure.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.071" element_id="http://emmet.elsevier.com#Concept-8106252" element_label="pulmonary valve stenosis">
+        <explanation>Fourth sound gallop is a common clinical finding for pulmonary valve stenosis whilst it is a most common clinical finding for heart failure.
+Cocaine is not a risk factor for pulmonary valve stenosis whilst it is a commonly associated risk factor for heart failure.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.07" question_difficulty="0.202" question_id="-1727724244" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A female patient presents with dyspnea and ascites. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5344093" element_label="dyspnea" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-4806195" element_label="ascites" rank="8.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension" primary="true">
+        <explanation>Dyspnea is a most common clinical finding  for pulmonary hypertension and ascites is sometimes a clincial finding  for pulmonary hypertension.
+Female is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.176" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>Dyspnea is a common clinical finding for hypertension whilst it is a most common clinical finding for pulmonary hypertension and ascites is not a clinical finding for hypertension whilst it is sometimes a clincial finding for pulmonary hypertension.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.059" element_id="http://emmet.elsevier.com#Concept-2790921" element_label="atrial fibrillation">
+        <explanation>Dyspnea is sometimes a clincial finding for atrial fibrillation whilst it is a most common clinical finding for pulmonary hypertension and ascites is not a clinical finding for atrial fibrillation whilst it is sometimes a clincial finding for pulmonary hypertension.
+Female is not a risk factor for atrial fibrillation whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.176" element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia">
+        <explanation>Dyspnea is a common clinical finding for atrioventricular nodal re-entry tachycardia whilst it is a most common clinical finding for pulmonary hypertension and ascites is not a clinical finding for atrioventricular nodal re-entry tachycardia whilst it is sometimes a clincial finding for pulmonary hypertension.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.065" element_id="http://emmet.elsevier.com#Concept-3815322" element_label="ventricular septal defect">
+        <explanation>Dyspnea is a common clinical finding for ventricular septal defect whilst it is a most common clinical finding for pulmonary hypertension and ascites is not a clinical finding for ventricular septal defect whilst it is sometimes a clincial finding for pulmonary hypertension.
+Female is not a risk factor for ventricular septal defect whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.059" question_difficulty="0.529" question_id="-1731922134" source="MCQGController Test" stem_difficulty="1.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient presents with Antenatal deep vein thrombosis unspecified. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791882" element_label="alteplase" primary="true">
+        <explanation>Alteplase is a rarely given medication for Antenatal deep vein thrombosis unspecified</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-9757309" element_label="amphotericin B cholesteryl sulfate complex">
+        <explanation>Alteplase is a rarely given medication for Antenatal deep vein thrombosis unspecified whilst amphotericin B cholesteryl sulfate complex is not a medication for Antenatal deep vein thrombosis unspecified</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791741" element_label="nifedipine">
+        <explanation>Alteplase is a rarely given medication for Antenatal deep vein thrombosis unspecified whilst nifedipine is not a medication for Antenatal deep vein thrombosis unspecified</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-7985419" element_label="digitoxin">
+        <explanation>Alteplase is a rarely given medication for Antenatal deep vein thrombosis unspecified whilst digitoxin is not a medication for Antenatal deep vein thrombosis unspecified</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791296" element_label="ethacrynic acid">
+        <explanation>Alteplase is a rarely given medication for Antenatal deep vein thrombosis unspecified whilst ethacrynic acid is not a medication for Antenatal deep vein thrombosis unspecified</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.008" question_difficulty="0.004" question_id="-1785165127" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 75+ year old patient presents with aortic valve stenosis. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5344093" element_label="dyspnea" primary="true">
+        <explanation>Dyspnea is a most common clinical finding for aortic valve stenosis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8937022" element_label="Pulsus alternans">
+        <explanation>Dyspnea is a most common clinical finding for aortic valve stenosis whilst Pulsus alternans is a rare clinical finding for aortic valve stenosis in  a patient</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-3815176" element_label="epistaxis">
+        <explanation>Dyspnea is a most common clinical finding for aortic valve stenosis whilst epistaxis is not a clinical finding for aortic valve stenosis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-8941156" element_label="ejection click">
+        <explanation>Dyspnea is a most common clinical finding for aortic valve stenosis whilst ejection click is sometimes a clincial finding for aortic valve stenosis in  a patient</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.008" question_difficulty="0.088" question_id="-1828307427" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient who has used acetaminophen presents with hypertension and excoriation of skin. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8270312" element_label="excoriation of skin" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2790798" element_label="acetaminophen" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease" primary="true">
+        <explanation>Hypertension is a most common clinical finding  for end stage renal disease and excoriation of skin is a most common clinical finding  for end stage renal disease.
+Acetaminophen is a commonly associated risk factor for end stage renal disease.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome">
+        <explanation>Hypertension is sometimes a clincial finding for acute coronary syndrome whilst it is a most common clinical finding for end stage renal disease and excoriation of skin is not a clinical finding for acute coronary syndrome whilst it is a most common clinical finding for end stage renal disease.
+Acetaminophen is not a risk factor for acute coronary syndrome whilst it is a commonly associated risk factor for end stage renal disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-3814892" element_label="cardiac tamponade">
+        <explanation>Hypertension is sometimes a clincial finding for cardiac tamponade whilst it is a most common clinical finding for end stage renal disease and excoriation of skin is not a clinical finding for cardiac tamponade whilst it is a most common clinical finding for end stage renal disease.
+Acetaminophen is not a risk factor for cardiac tamponade whilst it is a commonly associated risk factor for end stage renal disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-3814926" element_label="hypokalemia">
+        <explanation>Hypertension is sometimes a clincial finding for hypokalemia whilst it is a most common clinical finding for end stage renal disease and excoriation of skin is not a clinical finding for hypokalemia whilst it is a most common clinical finding for end stage renal disease.
+Acetaminophen is not a risk factor for hypokalemia whilst it is a commonly associated risk factor for end stage renal disease.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.039" question_difficulty="0.186" question_id="-1830064399" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A female patient presents with dyspnea and ascites. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5344093" element_label="dyspnea" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-4806195" element_label="ascites" rank="8.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension" primary="true">
+        <explanation>Dyspnea is a most common clinical finding  for pulmonary hypertension and ascites is sometimes a clincial finding  for pulmonary hypertension.
+Female is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.065" element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome">
+        <explanation>Dyspnea is a common clinical finding for acute coronary syndrome whilst it is a most common clinical finding for pulmonary hypertension and ascites is not a clinical finding for acute coronary syndrome whilst it is sometimes a clincial finding for pulmonary hypertension.
+Female is not a risk factor for acute coronary syndrome whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.176" element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia">
+        <explanation>Dyspnea is a common clinical finding for atrioventricular nodal re-entry tachycardia whilst it is a most common clinical finding for pulmonary hypertension and ascites is not a clinical finding for atrioventricular nodal re-entry tachycardia whilst it is sometimes a clincial finding for pulmonary hypertension.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.065" element_id="http://emmet.elsevier.com#Concept-3815322" element_label="ventricular septal defect">
+        <explanation>Dyspnea is a common clinical finding for ventricular septal defect whilst it is a most common clinical finding for pulmonary hypertension and ascites is not a clinical finding for ventricular septal defect whilst it is sometimes a clincial finding for pulmonary hypertension.
+Female is not a risk factor for ventricular septal defect whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.006" question_difficulty="0.087" question_id="-184723155" source="MCQGController Test" stem_difficulty="0.167" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly female patient presents with syncope. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791947" element_label="pulmonary embolism" primary="true">
+        <explanation>Pulmonary embolism is a strongly occurring differential diagnosis to acute coronary syndrome. . .</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome" primary="true">
+        <explanation>Syncope is a common clinical finding  for acute coronary syndrome.
+Elderly is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-9774016" element_label="costochondritis">
+        <explanation>Costochondritis is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for costochondritis whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for costochondritis whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-3814924" element_label="cholecystitis">
+        <explanation>Cholecystitis is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for cholecystitis whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for cholecystitis whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-9109843" element_label="dissecting aortic aneurysm">
+        <explanation>Dissecting aortic aneurysm is a strongly occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for dissecting aortic aneurysm whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for dissecting aortic aneurysm whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.004" question_difficulty="0.086" question_id="-1975663834" source="MCQGController Test" stem_difficulty="0.167" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly female patient presents with syncope. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791947" element_label="pulmonary embolism" primary="true">
+        <explanation>Pulmonary embolism is a strongly occurring differential diagnosis to acute coronary syndrome. . .</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome" primary="true">
+        <explanation>Syncope is a common clinical finding  for acute coronary syndrome.
+Elderly is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-9097488" element_label="Takotsubo cardiomyopathy">
+        <explanation>Takotsubo cardiomyopathy is a likely occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for Takotsubo cardiomyopathy whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for Takotsubo cardiomyopathy whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-3814924" element_label="cholecystitis">
+        <explanation>Cholecystitis is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for cholecystitis whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for cholecystitis whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.009" question_difficulty="0.004" question_id="-200000447" source="MCQGController Test" stem_difficulty="0.0" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly patient presents with palpitations and fatigue. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047359" element_label="fatigue" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3815455" element_label="palpitations" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790921" element_label="atrial fibrillation" primary="true">
+        <explanation>Palpitations is a most common clinical finding  for atrial fibrillation and fatigue is a most common clinical finding  for atrial fibrillation.
+Elderly is a strongly associated risk factor for atrial fibrillation.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.059" element_id="http://emmet.elsevier.com#Concept-3815322" element_label="ventricular septal defect">
+        <explanation>Palpitations is a common clinical finding for ventricular septal defect whilst it is a most common clinical finding for atrial fibrillation and fatigue is a common clinical finding for ventricular septal defect whilst it is a most common clinical finding for atrial fibrillation.
+Elderly is not a risk factor for ventricular septal defect whilst it is a strongly associated risk factor for atrial fibrillation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.054" element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease">
+        <explanation>Palpitations is not a clinical finding for end stage renal disease whilst it is a most common clinical finding for atrial fibrillation.
+Elderly is not a risk factor for end stage renal disease whilst it is a strongly associated risk factor for atrial fibrillation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8107551" element_label="primary pulmonary hypertension">
+        <explanation>Palpitations is not a clinical finding for primary pulmonary hypertension whilst it is a most common clinical finding for atrial fibrillation and fatigue is a common clinical finding for primary pulmonary hypertension whilst it is a most common clinical finding for atrial fibrillation.
+Elderly is not a risk factor for primary pulmonary hypertension whilst it is a strongly associated risk factor for atrial fibrillation.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.02" question_difficulty="0.01" question_id="-234272527" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 65+ year old patient presents with hepatitis. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5047359" element_label="fatigue" primary="true">
+        <explanation>Fatigue is a most common clinical finding for hepatitis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-8109741" element_label="abnormal urine color">
+        <explanation>Fatigue is a most common clinical finding for hepatitis whilst abnormal urine color is sometimes a clincial finding for hepatitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-3815176" element_label="epistaxis">
+        <explanation>Fatigue is a most common clinical finding for hepatitis whilst epistaxis is not a clinical finding for hepatitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-5356154" element_label="myalgia">
+        <explanation>Fatigue is a most common clinical finding for hepatitis whilst myalgia is a rare clinical finding for hepatitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2800232" element_label="diarrhea">
+        <explanation>Fatigue is a most common clinical finding for hepatitis whilst diarrhea is a common clinical finding for hepatitis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.004" question_difficulty="0.086" question_id="-306219145" source="MCQGController Test" stem_difficulty="0.167" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly female presents with syncope. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791947" element_label="pulmonary embolism" primary="true">
+        <explanation>Pulmonary embolism is a strongly occurring differential diagnosis to acute coronary syndrome. . .</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome" primary="true">
+        <explanation>Syncope is a common clinical finding  for acute coronary syndrome.
+Elderly is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-8121271" element_label="varicella-zoster virus infection">
+        <explanation>Varicella-zoster virus infection is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for varicella-zoster virus infection whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for varicella-zoster virus infection whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-3815189" element_label="diffuse esophageal spasm">
+        <explanation>Diffuse esophageal spasm is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for diffuse esophageal spasm whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for diffuse esophageal spasm whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.044" question_difficulty="0.522" question_id="-429622515" source="MCQGController Test" stem_difficulty="1.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient presents with hepatitis A. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791903" element_label="prednisone" primary="true">
+        <explanation>Prednisone is a rarely given medication for hepatitis A</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791221" element_label="dopamine">
+        <explanation>Prednisone is a rarely given medication for hepatitis A whilst dopamine is not a medication for hepatitis A</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791371" element_label="glyBURIDE">
+        <explanation>Prednisone is a rarely given medication for hepatitis A whilst glyBURIDE is not a medication for hepatitis A</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791618" element_label="melphalan">
+        <explanation>Prednisone is a rarely given medication for hepatitis A whilst melphalan is not a medication for hepatitis A</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.023" question_difficulty="0.178" question_id="-436725357" source="MCQGController Test" stem_difficulty="0.333" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient presents with congenital heart disease. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8115275" element_label="tachypnea" primary="true">
+        <explanation>Tachypnea is a common clinical finding for congenital heart disease</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.125" element_id="http://emmet.elsevier.com#Concept-3815337" element_label="hemoptysis">
+        <explanation>Tachypnea is a common clinical finding for congenital heart disease whilst hemoptysis is sometimes a clincial finding for congenital heart disease</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-3815176" element_label="epistaxis">
+        <explanation>Tachypnea is a common clinical finding for congenital heart disease whilst epistaxis is not a clinical finding for congenital heart disease</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.071" element_id="http://emmet.elsevier.com#Concept-5348462" element_label="chest pain">
+        <explanation>Tachypnea is a common clinical finding for congenital heart disease whilst chest pain is a rare clinical finding for congenital heart disease</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.032" question_difficulty="0.182" question_id="-497532123" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A Caucasian patient presents with arthralgia. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5349834" element_label="arthralgia" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9724341" element_label="caucasoid race" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8118601" element_label="Hashimoto disease" primary="true">
+        <explanation>Arthralgia is a common clinical finding  for Hashimoto disease.
+Caucasoid race is a commonly associated risk factor for Hashimoto disease.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-5363287" element_label="aortic valve stenosis">
+        <explanation>Arthralgia is not a clinical finding for aortic valve stenosis whilst it is a common clinical finding for Hashimoto disease.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome">
+        <explanation>Arthralgia is not a clinical finding for acute coronary syndrome whilst it is a common clinical finding for Hashimoto disease.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-3816028" element_label="abdominal aortic aneurysm">
+        <explanation>Arthralgia is not a clinical finding for abdominal aortic aneurysm whilst it is a common clinical finding for Hashimoto disease.
+.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.01" question_difficulty="0.089" question_id="-576250201" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient who has taken acetaminophen presents with hypertension and excoriation of skin. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8270312" element_label="excoriation of skin" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2790798" element_label="acetaminophen" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease" primary="true">
+        <explanation>Hypertension is a most common clinical finding  for end stage renal disease and excoriation of skin is a most common clinical finding  for end stage renal disease.
+Acetaminophen is a commonly associated risk factor for end stage renal disease.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-2792070" element_label="stroke">
+        <explanation>Hypertension is sometimes a clincial finding for stroke whilst it is a most common clinical finding for end stage renal disease and excoriation of skin is not a clinical finding for stroke whilst it is a most common clinical finding for end stage renal disease.
+Acetaminophen is not a risk factor for stroke whilst it is a commonly associated risk factor for end stage renal disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome">
+        <explanation>Hypertension is sometimes a clincial finding for acute coronary syndrome whilst it is a most common clinical finding for end stage renal disease and excoriation of skin is not a clinical finding for acute coronary syndrome whilst it is a most common clinical finding for end stage renal disease.
+Acetaminophen is not a risk factor for acute coronary syndrome whilst it is a commonly associated risk factor for end stage renal disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-3814892" element_label="cardiac tamponade">
+        <explanation>Hypertension is sometimes a clincial finding for cardiac tamponade whilst it is a most common clinical finding for end stage renal disease and excoriation of skin is not a clinical finding for cardiac tamponade whilst it is a most common clinical finding for end stage renal disease.
+Acetaminophen is not a risk factor for cardiac tamponade whilst it is a commonly associated risk factor for end stage renal disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.05" element_id="http://emmet.elsevier.com#Concept-3814926" element_label="hypokalemia">
+        <explanation>Hypertension is sometimes a clincial finding for hypokalemia whilst it is a most common clinical finding for end stage renal disease and excoriation of skin is not a clinical finding for hypokalemia whilst it is a most common clinical finding for end stage renal disease.
+Acetaminophen is not a risk factor for hypokalemia whilst it is a commonly associated risk factor for end stage renal disease.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.013" question_difficulty="0.214" question_id="-767613947" source="MCQGController Test" stem_difficulty="0.416" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An immobile patient presents with loss of consciousness and vomiting. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5344307" element_label="loss of consciousness" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5345219" element_label="vomiting" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114947" element_label="immobile" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792070" element_label="stroke" primary="true">
+        <explanation>Loss of consciousness is sometimes a clincial finding  for stroke and vomiting is a common clinical finding  for stroke.
+Immobile is a commonly associated risk factor for stroke.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.066" element_id="http://emmet.elsevier.com#Concept-3816028" element_label="abdominal aortic aneurysm">
+        <explanation>Loss of consciousness is not a clinical finding for abdominal aortic aneurysm whilst it is sometimes a clincial finding for stroke and vomiting is sometimes a clincial finding for abdominal aortic aneurysm whilst it is a common clinical finding for stroke.
+Immobile is not a risk factor for abdominal aortic aneurysm whilst it is a commonly associated risk factor for stroke.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.066" element_id="http://emmet.elsevier.com#Concept-5348177" element_label="diabetes mellitus">
+        <explanation>Loss of consciousness is not a clinical finding for diabetes mellitus whilst it is sometimes a clincial finding for stroke and vomiting is sometimes a clincial finding for diabetes mellitus whilst it is a common clinical finding for stroke.
+Immobile is not a risk factor for diabetes mellitus whilst it is a commonly associated risk factor for stroke.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.066" element_id="http://emmet.elsevier.com#Concept-3814926" element_label="hypokalemia">
+        <explanation>Loss of consciousness is not a clinical finding for hypokalemia whilst it is sometimes a clincial finding for stroke and vomiting is sometimes a clincial finding for hypokalemia whilst it is a common clinical finding for stroke.
+Immobile is not a risk factor for hypokalemia whilst it is a commonly associated risk factor for stroke.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.006" question_difficulty="0.003" question_id="-859144982" source="MCQGController Test" stem_difficulty="0.0" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An infant presents with cyanosis and lightheadedness. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5361832" element_label="cyanosis" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-7996866" element_label="lightheadedness" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8111397" element_label="infant" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3815781" element_label="tetralogy of Fallot" primary="true">
+        <explanation>Cyanosis is a most common clinical finding  for tetralogy of Fallot and lightheadedness is a most common clinical finding  for tetralogy of Fallot.
+Infant is a strongly associated risk factor for tetralogy of Fallot.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.044" element_id="http://emmet.elsevier.com#Concept-3816028" element_label="abdominal aortic aneurysm">
+        <explanation>Cyanosis is sometimes a clincial finding for abdominal aortic aneurysm whilst it is a most common clinical finding for tetralogy of Fallot and lightheadedness is not a clinical finding for abdominal aortic aneurysm whilst it is a most common clinical finding for tetralogy of Fallot.
+Infant is not a risk factor for abdominal aortic aneurysm whilst it is a strongly associated risk factor for tetralogy of Fallot.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8107551" element_label="primary pulmonary hypertension">
+        <explanation>Cyanosis is not a clinical finding for primary pulmonary hypertension whilst it is a most common clinical finding for tetralogy of Fallot and lightheadedness is a common clinical finding for primary pulmonary hypertension whilst it is a most common clinical finding for tetralogy of Fallot.
+Infant is not a risk factor for primary pulmonary hypertension whilst it is a strongly associated risk factor for tetralogy of Fallot.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.044" element_id="http://emmet.elsevier.com#Concept-2790921" element_label="atrial fibrillation">
+        <explanation>Cyanosis is not a clinical finding for atrial fibrillation whilst it is a most common clinical finding for tetralogy of Fallot and lightheadedness is sometimes a clincial finding for atrial fibrillation whilst it is a most common clinical finding for tetralogy of Fallot.
+Infant is not a risk factor for atrial fibrillation whilst it is a strongly associated risk factor for tetralogy of Fallot.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.065" question_difficulty="0.24" question_id="-896594432" source="MCQGController Test" stem_difficulty="0.416" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A female presents with early decrescendo diastolic murmur and syncope. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9786769" element_label="early decrescendo diastolic murmur" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="8.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8109629" element_label="aortic dissection" primary="true">
+        <explanation>Early decrescendo diastolic murmur is a common clinical finding  for aortic dissection and syncope is sometimes a clincial finding  for aortic dissection.
+Female is a commonly associated risk factor for aortic dissection.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.113" element_id="http://emmet.elsevier.com#Concept-8107902" element_label="heart failure">
+        <explanation>Early decrescendo diastolic murmur is not a clinical finding for heart failure whilst it is a common clinical finding for aortic dissection.
+Female is a sometimes associated risk factor for heart failure whilst it is a commonly associated risk factor for aortic dissection.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-3814926" element_label="hypokalemia">
+        <explanation>Early decrescendo diastolic murmur is not a clinical finding for hypokalemia whilst it is a common clinical finding for aortic dissection.
+Female is not a risk factor for hypokalemia whilst it is a commonly associated risk factor for aortic dissection.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.208" element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia">
+        <explanation>Early decrescendo diastolic murmur is not a clinical finding for atrioventricular nodal re-entry tachycardia whilst it is a common clinical finding for aortic dissection.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-8106252" element_label="pulmonary valve stenosis">
+        <explanation>Early decrescendo diastolic murmur is not a clinical finding for pulmonary valve stenosis whilst it is a common clinical finding for aortic dissection and syncope is a rare clinical finding for pulmonary valve stenosis whilst it is sometimes a clincial finding for aortic dissection.
+Female is not a risk factor for pulmonary valve stenosis whilst it is a commonly associated risk factor for aortic dissection.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.013" question_difficulty="0.049" question_id="-962837059" source="MCQGController Test" stem_difficulty="0.084" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient with a history of pericarditis presents with chest pain and hypotension. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5348462" element_label="chest pain" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2791475" element_label="hypotension" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2791843" element_label="pericarditis" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3814892" element_label="cardiac tamponade" primary="true">
+        <explanation>Chest pain is a most common clinical finding  for cardiac tamponade and hypotension is a common clinical finding  for cardiac tamponade.
+Pericarditis is a strongly associated risk factor for cardiac tamponade.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.047" element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease">
+        <explanation>Chest pain is sometimes a clincial finding for end stage renal disease whilst it is a most common clinical finding for cardiac tamponade and hypotension is not a clinical finding for end stage renal disease whilst it is a common clinical finding for cardiac tamponade.
+Pericarditis is not a risk factor for end stage renal disease whilst it is a strongly associated risk factor for cardiac tamponade.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.051" element_id="http://emmet.elsevier.com#Concept-3815322" element_label="ventricular septal defect">
+        <explanation>Chest pain is a common clinical finding for ventricular septal defect whilst it is a most common clinical finding for cardiac tamponade and hypotension is not a clinical finding for ventricular septal defect whilst it is a common clinical finding for cardiac tamponade.
+Pericarditis is not a risk factor for ventricular septal defect whilst it is a strongly associated risk factor for cardiac tamponade.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.049" element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome">
+        <explanation>Chest pain is not a clinical finding for acute coronary syndrome whilst it is a most common clinical finding for cardiac tamponade and hypotension is sometimes a clincial finding for acute coronary syndrome whilst it is a common clinical finding for cardiac tamponade.
+Pericarditis is not a risk factor for acute coronary syndrome whilst it is a strongly associated risk factor for cardiac tamponade.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.079" element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia">
+        <explanation>Chest pain is not a clinical finding for atrioventricular nodal re-entry tachycardia whilst it is a most common clinical finding for cardiac tamponade and hypotension is sometimes a clincial finding for atrioventricular nodal re-entry tachycardia whilst it is a common clinical finding for cardiac tamponade.
+Pericarditis is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia whilst it is a strongly associated risk factor for cardiac tamponade.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.02" question_difficulty="0.01" question_id="1002647121" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient presents with diverticulitis. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791117" element_label="constipation" primary="true">
+        <explanation>Constipation is a most common clinical finding for diverticulitis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-4993818" element_label="nausea">
+        <explanation>Constipation is a most common clinical finding for diverticulitis whilst nausea is a common clinical finding for diverticulitis in  a patient</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-3815176" element_label="epistaxis">
+        <explanation>Constipation is a most common clinical finding for diverticulitis whilst epistaxis is not a clinical finding for diverticulitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8117014" element_label="rectal bleeding">
+        <explanation>Constipation is a most common clinical finding for diverticulitis whilst rectal bleeding is a rare clinical finding for diverticulitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-5347655" element_label="frequent urination">
+        <explanation>Constipation is a most common clinical finding for diverticulitis whilst frequent urination is sometimes a clincial finding for diverticulitis in  a patient</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.067" question_difficulty="0.2" question_id="100433979" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 40+ year old caucasion presents with syncope and ejection click. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8941156" element_label="ejection click" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9724341" element_label="caucasoid race" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5363287" element_label="aortic valve stenosis" primary="true">
+        <explanation>Syncope is a common clinical finding  for aortic valve stenosis and ejection click is a common clinical finding  for aortic valve stenosis.
+Caucasoid race is a commonly associated risk factor for aortic valve stenosis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension">
+        <explanation>Ejection click is not a clinical finding for pulmonary hypertension whilst it is a common clinical finding for aortic valve stenosis.
+Caucasoid race is not a risk factor for pulmonary hypertension whilst it is a commonly associated risk factor for aortic valve stenosis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.208" element_id="http://emmet.elsevier.com#Concept-3816028" element_label="abdominal aortic aneurysm">
+        <explanation>Ejection click is not a clinical finding for abdominal aortic aneurysm whilst it is a common clinical finding for aortic valve stenosis.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-3815322" element_label="ventricular septal defect">
+        <explanation>.
+Caucasoid race is not a risk factor for ventricular septal defect whilst it is a commonly associated risk factor for aortic valve stenosis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.092" element_id="http://emmet.elsevier.com#Concept-8107902" element_label="heart failure">
+        <explanation>Syncope is sometimes a clincial finding for heart failure whilst it is a common clinical finding for aortic valve stenosis and ejection click is not a clinical finding for heart failure whilst it is a common clinical finding for aortic valve stenosis.
+Caucasoid race is a sometimes associated risk factor for heart failure whilst it is a commonly associated risk factor for aortic valve stenosis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.012" question_difficulty="0.006" question_id="1225677077" source="MCQGController Test" stem_difficulty="0.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient presents with atrioventricular nodal re-entry tachycardia. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790812" element_label="adenosine" primary="true">
+        <explanation>Adenosine is a best choice medication for atrioventricular nodal re-entry tachycardia in  a patient</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2791925" element_label="propafenone">
+        <explanation>Adenosine is a best choice medication for atrioventricular nodal re-entry tachycardia in  a patient whilst propafenone is a 3rd line medication for atrioventricular nodal re-entry tachycardia in  a patient</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2791326" element_label="flecainide">
+        <explanation>Adenosine is a best choice medication for atrioventricular nodal re-entry tachycardia in  a patient whilst flecainide is a 3rd line medication for atrioventricular nodal re-entry tachycardia in  a patient</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2792049" element_label="sotalol">
+        <explanation>Adenosine is a best choice medication for atrioventricular nodal re-entry tachycardia in  a patient whilst sotalol is a 3rd line medication for atrioventricular nodal re-entry tachycardia</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.038" question_difficulty="0.103" question_id="1237334192" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 41 year old female presents with prominent carotid pulse and palpitations. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9785921" element_label="prominent carotid pulse" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3815455" element_label="palpitations" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia" primary="true">
+        <explanation>Prominent carotid pulse is a most common clinical finding  for atrioventricular nodal re-entry tachycardia and palpitations is a most common clinical finding  for atrioventricular nodal re-entry tachycardia.
+Female is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.119" element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension">
+        <explanation>Prominent carotid pulse is not a clinical finding for pulmonary hypertension whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia and palpitations is a common clinical finding for pulmonary hypertension whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.07" element_id="http://emmet.elsevier.com#Concept-8107902" element_label="heart failure">
+        <explanation>Prominent carotid pulse is not a clinical finding for heart failure whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia and palpitations is sometimes a clincial finding for heart failure whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia.
+Female is a sometimes associated risk factor for heart failure whilst it is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.119" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>Prominent carotid pulse is not a clinical finding for hypertension whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia and palpitations is a common clinical finding for hypertension whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.07" element_id="http://emmet.elsevier.com#Concept-5363287" element_label="aortic valve stenosis">
+        <explanation>Prominent carotid pulse is not a clinical finding for aortic valve stenosis whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia and palpitations is sometimes a clincial finding for aortic valve stenosis whilst it is a most common clinical finding for atrioventricular nodal re-entry tachycardia.
+Female is a sometimes associated risk factor for aortic valve stenosis whilst it is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.032" question_difficulty="0.182" question_id="1254062694" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 13 year old female presents with prominent jugular venous pulse. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9774507" element_label="prominent jugular venous pulse" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8852724" element_label="atrioventricular nodal re-entry tachycardia" primary="true">
+        <explanation>Prominent jugular venous pulse is a common clinical finding  for atrioventricular nodal re-entry tachycardia.
+Female is a commonly associated risk factor for atrioventricular nodal re-entry tachycardia.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension">
+        <explanation>Prominent jugular venous pulse is not a clinical finding for pulmonary hypertension whilst it is a common clinical finding for atrioventricular nodal re-entry tachycardia.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-8109629" element_label="aortic dissection">
+        <explanation>Prominent jugular venous pulse is not a clinical finding for aortic dissection whilst it is a common clinical finding for atrioventricular nodal re-entry tachycardia.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>Prominent jugular venous pulse is not a clinical finding for hypertension whilst it is a common clinical finding for atrioventricular nodal re-entry tachycardia.
+.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.008" question_difficulty="0.171" question_id="1303785478" source="MCQGController Test" stem_difficulty="0.333" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient presents with cellulitis and face abscess. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791037" element_label="ceftriaxone" primary="true">
+        <explanation>Ceftriaxone is a 2nd line medication for cellulitis and abscess of face</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2796994" element_label="niacin">
+        <explanation>Ceftriaxone is a 2nd line medication for cellulitis and abscess of face whilst niacin is not a medication for cellulitis and abscess of face</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2791746" element_label="sodium nitroprusside">
+        <explanation>Ceftriaxone is a 2nd line medication for cellulitis and abscess of face whilst sodium nitroprusside is not a medication for cellulitis and abscess of face</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2794023" element_label="rosuvastatin">
+        <explanation>Ceftriaxone is a 2nd line medication for cellulitis and abscess of face whilst rosuvastatin is not a medication for cellulitis and abscess of face</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.006" question_difficulty="0.087" question_id="1314806000" source="MCQGController Test" stem_difficulty="0.167" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly patient presents with syncope. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791947" element_label="pulmonary embolism" primary="true">
+        <explanation>Pulmonary embolism is a strongly occurring differential diagnosis to acute coronary syndrome. . .</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome" primary="true">
+        <explanation>Syncope is a common clinical finding  for acute coronary syndrome.
+Elderly is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-2791810" element_label="pancreatitis">
+        <explanation>Pancreatitis is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for pancreatitis whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for pancreatitis whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-8244712" element_label="peptic ulcer perforation">
+        <explanation>Peptic ulcer perforation is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for peptic ulcer perforation whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for peptic ulcer perforation whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-3814924" element_label="cholecystitis">
+        <explanation>Cholecystitis is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for cholecystitis whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for cholecystitis whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.006" question_difficulty="0.087" question_id="1327461883" source="MCQGController Test" stem_difficulty="0.167" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly male presents with syncope. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791947" element_label="pulmonary embolism" primary="true">
+        <explanation>Pulmonary embolism is a strongly occurring differential diagnosis to acute coronary syndrome. . .</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome" primary="true">
+        <explanation>Syncope is a common clinical finding  for acute coronary syndrome.
+Elderly is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-8244712" element_label="peptic ulcer perforation">
+        <explanation>Peptic ulcer perforation is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for peptic ulcer perforation whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for peptic ulcer perforation whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-2791810" element_label="pancreatitis">
+        <explanation>Pancreatitis is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for pancreatitis whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for pancreatitis whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-3815189" element_label="diffuse esophageal spasm">
+        <explanation>Diffuse esophageal spasm is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for diffuse esophageal spasm whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for diffuse esophageal spasm whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.018" question_difficulty="0.259" question_id="1401422468" source="MCQGController Test" stem_difficulty="0.5" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient with a history of hyperglycemia presents with jaw pain and fatigue. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114154" element_label="jaw pain" rank="7.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047359" element_label="fatigue" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3815394" element_label="hyperglycemia" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5348177" element_label="diabetes mellitus" primary="true">
+        <explanation>Jaw pain is a rare clinical finding  for diabetes mellitus and fatigue is a common clinical finding  for diabetes mellitus.
+Hyperglycemia is a commonly associated risk factor for diabetes mellitus.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-3814892" element_label="cardiac tamponade">
+        <explanation>Jaw pain is not a clinical finding for cardiac tamponade whilst it is a rare clinical finding for diabetes mellitus and fatigue is sometimes a clincial finding for cardiac tamponade whilst it is a common clinical finding for diabetes mellitus.
+Hyperglycemia is not a risk factor for cardiac tamponade whilst it is a commonly associated risk factor for diabetes mellitus.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>Jaw pain is not a clinical finding for hypertension whilst it is a rare clinical finding for diabetes mellitus and fatigue is sometimes a clincial finding for hypertension whilst it is a common clinical finding for diabetes mellitus.
+Hyperglycemia is not a risk factor for hypertension whilst it is a commonly associated risk factor for diabetes mellitus.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.086" element_id="http://emmet.elsevier.com#Concept-3814782" element_label="adenoviral infection">
+        <explanation>Jaw pain is not a clinical finding for adenoviral infection whilst it is a rare clinical finding for diabetes mellitus.
+Hyperglycemia is not a risk factor for adenoviral infection whilst it is a commonly associated risk factor for diabetes mellitus.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.013" question_difficulty="0.173" question_id="1580163002" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient with a history of Marfan syndrome presents with syncope. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2791593" element_label="Marfan syndrome" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3816028" element_label="abdominal aortic aneurysm" primary="true">
+        <explanation>Syncope is a common clinical finding  for abdominal aortic aneurysm.
+Marfan syndrome is a commonly associated risk factor for abdominal aortic aneurysm.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease">
+        <explanation>Syncope is not a clinical finding for end stage renal disease whilst it is a common clinical finding for abdominal aortic aneurysm.
+Marfan syndrome is not a risk factor for end stage renal disease whilst it is a commonly associated risk factor for abdominal aortic aneurysm.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-3814926" element_label="hypokalemia">
+        <explanation>Syncope is sometimes a clincial finding for hypokalemia whilst it is a common clinical finding for abdominal aortic aneurysm.
+Marfan syndrome is not a risk factor for hypokalemia whilst it is a commonly associated risk factor for abdominal aortic aneurysm.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>Syncope is sometimes a clincial finding for hypertension whilst it is a common clinical finding for abdominal aortic aneurysm.
+Marfan syndrome is not a risk factor for hypertension whilst it is a commonly associated risk factor for abdominal aortic aneurysm.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.02" question_difficulty="0.01" question_id="1840296380" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient presents with megaloblastic anemia. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5346260" element_label="pallor" primary="true">
+        <explanation>Pallor is a most common clinical finding for megaloblastic anemia</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2792222" element_label="weight loss">
+        <explanation>Pallor is a most common clinical finding for megaloblastic anemia whilst weight loss is sometimes a clincial finding for megaloblastic anemia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-3815176" element_label="epistaxis">
+        <explanation>Pallor is a most common clinical finding for megaloblastic anemia whilst epistaxis is not a clinical finding for megaloblastic anemia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-8114275" element_label="decreased tendon reflex">
+        <explanation>Pallor is a most common clinical finding for megaloblastic anemia whilst decreased tendon reflex is a common clinical finding for megaloblastic anemia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8107902" element_label="heart failure">
+        <explanation>Pallor is a most common clinical finding for megaloblastic anemia whilst heart failure is a rare clinical finding for megaloblastic anemia</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.087" question_difficulty="0.168" question_id="1880752188" source="MCQGController Test" stem_difficulty="0.25" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A female patient presents with dyspnea and parasternal heave. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5344093" element_label="dyspnea" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9075450" element_label="parasternal heave" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension" primary="true">
+        <explanation>Dyspnea is a most common clinical finding  for pulmonary hypertension and parasternal heave is a common clinical finding  for pulmonary hypertension.
+Female is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-3814892" element_label="cardiac tamponade">
+        <explanation>Parasternal heave is not a clinical finding for cardiac tamponade whilst it is a common clinical finding for pulmonary hypertension.
+Female is not a risk factor for cardiac tamponade whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.113" element_id="http://emmet.elsevier.com#Concept-5363287" element_label="aortic valve stenosis">
+        <explanation>Parasternal heave is not a clinical finding for aortic valve stenosis whilst it is a common clinical finding for pulmonary hypertension.
+Female is a sometimes associated risk factor for aortic valve stenosis whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.084" element_id="http://emmet.elsevier.com#Concept-3815322" element_label="ventricular septal defect">
+        <explanation>Dyspnea is a common clinical finding for ventricular septal defect whilst it is a most common clinical finding for pulmonary hypertension.
+Female is not a risk factor for ventricular septal defect whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.25" element_id="http://emmet.elsevier.com#Concept-8107902" element_label="heart failure">
+        <explanation>.
+Female is a sometimes associated risk factor for heart failure whilst it is a commonly associated risk factor for pulmonary hypertension.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.018" question_difficulty="0.009" question_id="1886501725" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 34 year old patient presents with multifocal atrial tachycardia. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-7996866" element_label="lightheadedness" primary="true">
+        <explanation>Lightheadedness is a most common clinical finding for multifocal atrial tachycardia</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-8107347" element_label="asthenia">
+        <explanation>Lightheadedness is a most common clinical finding for multifocal atrial tachycardia whilst asthenia is a common clinical finding for multifocal atrial tachycardia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-3815176" element_label="epistaxis">
+        <explanation>Lightheadedness is a most common clinical finding for multifocal atrial tachycardia whilst epistaxis is not a clinical finding for multifocal atrial tachycardia</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-3815562" element_label="polyuria">
+        <explanation>Lightheadedness is a most common clinical finding for multifocal atrial tachycardia whilst polyuria is sometimes a clincial finding for multifocal atrial tachycardia</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.004" question_difficulty="0.086" question_id="1923109555" source="MCQGController Test" stem_difficulty="0.167" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly male patient presents with syncope. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791947" element_label="pulmonary embolism" primary="true">
+        <explanation>Pulmonary embolism is a strongly occurring differential diagnosis to acute coronary syndrome. . .</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome" primary="true">
+        <explanation>Syncope is a common clinical finding  for acute coronary syndrome.
+Elderly is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-2791810" element_label="pancreatitis">
+        <explanation>Pancreatitis is a sometimes occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for pancreatitis whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for pancreatitis whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-9109843" element_label="dissecting aortic aneurysm">
+        <explanation>Dissecting aortic aneurysm is a strongly occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for dissecting aortic aneurysm whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for dissecting aortic aneurysm whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.016" question_difficulty="0.342" question_id="1981845287" source="MCQGController Test" stem_difficulty="0.667" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A female patient presents with hypertrophic cardiomyopathy. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792219" element_label="warfarin" primary="true">
+        <explanation>Warfarin is a 3rd line medication for hypertrophic cardiomyopathy</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2791447" element_label="hydralazine">
+        <explanation>Warfarin is a 3rd line medication for hypertrophic cardiomyopathy whilst hydralazine is not a medication for hypertrophic cardiomyopathy</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2792272" element_label="bisoprolol">
+        <explanation>Warfarin is a 3rd line medication for hypertrophic cardiomyopathy whilst bisoprolol is not a medication for hypertrophic cardiomyopathy</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-9378849" element_label="ethyl icosapentaenoate">
+        <explanation>Warfarin is a 3rd line medication for hypertrophic cardiomyopathy whilst ethyl icosapentaenoate is not a medication for hypertrophic cardiomyopathy</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.044" question_difficulty="0.022" question_id="2100342478" source="MCQGController Test" stem_difficulty="0.0" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly patient presents with palpitations and fatigue. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047359" element_label="fatigue" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3815455" element_label="palpitations" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790921" element_label="atrial fibrillation" primary="true">
+        <explanation>Palpitations is a most common clinical finding  for atrial fibrillation and fatigue is a most common clinical finding  for atrial fibrillation.
+Elderly is a strongly associated risk factor for atrial fibrillation.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.16" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>Palpitations is a common clinical finding for hypertension whilst it is a most common clinical finding for atrial fibrillation and fatigue is sometimes a clincial finding for hypertension whilst it is a most common clinical finding for atrial fibrillation.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-5348177" element_label="diabetes mellitus">
+        <explanation>Palpitations is not a clinical finding for diabetes mellitus whilst it is a most common clinical finding for atrial fibrillation and fatigue is a common clinical finding for diabetes mellitus whilst it is a most common clinical finding for atrial fibrillation.
+Elderly is not a risk factor for diabetes mellitus whilst it is a strongly associated risk factor for atrial fibrillation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.049" element_id="http://emmet.elsevier.com#Concept-3814892" element_label="cardiac tamponade">
+        <explanation>Palpitations is sometimes a clincial finding for cardiac tamponade whilst it is a most common clinical finding for atrial fibrillation and fatigue is sometimes a clincial finding for cardiac tamponade whilst it is a most common clinical finding for atrial fibrillation.
+Elderly is not a risk factor for cardiac tamponade whilst it is a strongly associated risk factor for atrial fibrillation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.119" element_id="http://emmet.elsevier.com#Concept-2791185" element_label="diabetic neuropathy">
+        <explanation>Palpitations is not a clinical finding for diabetic neuropathy whilst it is a most common clinical finding for atrial fibrillation and fatigue is a common clinical finding for diabetic neuropathy whilst it is a most common clinical finding for atrial fibrillation.
+.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.015" question_difficulty="0.133" question_id="239394372" source="MCQGController Test" stem_difficulty="0.25" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 31 year old male with a family history of sudden infant death presents with ST segment elevation. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9140912" element_label="ST segment elevation" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8983468" element_label="Family history: Sudden infant death (situation)" rank="7.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8900499" element_label="Brugada syndrome" primary="true">
+        <explanation>ST segment elevation is a most common clinical finding  for Brugada syndrome.
+Male is a strongly associated risk factor for Brugada syndrome and Family history: Sudden infant death (situation) is a rarely associated risk factor for Brugada syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.06" element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome">
+        <explanation>ST segment elevation is not a clinical finding for acute coronary syndrome whilst it is a most common clinical finding for Brugada syndrome.
+Male is a commonly associated risk factor for acute coronary syndrome whilst it is a strongly associated risk factor for Brugada syndrome and Family history: Sudden infant death (situation) is not a risk factor for acute coronary syndrome whilst it is a rarely associated risk factor for Brugada syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.06" element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease">
+        <explanation>ST segment elevation is not a clinical finding for end stage renal disease whilst it is a most common clinical finding for Brugada syndrome.
+Male is a commonly associated risk factor for end stage renal disease whilst it is a strongly associated risk factor for Brugada syndrome and Family history: Sudden infant death (situation) is not a risk factor for end stage renal disease whilst it is a rarely associated risk factor for Brugada syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.054" element_id="http://emmet.elsevier.com#Concept-8113806" element_label="high altitude pulmonary edema">
+        <explanation>ST segment elevation is not a clinical finding for high altitude pulmonary edema whilst it is a most common clinical finding for Brugada syndrome.
+Male is a sometimes associated risk factor for high altitude pulmonary edema whilst it is a strongly associated risk factor for Brugada syndrome and Family history: Sudden infant death (situation) is not a risk factor for high altitude pulmonary edema whilst it is a rarely associated risk factor for Brugada syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-8132204" element_label="ventricular bigeminy">
+        <explanation>ST segment elevation is not a clinical finding for ventricular bigeminy whilst it is a most common clinical finding for Brugada syndrome.
+Family history: Sudden infant death (situation) is not a risk factor for ventricular bigeminy whilst it is a rarely associated risk factor for Brugada syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.009" question_difficulty="0.088" question_id="257472814" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 65+ year old patient with a history of cocaine presents with fourth sound gallop. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8946479" element_label="fourth sound gallop" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9761638" element_label="cocaine" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8107902" element_label="heart failure" primary="true">
+        <explanation>Fourth sound gallop is a most common clinical finding  for heart failure.
+Cocaine is a commonly associated risk factor for heart failure.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-8116540" element_label="end stage renal disease">
+        <explanation>Fourth sound gallop is not a clinical finding for end stage renal disease whilst it is a most common clinical finding for heart failure.
+Cocaine is not a risk factor for end stage renal disease whilst it is a commonly associated risk factor for heart failure.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-8113806" element_label="high altitude pulmonary edema">
+        <explanation>Fourth sound gallop is not a clinical finding for high altitude pulmonary edema whilst it is a most common clinical finding for heart failure.
+Cocaine is not a risk factor for high altitude pulmonary edema whilst it is a commonly associated risk factor for heart failure.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.071" element_id="http://emmet.elsevier.com#Concept-8106252" element_label="pulmonary valve stenosis">
+        <explanation>Fourth sound gallop is a common clinical finding for pulmonary valve stenosis whilst it is a most common clinical finding for heart failure.
+Cocaine is not a risk factor for pulmonary valve stenosis whilst it is a commonly associated risk factor for heart failure.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.012" question_difficulty="0.173" question_id="277012421" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient with a history of Alagille syndrome presents with fatigue and functional tricuspid regurgitation. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047359" element_label="fatigue" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8851371" element_label="functional tricuspid regurgitation" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792454" element_label="Alagille syndrome" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8106252" element_label="pulmonary valve stenosis" primary="true">
+        <explanation>Fatigue is a common clinical finding  for pulmonary valve stenosis and functional tricuspid regurgitation is a common clinical finding  for pulmonary valve stenosis.
+Alagille syndrome is a commonly associated risk factor for pulmonary valve stenosis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-8118601" element_label="Hashimoto disease">
+        <explanation>Functional tricuspid regurgitation is not a clinical finding for Hashimoto disease whilst it is a common clinical finding for pulmonary valve stenosis.
+Alagille syndrome is not a risk factor for Hashimoto disease whilst it is a commonly associated risk factor for pulmonary valve stenosis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.061" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>Fatigue is sometimes a clincial finding for hypertension whilst it is a common clinical finding for pulmonary valve stenosis and functional tricuspid regurgitation is not a clinical finding for hypertension whilst it is a common clinical finding for pulmonary valve stenosis.
+Alagille syndrome is not a risk factor for hypertension whilst it is a commonly associated risk factor for pulmonary valve stenosis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.061" element_id="http://emmet.elsevier.com#Concept-3814892" element_label="cardiac tamponade">
+        <explanation>Fatigue is sometimes a clincial finding for cardiac tamponade whilst it is a common clinical finding for pulmonary valve stenosis and functional tricuspid regurgitation is not a clinical finding for cardiac tamponade whilst it is a common clinical finding for pulmonary valve stenosis.
+Alagille syndrome is not a risk factor for cardiac tamponade whilst it is a commonly associated risk factor for pulmonary valve stenosis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.011" question_difficulty="0.172" question_id="584380" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient who received no postnatal care presents with renal dysplasia. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9141280" element_label="renal dysplasia" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8983974" element_label="no postnatal care" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2803605" element_label="fetal alcohol syndrome" primary="true">
+        <explanation>Renal dysplasia is a common clinical finding  for fetal alcohol syndrome.
+No postnatal care is a commonly associated risk factor for fetal alcohol syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-8118601" element_label="Hashimoto disease">
+        <explanation>Renal dysplasia is not a clinical finding for Hashimoto disease whilst it is a common clinical finding for fetal alcohol syndrome.
+No postnatal care is not a risk factor for Hashimoto disease whilst it is a commonly associated risk factor for fetal alcohol syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2790921" element_label="atrial fibrillation">
+        <explanation>Renal dysplasia is not a clinical finding for atrial fibrillation whilst it is a common clinical finding for fetal alcohol syndrome.
+No postnatal care is not a risk factor for atrial fibrillation whilst it is a commonly associated risk factor for fetal alcohol syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2791466" element_label="hypertension">
+        <explanation>Renal dysplasia is not a clinical finding for hypertension whilst it is a common clinical finding for fetal alcohol syndrome.
+No postnatal care is not a risk factor for hypertension whilst it is a commonly associated risk factor for fetal alcohol syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2791467" element_label="pulmonary hypertension">
+        <explanation>Renal dysplasia is not a clinical finding for pulmonary hypertension whilst it is a common clinical finding for fetal alcohol syndrome.
+No postnatal care is not a risk factor for pulmonary hypertension whilst it is a commonly associated risk factor for fetal alcohol syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.021" question_difficulty="0.011" question_id="590595370" source="MCQGController Test" stem_difficulty="0.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A patient presents with myocardial infarction. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791928" element_label="propranolol" primary="true">
+        <explanation>Propranolol is a best choice medication for myocardial infarction</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-7985341" element_label="cerivastatin">
+        <explanation>Propranolol is a best choice medication for myocardial infarction whilst cerivastatin is a rarely given medication for myocardial infarction</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2791572" element_label="lovastatin">
+        <explanation>Propranolol is a best choice medication for myocardial infarction whilst lovastatin is a 3rd line medication for myocardial infarction</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2791006" element_label="captopril">
+        <explanation>Propranolol is a best choice medication for myocardial infarction whilst captopril is a 2nd line medication for myocardial infarction</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-2791106" element_label="colestipol">
+        <explanation>Propranolol is a best choice medication for myocardial infarction whilst colestipol is a rarely given medication for myocardial infarction</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.018" question_difficulty="0.009" question_id="612910766" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 13 year old presents with atrial septal defect. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3815455" element_label="palpitations" primary="true">
+        <explanation>Palpitations is a most common clinical finding for atrial septal defect</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-8963829" element_label="pansystolic murmur">
+        <explanation>Palpitations is a most common clinical finding for atrial septal defect whilst pansystolic murmur is sometimes a clincial finding for atrial septal defect</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-8854932" element_label="systolic flow murmur">
+        <explanation>Palpitations is a most common clinical finding for atrial septal defect whilst systolic flow murmur is a common clinical finding for atrial septal defect</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-9141153" element_label="pulsus paradoxus">
+        <explanation>Palpitations is a most common clinical finding for atrial septal defect whilst pulsus paradoxus is a rare clinical finding for atrial septal defect</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.062" question_difficulty="0.198" question_id="685754897" source="MCQGController Test" stem_difficulty="0.333" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>A 75+ year old patient presents with myocardial infarction. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-9745564" element_label="dabigatran" primary="true">
+        <explanation>Dabigatran is a 2nd line medication for myocardial infarction</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.125" element_id="http://emmet.elsevier.com#Concept-2792777" element_label="atorvastatin">
+        <explanation>Dabigatran is a 2nd line medication for myocardial infarction whilst atorvastatin is a 3rd line medication for myocardial infarction</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.125" element_id="http://emmet.elsevier.com#Concept-2791572" element_label="lovastatin">
+        <explanation>Dabigatran is a 2nd line medication for myocardial infarction whilst lovastatin is a 3rd line medication for myocardial infarction</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.125" element_id="http://emmet.elsevier.com#Concept-2791918" element_label="fenofibrate">
+        <explanation>Dabigatran is a 2nd line medication for myocardial infarction whilst fenofibrate is a 3rd line medication for myocardial infarction</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.125" element_id="http://emmet.elsevier.com#Concept-2791073" element_label="cholestyramine">
+        <explanation>Dabigatran is a 2nd line medication for myocardial infarction whilst cholestyramine is a 3rd line medication for myocardial infarction</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.004" question_difficulty="0.086" question_id="932018186" source="MCQGController Test" stem_difficulty="0.167" template_id="q5">
+    <speciality element_id="http://emmet.elsevier.com#Concept-2791018" element_label="cardiology"/>
+    <stem>
+      <questiontext>An elderly male patient presents with syncope. 
+What is the differential diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-2792090" element_label="syncope" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8109898" element_label="elderly" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791947" element_label="pulmonary embolism" primary="true">
+        <explanation>Pulmonary embolism is a strongly occurring differential diagnosis to acute coronary syndrome. . .</explanation>
+      </key>
+      <key element_id="http://emmet.elsevier.com#Concept-8235491" element_label="acute coronary syndrome" primary="true">
+        <explanation>Syncope is a common clinical finding  for acute coronary syndrome.
+Elderly is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-9097488" element_label="Takotsubo cardiomyopathy">
+        <explanation>Takotsubo cardiomyopathy is a likely occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for Takotsubo cardiomyopathy whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for Takotsubo cardiomyopathy whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.045" element_id="http://emmet.elsevier.com#Concept-2791843" element_label="pericarditis">
+        <explanation>Pericarditis is a likely occurring differential diagnosis to acute coronary syndrome. Syncope is not a clinical finding for pericarditis whilst it is a common clinical finding for acute coronary syndrome. Elderly is not a risk factor for pericarditis whilst it is a strongly associated risk factor for acute coronary syndrome.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+</questionset>

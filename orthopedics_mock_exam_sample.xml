@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionset>
+  <question author="Manchester Automated" distractor_difficulty="0.053" question_difficulty="0.193" question_id="-1195576538" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>An adolescent patient presents with extension based back pain. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9783727" element_label="extension based back pain" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8112460" element_label="child" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114759" element_label="adolescent" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8107478" element_label="spondylolisthesis" primary="true">
+        <explanation>Extension based back pain is a common clinical finding  for spondylolisthesis.
+Adolescent is a commonly associated risk factor for spondylolisthesis and child is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-8100923" element_label="radial head subluxation">
+        <explanation>Extension based back pain is not a clinical finding for radial head subluxation whilst it is a common clinical finding for spondylolisthesis.
+Adolescent is not a risk factor for radial head subluxation whilst it is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.208" element_id="http://emmet.elsevier.com#Concept-8115083" element_label="acute low back pain">
+        <explanation>.
+Adolescent is not a risk factor for acute low back pain whilst it is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-8109457" element_label="slipped upper femoral epiphysis">
+        <explanation>Extension based back pain is not a clinical finding for slipped upper femoral epiphysis whilst it is a common clinical finding for spondylolisthesis.
+Child is not a risk factor for slipped upper femoral epiphysis whilst it is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.044" question_difficulty="0.522" question_id="-1373701793" source="MCQGController Test" stem_difficulty="1.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with lateral epicondylitis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8101272" element_label="lidocaine topical" primary="true">
+        <explanation>Lidocaine topical is a rarely given medication for lateral epicondylitis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-7987811" element_label="corticotropin">
+        <explanation>Lidocaine topical is a rarely given medication for lateral epicondylitis whilst corticotropin is not a medication for lateral epicondylitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791746" element_label="sodium nitroprusside">
+        <explanation>Lidocaine topical is a rarely given medication for lateral epicondylitis whilst sodium nitroprusside is not a medication for lateral epicondylitis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791679" element_label="morphine">
+        <explanation>Lidocaine topical is a rarely given medication for lateral epicondylitis whilst morphine is not a medication for lateral epicondylitis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.059" question_difficulty="0.529" question_id="-1442160837" source="MCQGController Test" stem_difficulty="1.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with osteoporosis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-7987823" element_label="etidronate" primary="true">
+        <explanation>Etidronate is a rarely given medication for osteoporosis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2792108" element_label="tetracycline">
+        <explanation>Etidronate is a rarely given medication for osteoporosis whilst tetracycline is not a medication for osteoporosis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791104" element_label="codeine">
+        <explanation>Etidronate is a rarely given medication for osteoporosis whilst codeine is not a medication for osteoporosis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-9294122" element_label="cediranib">
+        <explanation>Etidronate is a rarely given medication for osteoporosis whilst cediranib is not a medication for osteoporosis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.121" element_id="http://emmet.elsevier.com#Concept-2791902" element_label="prednisolone">
+        <explanation>Etidronate is a rarely given medication for osteoporosis whilst prednisolone is not a medication for osteoporosis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.018" question_difficulty="0.009" question_id="-1536794602" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A 3 year old child presents with Lyme disease. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791405" element_label="headache" primary="true">
+        <explanation>Headache is a most common clinical finding for Lyme disease</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-8247718" element_label="olecranon bursitis">
+        <explanation>Headache is a most common clinical finding for Lyme disease whilst olecranon bursitis is not a clinical finding for Lyme disease</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2792212" element_label="visual impairment">
+        <explanation>Headache is a most common clinical finding for Lyme disease whilst visual impairment is sometimes a clincial finding for Lyme disease</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-8116495" element_label="inflamed joint">
+        <explanation>Headache is a most common clinical finding for Lyme disease whilst inflamed joint is a common clinical finding for Lyme disease</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.018" question_difficulty="0.009" question_id="-1795992718" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with cardiogenic shock. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8114326" element_label="alteration in consciousness" primary="true">
+        <explanation>Alteration in consciousness is a most common clinical finding for cardiogenic shock</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-8247718" element_label="olecranon bursitis">
+        <explanation>Alteration in consciousness is a most common clinical finding for cardiogenic shock whilst olecranon bursitis is not a clinical finding for cardiogenic shock</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-5348859" element_label="confusion">
+        <explanation>Alteration in consciousness is a most common clinical finding for cardiogenic shock whilst confusion is sometimes a clincial finding for cardiogenic shock</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-8107347" element_label="asthenia">
+        <explanation>Alteration in consciousness is a most common clinical finding for cardiogenic shock whilst asthenia is a common clinical finding for cardiogenic shock</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.016" question_difficulty="0.342" question_id="-1820252012" source="MCQGController Test" stem_difficulty="0.667" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with diabetic neuropathy. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792402" element_label="topiramate" primary="true">
+        <explanation>Topiramate is a 3rd line medication for diabetic neuropathy</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2792197" element_label="vancomycin">
+        <explanation>Topiramate is a 3rd line medication for diabetic neuropathy whilst vancomycin is not a medication for diabetic neuropathy</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2791292" element_label="estradiol">
+        <explanation>Topiramate is a 3rd line medication for diabetic neuropathy whilst estradiol is not a medication for diabetic neuropathy</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2792876" element_label="voriconazole">
+        <explanation>Topiramate is a 3rd line medication for diabetic neuropathy whilst voriconazole is not a medication for diabetic neuropathy</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.009" question_difficulty="0.004" question_id="-182696637" source="MCQGController Test" stem_difficulty="0.0" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A male child presents with lameness. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8118109" element_label="lameness" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8120858" element_label="male" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8112460" element_label="child" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3814991" element_label="Legg-Calvé-Perthes disease" primary="true">
+        <explanation>Lameness is a most common clinical finding  for Legg-Calvé-Perthes disease.
+Male is a strongly associated risk factor for Legg-Calvé-Perthes disease and child is a strongly associated risk factor for Legg-Calvé-Perthes disease.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-8107633" element_label="fibrous dysplasia">
+        <explanation>Lameness is not a clinical finding for fibrous dysplasia whilst it is a most common clinical finding for Legg-Calvé-Perthes disease.
+Male is not a risk factor for fibrous dysplasia whilst it is a strongly associated risk factor for Legg-Calvé-Perthes disease and child is a commonly associated risk factor for fibrous dysplasia whilst it is a strongly associated risk factor for Legg-Calvé-Perthes disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.054" element_id="http://emmet.elsevier.com#Concept-3816344" element_label="neurofibromatosis type I">
+        <explanation>Lameness is not a clinical finding for neurofibromatosis type I whilst it is a most common clinical finding for Legg-Calvé-Perthes disease.
+Male is not a risk factor for neurofibromatosis type I whilst it is a strongly associated risk factor for Legg-Calvé-Perthes disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.042" element_id="http://emmet.elsevier.com#Concept-5346381" element_label="back pain">
+        <explanation>Lameness is not a clinical finding for back pain whilst it is a most common clinical finding for Legg-Calvé-Perthes disease.
+Male is not a risk factor for back pain whilst it is a strongly associated risk factor for Legg-Calvé-Perthes disease and child is a rarely associated risk factor for back pain whilst it is a strongly associated risk factor for Legg-Calvé-Perthes disease.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.044" element_id="http://emmet.elsevier.com#Concept-8122015" element_label="epicondylitis">
+        <explanation>Lameness is not a clinical finding for epicondylitis whilst it is a most common clinical finding for Legg-Calvé-Perthes disease.
+Male is a sometimes associated risk factor for epicondylitis whilst it is a strongly associated risk factor for Legg-Calvé-Perthes disease and child is not a risk factor for epicondylitis whilst it is a strongly associated risk factor for Legg-Calvé-Perthes disease.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.064" question_difficulty="0.199" question_id="-1878599236" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>An adolescent patient presents with extension based back pain. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9783727" element_label="extension based back pain" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8112460" element_label="child" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114759" element_label="adolescent" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8107478" element_label="spondylolisthesis" primary="true">
+        <explanation>Extension based back pain is a common clinical finding  for spondylolisthesis.
+Adolescent is a commonly associated risk factor for spondylolisthesis and child is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-8100923" element_label="radial head subluxation">
+        <explanation>Extension based back pain is not a clinical finding for radial head subluxation whilst it is a common clinical finding for spondylolisthesis.
+Adolescent is not a risk factor for radial head subluxation whilst it is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.208" element_id="http://emmet.elsevier.com#Concept-8115083" element_label="acute low back pain">
+        <explanation>.
+Adolescent is not a risk factor for acute low back pain whilst it is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-8107633" element_label="fibrous dysplasia">
+        <explanation>Extension based back pain is not a clinical finding for fibrous dysplasia whilst it is a common clinical finding for spondylolisthesis.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-8109457" element_label="slipped upper femoral epiphysis">
+        <explanation>Extension based back pain is not a clinical finding for slipped upper femoral epiphysis whilst it is a common clinical finding for spondylolisthesis.
+Child is not a risk factor for slipped upper femoral epiphysis whilst it is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.012" question_difficulty="0.131" question_id="-188669522" source="MCQGController Test" stem_difficulty="0.25" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient with a history of Hill-Sachs lesion presents with nerve injury and asthenia. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8121001" element_label="nerve injury" rank="8.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8107347" element_label="asthenia" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8824853" element_label="Hill-Sachs lesion" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-3815709" element_label="shoulder dislocation" primary="true">
+        <explanation>Nerve injury is sometimes a clincial finding  for shoulder dislocation and asthenia is a common clinical finding  for shoulder dislocation.
+Hill-Sachs lesion is a strongly associated risk factor for shoulder dislocation.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-8115083" element_label="acute low back pain">
+        <explanation>Nerve injury is not a clinical finding for acute low back pain whilst it is sometimes a clincial finding for shoulder dislocation.
+Hill-Sachs lesion is not a risk factor for acute low back pain whilst it is a strongly associated risk factor for shoulder dislocation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-2796162" element_label="complex regional pain syndrome">
+        <explanation>Nerve injury is not a clinical finding for complex regional pain syndrome whilst it is sometimes a clincial finding for shoulder dislocation.
+Hill-Sachs lesion is not a risk factor for complex regional pain syndrome whilst it is a strongly associated risk factor for shoulder dislocation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-8122015" element_label="epicondylitis">
+        <explanation>Nerve injury is not a clinical finding for epicondylitis whilst it is sometimes a clincial finding for shoulder dislocation.
+Hill-Sachs lesion is not a risk factor for epicondylitis whilst it is a strongly associated risk factor for shoulder dislocation.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.01" question_difficulty="0.06" question_id="-2041124775" source="MCQGController Test" stem_difficulty="0.111" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A 16 month old female whose pediatric body mass index is greater than or equal to the 95th percentile and weight is in the 75th percentile presents with decreased passive range of elbow supination and arm pain. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8894435" element_label="decreased passive range of elbow supination" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114991" element_label="arm pain" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9774185" element_label="pediatric body mass index greater than or equal to 95th percentile for age" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8893213" element_label="child weight is 75th centile" rank="10.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8100923" element_label="radial head subluxation" primary="true">
+        <explanation>Decreased passive range of elbow supination is a most common clinical finding  for radial head subluxation and arm pain is a most common clinical finding  for radial head subluxation.
+Pediatric body mass index greater than or equal to 95th percentile for age is a commonly associated risk factor for radial head subluxation, child weight is 75th centile is a strongly associated risk factor for radial head subluxation and female is a commonly associated risk factor for radial head subluxation.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.063" element_id="http://emmet.elsevier.com#Concept-2791891" element_label="poliomyelitis">
+        <explanation>Decreased passive range of elbow supination is not a clinical finding for poliomyelitis whilst it is a most common clinical finding for radial head subluxation and arm pain is a common clinical finding for poliomyelitis whilst it is a most common clinical finding for radial head subluxation.
+Pediatric body mass index greater than or equal to 95th percentile for age is not a risk factor for poliomyelitis whilst it is a commonly associated risk factor for radial head subluxation and child weight is 75th centile is not a risk factor for poliomyelitis whilst it is a strongly associated risk factor for radial head subluxation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.053" element_id="http://emmet.elsevier.com#Concept-4806412" element_label="lateral epicondylitis">
+        <explanation>Decreased passive range of elbow supination is not a clinical finding for lateral epicondylitis whilst it is a most common clinical finding for radial head subluxation and arm pain is sometimes a clincial finding for lateral epicondylitis whilst it is a most common clinical finding for radial head subluxation.
+Pediatric body mass index greater than or equal to 95th percentile for age is not a risk factor for lateral epicondylitis whilst it is a commonly associated risk factor for radial head subluxation, child weight is 75th centile is not a risk factor for lateral epicondylitis whilst it is a strongly associated risk factor for radial head subluxation and female is a sometimes associated risk factor for lateral epicondylitis whilst it is a commonly associated risk factor for radial head subluxation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.057" element_id="http://emmet.elsevier.com#Concept-2791023" element_label="carpal tunnel syndrome">
+        <explanation>Decreased passive range of elbow supination is not a clinical finding for carpal tunnel syndrome whilst it is a most common clinical finding for radial head subluxation and arm pain is sometimes a clincial finding for carpal tunnel syndrome whilst it is a most common clinical finding for radial head subluxation.
+Pediatric body mass index greater than or equal to 95th percentile for age is not a risk factor for carpal tunnel syndrome whilst it is a commonly associated risk factor for radial head subluxation and child weight is 75th centile is not a risk factor for carpal tunnel syndrome whilst it is a strongly associated risk factor for radial head subluxation.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.02" question_difficulty="0.01" question_id="-245780405" source="MCQGController Test" stem_difficulty="0.0" template_id="q4">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A 17 year old patient presents with aortic dissection. What is the most likely clinical finding?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-5348462" element_label="chest pain" primary="true">
+        <explanation>Chest pain is a most common clinical finding for aortic dissection in  a patient</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-8247718" element_label="olecranon bursitis">
+        <explanation>Chest pain is a most common clinical finding for aortic dissection in  a patient whilst olecranon bursitis is not a clinical finding for aortic dissection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-3815337" element_label="hemoptysis">
+        <explanation>Chest pain is a most common clinical finding for aortic dissection in  a patient whilst hemoptysis is a rare clinical finding for aortic dissection in  a patient</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-3816209" element_label="lumbalgia">
+        <explanation>Chest pain is a most common clinical finding for aortic dissection in  a patient whilst lumbalgia is a common clinical finding for aortic dissection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-8101830" element_label="dysphagia">
+        <explanation>Chest pain is a most common clinical finding for aortic dissection in  a patient whilst dysphagia is sometimes a clincial finding for aortic dissection</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.021" question_difficulty="0.344" question_id="-485266509" source="MCQGController Test" stem_difficulty="0.667" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with alcohol withdrawal. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791096" element_label="clonidine" primary="true">
+        <explanation>Clonidine is a 3rd line medication for alcohol withdrawal</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2792690" element_label="raloxifene">
+        <explanation>Clonidine is a 3rd line medication for alcohol withdrawal whilst raloxifene is not a medication for alcohol withdrawal</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2791175" element_label="desipramine">
+        <explanation>Clonidine is a 3rd line medication for alcohol withdrawal whilst desipramine is not a medication for alcohol withdrawal</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-2791104" element_label="codeine">
+        <explanation>Clonidine is a 3rd line medication for alcohol withdrawal whilst codeine is not a medication for alcohol withdrawal</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.073" element_id="http://emmet.elsevier.com#Concept-8128131" element_label="alendronate/cholecalciferol">
+        <explanation>Clonidine is a 3rd line medication for alcohol withdrawal whilst alendronate/cholecalciferol is not a medication for alcohol withdrawal</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.043" question_difficulty="0.188" question_id="-639113721" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>An adolescent patient presents with extension based back pain. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9783727" element_label="extension based back pain" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8114759" element_label="adolescent" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8107478" element_label="spondylolisthesis" primary="true">
+        <explanation>Extension based back pain is a common clinical finding  for spondylolisthesis.
+Adolescent is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-8115083" element_label="acute low back pain">
+        <explanation>.
+Adolescent is not a risk factor for acute low back pain whilst it is a commonly associated risk factor for spondylolisthesis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-3816344" element_label="neurofibromatosis type I">
+        <explanation>Extension based back pain is not a clinical finding for neurofibromatosis type I whilst it is a common clinical finding for spondylolisthesis.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-8107633" element_label="fibrous dysplasia">
+        <explanation>Extension based back pain is not a clinical finding for fibrous dysplasia whilst it is a common clinical finding for spondylolisthesis.
+.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.104" element_id="http://emmet.elsevier.com#Concept-8109457" element_label="slipped upper femoral epiphysis">
+        <explanation>Extension based back pain is not a clinical finding for slipped upper femoral epiphysis whilst it is a common clinical finding for spondylolisthesis.
+.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.005" question_difficulty="0.003" question_id="113842132" source="MCQGController Test" stem_difficulty="0.0" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient with a history of autosomal dominant inheritance presents with rhizomelia. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9781122" element_label="rhizomelia" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8107756" element_label="autosomal dominant inheritance" rank="10.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790802" element_label="achondroplasia" primary="true">
+        <explanation>Rhizomelia is a most common clinical finding  for achondroplasia.
+Autosomal dominant inheritance is a strongly associated risk factor for achondroplasia.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-3815371" element_label="developmental dysplasia of the hip">
+        <explanation>Rhizomelia is not a clinical finding for developmental dysplasia of the hip whilst it is a most common clinical finding for achondroplasia.
+Autosomal dominant inheritance is not a risk factor for developmental dysplasia of the hip whilst it is a strongly associated risk factor for achondroplasia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-2791023" element_label="carpal tunnel syndrome">
+        <explanation>Rhizomelia is not a clinical finding for carpal tunnel syndrome whilst it is a most common clinical finding for achondroplasia.
+Autosomal dominant inheritance is not a risk factor for carpal tunnel syndrome whilst it is a strongly associated risk factor for achondroplasia.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-3815218" element_label="fracture of neck of femur">
+        <explanation>Rhizomelia is not a clinical finding for fracture of neck of femur whilst it is a most common clinical finding for achondroplasia.
+Autosomal dominant inheritance is not a risk factor for fracture of neck of femur whilst it is a strongly associated risk factor for achondroplasia.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.022" question_difficulty="0.011" question_id="1313229501" source="MCQGController Test" stem_difficulty="0.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>An adult patient presents with bacterial meningitis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2790862" element_label="ampicillin" primary="true">
+        <explanation>Ampicillin is a best choice medication for bacterial meningitis in adult</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-2791008" element_label="carbamazepine">
+        <explanation>Ampicillin is a best choice medication for bacterial meningitis in adult whilst carbamazepine is not a medication for bacterial meningitis in adult</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2791057" element_label="chloramphenicol">
+        <explanation>Ampicillin is a best choice medication for bacterial meningitis in adult whilst chloramphenicol is a 3rd line medication for bacterial meningitis in adult</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-8128426" element_label="sulfamethoxazole/trimethoprim">
+        <explanation>Ampicillin is a best choice medication for bacterial meningitis in adult whilst sulfamethoxazole/trimethoprim is a 3rd line medication for bacterial meningitis in adult</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2791035" element_label="ceftazidime">
+        <explanation>Ampicillin is a best choice medication for bacterial meningitis in adult whilst ceftazidime is a 2nd line medication for bacterial meningitis in adult</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.026" question_difficulty="0.013" question_id="1458408602" source="MCQGController Test" stem_difficulty="0.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with MRSA infection. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791226" element_label="doxycycline" primary="true">
+        <explanation>Doxycycline is a best choice medication for MRSA infection</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-2791995" element_label="rifampin">
+        <explanation>Doxycycline is a best choice medication for MRSA infection whilst rifampin is a 2nd line medication for MRSA infection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-2791343" element_label="flurbiprofen">
+        <explanation>Doxycycline is a best choice medication for MRSA infection whilst flurbiprofen is not a medication for MRSA infection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.111" element_id="http://emmet.elsevier.com#Concept-8815463" element_label="ceftaroline">
+        <explanation>Doxycycline is a best choice medication for MRSA infection whilst ceftaroline is a 2nd line medication for MRSA infection</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.011" question_difficulty="0.172" question_id="1479252266" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A 13 year old patient with a family history of reiter syndrome presents with cervicalgia. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-3814912" element_label="cervicalgia" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9784491" element_label="family history of reiter syndrome" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792057" element_label="ankylosing spondylitis" primary="true">
+        <explanation>Cervicalgia is a common clinical finding  for ankylosing spondylitis.
+Family history of reiter syndrome is a commonly associated risk factor for ankylosing spondylitis.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-7996898" element_label="medial epicondylitis">
+        <explanation>Cervicalgia is not a clinical finding for medial epicondylitis whilst it is a common clinical finding for ankylosing spondylitis.
+Family history of reiter syndrome is not a risk factor for medial epicondylitis whilst it is a commonly associated risk factor for ankylosing spondylitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-3815976" element_label="plantar fasciitis">
+        <explanation>Cervicalgia is not a clinical finding for plantar fasciitis whilst it is a common clinical finding for ankylosing spondylitis.
+Family history of reiter syndrome is not a risk factor for plantar fasciitis whilst it is a commonly associated risk factor for ankylosing spondylitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-8315698" element_label="MRSA infection">
+        <explanation>Cervicalgia is not a clinical finding for MRSA infection whilst it is a common clinical finding for ankylosing spondylitis.
+Family history of reiter syndrome is not a risk factor for MRSA infection whilst it is a commonly associated risk factor for ankylosing spondylitis.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-8115083" element_label="acute low back pain">
+        <explanation>Cervicalgia is not a clinical finding for acute low back pain whilst it is a common clinical finding for ankylosing spondylitis.
+Family history of reiter syndrome is not a risk factor for acute low back pain whilst it is a commonly associated risk factor for ankylosing spondylitis.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.015" question_difficulty="0.174" question_id="294667532" source="MCQGController Test" stem_difficulty="0.333" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A 55 year old patient with a history of thiazide diuretic presents with fever and joint swelling. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5047360" element_label="fever" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5360642" element_label="joint swelling" rank="9.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8004441" element_label="thiazide diuretic" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791386" element_label="gout" primary="true">
+        <explanation>Fever is a common clinical finding  for gout and joint swelling is a common clinical finding  for gout.
+Thiazide diuretic is a commonly associated risk factor for gout.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.056" element_id="http://emmet.elsevier.com#Concept-2792669" element_label="autonomic dysreflexia">
+        <explanation>Fever is a rare clinical finding for autonomic dysreflexia whilst it is a common clinical finding for gout and joint swelling is not a clinical finding for autonomic dysreflexia whilst it is a common clinical finding for gout.
+Thiazide diuretic is not a risk factor for autonomic dysreflexia whilst it is a commonly associated risk factor for gout.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.069" element_id="http://emmet.elsevier.com#Concept-8315698" element_label="MRSA infection">
+        <explanation>Joint swelling is not a clinical finding for MRSA infection whilst it is a common clinical finding for gout.
+Thiazide diuretic is not a risk factor for MRSA infection whilst it is a commonly associated risk factor for gout.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.061" element_id="http://emmet.elsevier.com#Concept-2791891" element_label="poliomyelitis">
+        <explanation>Fever is sometimes a clincial finding for poliomyelitis whilst it is a common clinical finding for gout and joint swelling is not a clinical finding for poliomyelitis whilst it is a common clinical finding for gout.
+Thiazide diuretic is not a risk factor for poliomyelitis whilst it is a commonly associated risk factor for gout.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.061" element_id="http://emmet.elsevier.com#Concept-8247496" element_label="chronic osteomyelitis">
+        <explanation>Fever is sometimes a clincial finding for chronic osteomyelitis whilst it is a common clinical finding for gout and joint swelling is not a clinical finding for chronic osteomyelitis whilst it is a common clinical finding for gout.
+Thiazide diuretic is not a risk factor for chronic osteomyelitis whilst it is a commonly associated risk factor for gout.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.011" question_difficulty="0.005" question_id="504466766" source="MCQGController Test" stem_difficulty="0.0" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with osteoarthritis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2792083" element_label="sulindac" primary="true">
+        <explanation>Sulindac is a best choice medication for osteoarthritis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2791104" element_label="codeine">
+        <explanation>Sulindac is a best choice medication for osteoarthritis whilst codeine is a 3rd line medication for osteoarthritis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.062" element_id="http://emmet.elsevier.com#Concept-2792698" element_label="duloxetine">
+        <explanation>Sulindac is a best choice medication for osteoarthritis whilst duloxetine is a 3rd line medication for osteoarthritis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-2791192" element_label="dicloxacillin">
+        <explanation>Sulindac is a best choice medication for osteoarthritis whilst dicloxacillin is not a medication for osteoarthritis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.04" element_id="http://emmet.elsevier.com#Concept-2791447" element_label="hydralazine">
+        <explanation>Sulindac is a best choice medication for osteoarthritis whilst hydralazine is not a medication for osteoarthritis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.021" question_difficulty="0.177" question_id="652675894" source="MCQGController Test" stem_difficulty="0.333" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with dermatitis herpetiformis. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791124" element_label="cortisone" primary="true">
+        <explanation>Cortisone is a 2nd line medication for dermatitis herpetiformis</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2791175" element_label="desipramine">
+        <explanation>Cortisone is a 2nd line medication for dermatitis herpetiformis whilst desipramine is not a medication for dermatitis herpetiformis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.125" element_id="http://emmet.elsevier.com#Concept-2791105" element_label="colchicine">
+        <explanation>Cortisone is a 2nd line medication for dermatitis herpetiformis whilst colchicine is a 3rd line medication for dermatitis herpetiformis</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2791679" element_label="morphine">
+        <explanation>Cortisone is a 2nd line medication for dermatitis herpetiformis whilst morphine is not a medication for dermatitis herpetiformis</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.011" question_difficulty="0.172" question_id="856687648" source="MCQGController Test" stem_difficulty="0.333" template_id="q3">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A patient presents with post-operative surgical wound infection. What is the drug of choice?</questiontext>
+      <stemcomponents/>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-2791833" element_label="penicillin" primary="true">
+        <explanation>Penicillin is a 2nd line medication for post-operative surgical wound infection</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2791200" element_label="diflunisal">
+        <explanation>Penicillin is a 2nd line medication for post-operative surgical wound infection whilst diflunisal is not a medication for post-operative surgical wound infection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2791151" element_label="dactinomycin">
+        <explanation>Penicillin is a 2nd line medication for post-operative surgical wound infection whilst dactinomycin is not a medication for post-operative surgical wound infection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-2792446" element_label="buPROPion">
+        <explanation>Penicillin is a 2nd line medication for post-operative surgical wound infection whilst buPROPion is not a medication for post-operative surgical wound infection</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.052" element_id="http://emmet.elsevier.com#Concept-5344585" element_label="nonsteroidal anti-inflammatory drug">
+        <explanation>Penicillin is a 2nd line medication for post-operative surgical wound infection whilst nonsteroidal anti-inflammatory drug is not a medication for post-operative surgical wound infection</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+  <question author="Manchester Automated" distractor_difficulty="0.009" question_difficulty="0.088" question_id="913417450" source="MCQGController Test" stem_difficulty="0.167" template_id="q2">
+    <speciality element_id="http://emmet.elsevier.com#Concept-3807018" element_label="orthopedics"/>
+    <stem>
+      <questiontext>A 2 year old female whose pediatric body mass index is greater than or equal to the 95th percentile for her age presents with decreased passive range of elbow supination. 
+What is the most likely diagnosis?</questiontext>
+      <stemcomponents>
+        <stemcomponent oclass="http://emmet.elsevier.com#Symptoms" relation="http://emmet.elsevier.com#hasClinicalFinding">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-8894435" element_label="decreased passive range of elbow supination" rank="10.0"/>
+        </stemcomponent>
+        <stemcomponent oclass="http://emmet.elsevier.com#RiskFactors" relation="http://emmet.elsevier.com#hasRiskFactor">
+          <stemelement element_id="http://emmet.elsevier.com#Concept-9774185" element_label="pediatric body mass index greater than or equal to 95th percentile for age" rank="9.0"/>
+          <stemelement element_id="http://emmet.elsevier.com#Concept-5358111" element_label="female" rank="9.0"/>
+        </stemcomponent>
+      </stemcomponents>
+    </stem>
+    <keySet>
+      <key element_id="http://emmet.elsevier.com#Concept-8100923" element_label="radial head subluxation" primary="true">
+        <explanation>Decreased passive range of elbow supination is a most common clinical finding  for radial head subluxation.
+Pediatric body mass index greater than or equal to 95th percentile for age is a commonly associated risk factor for radial head subluxation and female is a commonly associated risk factor for radial head subluxation.</explanation>
+      </key>
+    </keySet>
+    <distractorSet>
+      <distractor distractor_difficulty="0.058" element_id="http://emmet.elsevier.com#Concept-3815218" element_label="fracture of neck of femur">
+        <explanation>Decreased passive range of elbow supination is not a clinical finding for fracture of neck of femur whilst it is a most common clinical finding for radial head subluxation.
+Pediatric body mass index greater than or equal to 95th percentile for age is not a risk factor for fracture of neck of femur whilst it is a commonly associated risk factor for radial head subluxation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.048" element_id="http://emmet.elsevier.com#Concept-2792057" element_label="ankylosing spondylitis">
+        <explanation>Decreased passive range of elbow supination is not a clinical finding for ankylosing spondylitis whilst it is a most common clinical finding for radial head subluxation.
+Pediatric body mass index greater than or equal to 95th percentile for age is not a risk factor for ankylosing spondylitis whilst it is a commonly associated risk factor for radial head subluxation and female is a rarely associated risk factor for ankylosing spondylitis whilst it is a commonly associated risk factor for radial head subluxation.</explanation>
+      </distractor>
+      <distractor distractor_difficulty="0.058" element_id="http://emmet.elsevier.com#Concept-2791023" element_label="carpal tunnel syndrome">
+        <explanation>Decreased passive range of elbow supination is not a clinical finding for carpal tunnel syndrome whilst it is a most common clinical finding for radial head subluxation.
+Pediatric body mass index greater than or equal to 95th percentile for age is not a risk factor for carpal tunnel syndrome whilst it is a commonly associated risk factor for radial head subluxation.</explanation>
+      </distractor>
+    </distractorSet>
+  </question>
+</questionset>
